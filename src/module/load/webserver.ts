@@ -42,6 +42,14 @@ app.addHook("preHandler", (request, reply, done) => {
             return;
         }
 
+        if (request.headers.authorization !== process.env.API_SECRET) {
+            reply.status(400).send({
+                status: 400,
+                message: WebserverEnum.INVALID_AUTHORIZATION
+            });
+            return;
+        }
+
     }
 
     done();
