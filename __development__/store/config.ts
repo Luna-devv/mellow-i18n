@@ -1,5 +1,5 @@
 import os from "node:os";
-const dev = true;
+const dev = process.platform === "win32";
 
 export default {
     dev,

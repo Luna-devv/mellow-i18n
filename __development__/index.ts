@@ -1,5 +1,3 @@
-import "./module/preload/env";
-
 import webserver from "./module/load/webserver";
 import { Config } from "./store";
 

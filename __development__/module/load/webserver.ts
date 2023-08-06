@@ -1,7 +1,6 @@
 import fastify, { FastifyReply, FastifyRequest } from "fastify";
 import path from "path";
 
-import { WebserverEnum } from "../../enum/webserver";
 import { Config } from "../../store";
 import { Route } from "../../typings";
 import walkAllDirs from "../walkAllDirs";
@@ -22,34 +21,6 @@ app.addHook("preHandler", (request, reply, done) => {
             message: `Invalid 'content-type' headers, got "${request.headers["content-type"]}" but expected"application/json"`
         });
         return;
-    }
-
-    if (request.url.split("/")[1].startsWith("v") && !isNaN(Number(request.url.split("/")[1].slice(1)))) {
-
-        if (Config.api.versions.deprecated.includes(parseInt(request.url.split("/")[1].slice(1)))) {
-            reply.status(400).send({
-                status: 400,
-                message: WebserverEnum.VERSION_DEPRECATED
-            });
-            return;
-        }
-
-        if (!Config.api.versions.allowed.includes(parseInt(request.url.split("/")[1].slice(1)))) {
-            reply.status(400).send({
-                status: 400,
-                message: WebserverEnum.VERSION_INVALID
-            });
-            return;
-        }
-
-        if (request.headers.authorization !== process.env.API_SECRET) {
-            reply.status(400).send({
-                status: 400,
-                message: WebserverEnum.INVALID_AUTHORIZATION
-            });
-            return;
-        }
-
     }
 
     done();
@@ -84,7 +55,7 @@ async function load() {
 }
 
 async function start(port: number) {
-    app.listen({ host: await Config.api.url, port }, (err, address) => {
+    app.listen({ host: Config.api.url, port }, (err, address) => {
         console.log(`Listening to ${address}`);
     });
 }

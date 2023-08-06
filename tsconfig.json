@@ -11,7 +11,7 @@
         "strict": true
     },
     "include": [
-        "src/**/*"
+        "__development__/**/*"
     ],
     "exclude": [
         "node_modules"
