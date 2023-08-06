@@ -1,8 +1,0 @@
-{
-    "error": "There was an error while generating the audio, please try again later.",
-    "novc": "You're not connected to any voice channels.",
-    "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
-    "playing": "New playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
-    "stopped": "Playback is terminated and reset.",
-    "web": "Change default voice & fileformat"
-}
