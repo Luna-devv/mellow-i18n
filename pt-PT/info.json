@@ -13,10 +13,10 @@
     "button": {
         "guildAvatar": "URL do Avatar por Servidor",
         "avatar": "URL do Avatar",
-        "banner": "Banner URL"
+        "banner": "URL do banner"
     },
     "likes": {
-        "add": "Like",
+        "add": "Gosto",
         "remove": "Remove Like",
         "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
         "removed": "You no longer like {user}'s profile.",
