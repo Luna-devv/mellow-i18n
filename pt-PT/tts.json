@@ -4,5 +4,5 @@
     "alreadyplaying": "Espera até que o áudio de {user} termine de tocar, usa {command} se estiver preso.",
     "playing": "Nova reprodução em {channel} durante {time} [singular=\"segundo\" plural=\"segundos\"].",
     "stopped": "A reprodução foi terminada e reiniciada.",
-    "web": "Change default voice & fileformat"
+    "web": "Altere a voz e o formato de ficheiro predefinido"
 }
