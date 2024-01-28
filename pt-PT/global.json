@@ -1,6 +1,6 @@
 {
-    "noguild": "This command cannot be used inside of private messages.",
-    "userdisabled": "You have been disabled.",
+    "noguild": "Este comando não pode ser utilizado em mensagens privadas.",
+    "userdisabled": "Foste desativado.",
     "botmention": "Hey {user}, use **{emote} SlashCommands** to set me up!\nUse {command} for more informations.",
     "error": "An error occurred while executing this command.",
     "premium": {
@@ -30,30 +30,30 @@
                 },
                 "role": {
                     "text": "You cannot perform this action since your highest role is lower than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "user": "Cargo: {u.role} @ índice {u.index}",
+                    "you": "Você: {y.role} @ índice {y.index}"
                 }
             }
         },
         "me": {
-            "guild": "I cannot run this action since I'm missing the {perms} permissions.",
-            "channel": "I cannot run this action since I'm missing the {perms} permissions in this channel.",
+            "guild": "Não posso executar esta ação porque não tenho as permissões {perms}.",
+            "channel": "Não posso executar esta ação porque não tenho as permissões {perms} neste canal.",
             "roles": {
                 "user": {
-                    "text": "I cannot perform this action since the highest role of that user is higher than mine.",
-                    "user": "User: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "text": "Eu não posso executar essa ação, uma vez que o maior cargo desse usuário é maior que o meu.",
+                    "user": "Utilizador: {u.role} @ índice {u.index}",
+                    "bot": "Eu: {b.role} @ índice {b.index}"
                 },
                 "role": {
                     "text": "I cannot perform this action since my highest role is higher than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "user": "Cargo: {u.role} @ índice {u.index}",
+                    "bot": "Eu: {b.role} @ índice {b.index}"
                 }
             }
         }
     },
     "ad": {
-        "vote": "Please help us at {url}, only takes a few seconds",
-        "invite": "[Add {bot}]({url}) to your server"
+        "vote": "Por favor, ajude-nos em {url}, demora apenas alguns segundos",
+        "invite": "[Adicionar {bot}]({url}) ao seu servidor"
     }
 }
