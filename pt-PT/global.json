@@ -1,35 +1,35 @@
 {
     "noguild": "Este comando não pode ser utilizado em mensagens privadas.",
     "userdisabled": "Foste desativado.",
-    "botmention": "Hey {user}, use **{emote} SlashCommands** to set me up!\nUse {command} for more informations.",
-    "error": "An error occurred while executing this command.",
+    "botmention": "Olá {user}, usa **{emote} SlashCommands** para me preparar!\nUsa {command} para mais informações.",
+    "error": "Ocorreu um erro durante a execução deste comando.",
     "premium": {
-        "required": "subscription required",
+        "required": "subscrição necessária",
         "embeds": {
-            "title": "Sorry but Subscription is required",
-            "limittitle": "Sorry but the Subscriptions limit was reached",
-            "description": "In order we can provide a stable bot and money doesn't grow on trees, we have to lock non essential features behind a Subscription."
+            "title": "Desculpe, mas subscrição é necessária",
+            "limittitle": "Desculpe, mas o limite de subscrições foi atingido",
+            "description": "Para podermos fornecer um bot estável e o dinheiro não cresce nas árvores, temos de bloquear as funcionalidades não essenciais atrás de uma Subscrição."
         },
         "button": {
-            "subscribe": "Subscribe"
+            "subscribe": "Subscreva"
         }
     },
     "button": {
-        "add": "Add {name}",
-        "support": "Support"
+        "add": "Adicionar {name}",
+        "support": "Suporte"
     },
     "permissions": {
         "user": {
-            "guild": "You cannot run this action since you're missing the {perms} permissions.",
-            "channel": "You cannot run this action since you're missing the {perms} permissions in this channel.",
+            "guild": "Não é possível executar esta ação porque não tem as permissões {perms}.",
+            "channel": "Não pode executar esta ação porque não tem as permissões {perms} neste canal.",
             "roles": {
                 "user": {
-                    "text": "You cannot perform this action since the highest role of that user is higher than yours.",
-                    "user": "User: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "text": "Não pode executar esta ação, pois o cargo mais alto desse utilizador é superior ao seu.",
+                    "user": "Utilizador: {u.role} @ índice {u.index}",
+                    "you": "Você: {y.role} @ índice {y.index}"
                 },
                 "role": {
-                    "text": "You cannot perform this action since your highest role is lower than the role to manage.",
+                    "text": "Não é possível executar esta ação, pois o seu cargo mais alto é inferior ao cargo para gerir.",
                     "user": "Cargo: {u.role} @ índice {u.index}",
                     "you": "Você: {y.role} @ índice {y.index}"
                 }
@@ -45,7 +45,7 @@
                     "bot": "Eu: {b.role} @ índice {b.index}"
                 },
                 "role": {
-                    "text": "I cannot perform this action since my highest role is higher than the role to manage.",
+                    "text": "Eu não posso executar essa ação, uma vez que o meu maior cargo é superior ao cargo de gerir.",
                     "user": "Cargo: {u.role} @ índice {u.index}",
                     "bot": "Eu: {b.role} @ índice {b.index}"
                 }
