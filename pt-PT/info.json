@@ -17,9 +17,9 @@
     },
     "likes": {
         "add": "Gosto",
-        "remove": "Remove Like",
-        "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
-        "removed": "You no longer like {user}'s profile.",
-        "dm": "{emote} Congratulations, {name}!\n\nWe have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
+        "remove": "Remover o Gosto",
+        "added": "Gostou do perfil de {user}, que agora tem {num} [singular=\"gosto\" plural=\"gostos\"].",
+        "removed": "Já não gosta do perfil de {user}.",
+        "dm": "{emote} Parabéns, {name}!\n\nTemos notícias fantásticas para partilhar convosco! O perfil do teu {bot} atingiu um incrível {num} de gostos! É óbvio que estás a fazer alguma coisa bem, porque as pessoas não se fartam de ti!\n\nPor isso, vamos manter o ritmo e espalhar o amor! Diz a toda a gente para convidar o {bot} enviando-lhe o {link} e certifica-te de que usas o {command} seguido do teu nome de utilizador para fazeres um 💖 ao teu perfil!\n\nObrigado por seres uma parte tão fantástica da nossa comunidade!\n\nObrigado,\n{bot} "
     }
 }
