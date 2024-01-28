@@ -1,6 +1,6 @@
 {
-    "error": "There was an error while generating the audio, please try again later.",
-    "novc": "You're not connected to any voice channels.",
+    "error": "Houve um erro ao gerar o áudio, por favor, tente novamente mais tarde.",
+    "novc": "Você não está conectado a nenhum canal de voz.",
     "alreadyplaying": "Espera até que o áudio de {user} termine de tocar, usa {command} se estiver preso.",
     "playing": "Nova reprodução em {channel} durante {time} [singular=\"segundo\" plural=\"segundos\"].",
     "stopped": "A reprodução foi terminada e reiniciada.",
