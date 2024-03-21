@@ -1,0 +1,8 @@
+version: '3'
+services:
+  waya:
+    container_name: mw-i18n
+    image: mw-i18n
+    ports:
+      - "3000:7002"
+    restart: unless-stopped

@@ -1,14 +1,16 @@
 {
     "noguild": "This command cannot be used inside of private messages.",
     "userdisabled": "You have been disabled.",
-    "botmention": "Hey {user}, use **{emote} SlashCommands** to set me up!\nUse {command} for more informations.",
-    "error": "An error occurred while executing this command.",
+    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled",
+    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
+    "none": "none",
+    "error": "Something went wrong, please try again later.",
     "premium": {
         "required": "subscription required",
         "embeds": {
             "title": "Sorry but Subscription is required",
             "limittitle": "Sorry but the Subscriptions limit was reached",
-            "description": "In order we can provide a stable bot and money doesn't grow on trees, we have to lock non essential features behind a Subscription."
+            "description": "In order I can provide a stable bot and money doesn't grow on trees, I have to lock non essential features behind a Subscription."
         },
         "button": {
             "subscribe": "Subscribe"
@@ -16,7 +18,9 @@
     },
     "button": {
         "add": "Add {name}",
-        "support": "Support"
+        "support": "Support",
+        "vote": "Vote for {name}",
+        "voteSkip": "Support us to skip voting"
     },
     "permissions": {
         "user": {
@@ -55,5 +59,12 @@
     "ad": {
         "vote": "Please help us at {url}, only takes a few seconds",
         "invite": "[Add {bot}]({url}) to your server"
+    },
+    "nsfw": {
+        "title": "NSFW response detected",
+        "description": {
+            "1": "You cannot view NSFW content in a non-NSFW marked channel.",
+            "2": "Either mark the this channel as NSFW or create a new channel and mark it as NSFW."
+        }
     }
 }

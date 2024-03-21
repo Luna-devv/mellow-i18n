@@ -1,0 +1,9 @@
+{
+    "logging": {
+        "account": "User: {var}",
+        "joined": "Joined: {var}",
+        "created": "Created: {var}",
+        "attempts": "Attemts: {num} [singular=\"try\" plural=\"tries\"]",
+        "reason": "Reason:\n```{var}```"
+    }
+}
