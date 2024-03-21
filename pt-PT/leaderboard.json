@@ -1,6 +1,6 @@
 {
-    "messages": "Placar de mensagens",
-    "voiceminutes": "Placar de voz",
-    "invites": "Placar de convites",
-    "web": "Ver o placar da web"
+    "messages": "Message leaderboard",
+    "voiceminutes": "Voice leaderboard",
+    "invites": "Invite leaderboard",
+    "web": "View the web leaderboard"
 }
