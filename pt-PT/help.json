@@ -1,7 +1,6 @@
 {
-    "footer": "Atenção: esta é uma versão alfa inicial do bot e do website!",
+    "footer": "Please note that this is an early alpha version of the bot and the website!",
     "button": {
-        "dashboard": "Painel de Controlo",
-        "support": "Suporte"
+        "dashboard": "Web Dashboard"
     }
 }
