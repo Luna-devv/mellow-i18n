@@ -1,8 +1,8 @@
 {
     "error": {
-        "config": "O Starboard não está configurado neste servidor, [configuração starboard]({url}) no painel de controlo.",
-        "content": "Esta mensagem não tem qualquer conteúdo, anexos, incorporações ou autocolantes.",
-        "alreadyexists": "Esta mensagem está pronta a ser enviada para a Starboard, [saltar para a mensagem]({url})!"
+        "config": "Starboard is not setup in this guild, [setup starboard]({url}) in the dashboard.",
+        "content": "This message does not have any content, attachments, embeds or stickers.",
+        "alreadyexists": "This message is a;ready in the starboard, [jump to message]({url})!"
     },
-    "success": "A mensagem foi enviada com sucesso para o {channel}."
+    "success": "Message has been successfully beamed to the {channel}."
 }
