@@ -1,45 +1,45 @@
 {
     "vote": {
-        "title": "Vote to continue using free AI",
+        "title": "Vote, um die KI weiterhin kostenlos zu nutzen",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "{command} Ai Generation wächst nicht auf Bäumen! Unterstütze uns mit einem [schnellen Vote auf top.gg]({url}), es ermöglicht anderen, {name} leichter zu finden, vielen Dank für deine Unterstützung!",
+            "2": "Wenn du für mich Votest, kannst du so viele AI-Bilder generieren, wie du möchtest für die nächsten 12 Stunden!"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "Mögliche illegale Inhalte",
         "description": {
-            "1": "I have detected possible illegal content in your query, please refrain from using it.",
-            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+            "1": "Ich habe mögliche illegale Inhalte in deiner Query gefunden, bitte verzichte darauf, diese zu verwenden.",
+            "2": "Wenn du glaubst, dass dies ein Fehler ist, melde es bitte auf unserem [Support Server]({url}), danke."
         }
     },
     "better_query": {
-        "title": "Write better queries",
+        "title": "Bessere Queries schreiben",
         "description": {
-            "1": "The quality of the result improves as you provide more detailes for both the query and negative queries.",
-            "2": "You can just copy the example shown above to your clipboard and play around with it's query.",
-            "3": "Note that not every model is good for everything, so you might want to use for example `Anime ..` for anime related queries.",
-            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+            "1": "Die Qualität des Ergebnisses verbessert sich, wenn mehr Details sowohl für die Query als auch für negative Query stellen.",
+            "2": "Du kannst einfach das obige Beispiel einfach in die Zwischenablage kopieren und mit der Query herumspielen.",
+            "3": "Beachte, dass nicht jedes Modell gut für alles ist, daher solltest du zum Beispiel `Anime ..` nur für Anime bezogene Queries verwenden.",
+            "4": "Ja, ich kann NSFW-Inhalte generieren, kann aber nur innerhalb von [NSFW markierten Channels]({url})."
         }
     },
     "model": {
-        "title": "Invalid model selected",
+        "title": "Ungültiges Modell ausgewählt",
         "description": {
             "//": "or [set a default model]({url})",
-            "1": "The model you selected does not exist, please use the autocomplete options.",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Das ausgewählte Modell existiert nicht, bitte verwende die Auto-Vervollständigungsoptionen.",
+            "2": "Wenn dies weiterhin geschieht, frag bitte in unserem [Support Server]({url}), danke."
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Beim Generieren ist ein Fehler aufgetreten",
         "description": {
-            "1": "Lorem impsum.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "1": "Lorem ipsum.",
+            "2": "Wenn du denkst, dass dies ein Fehler ist, melde ihn bitte auf unserem [Support Server]({url}), es tut uns leid."
         }
     },
     "button": {
-        "regenerate": "Regenerate",
-        "once": "This message is only shown once",
-        "selenite": "Get Gemini chat bot"
+        "regenerate": "Regenerieren",
+        "once": "Diese Nachricht wird nur einmal angezeigt",
+        "selenite": "Bekomme einen Gemini chat bot"
     }
 }
