@@ -1,6 +1,6 @@
 {
     "button": {
-        "showMore": "Show more {type}s",
-        "dm": "Save to DM"
+        "showMore": "Mehr {type}s zeigen",
+        "dm": "In PNs speichern"
     }
 }
