@@ -1,6 +1,6 @@
 {
-    "messages": "Message leaderboard",
-    "voiceminutes": "Voice leaderboard",
-    "invites": "Invite leaderboard",
-    "web": "View the web leaderboard"
+    "messages": "Nachrichten Leaderboard",
+    "voiceminutes": "Sprachchat Leaderboard",
+    "invites": "Invite Leaderboard",
+    "web": "Leaderboard im web anzeigen"
 }
