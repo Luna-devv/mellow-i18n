@@ -13,7 +13,7 @@
         "none": "Keine Pronomen ausgewählt"
     },
     "button": {
-        "guildAvatar": "Pro-Server Avatar",
+        "guildAvatar": "Per-Guild Avatar",
         "avatar": "Avatar",
         "banner": "Banner"
     },
@@ -22,6 +22,6 @@
         "remove": "\"Gefällt mir\" entfernen",
         "added": "Dir gefällt das Profil von {user}, es hat nun {num} [singular=\"Like\" plural=\"Likes\"].",
         "removed": "Dir gefällt das Profil von {user} nicht mehr.",
-        "dm": "{emote} Glückwunsch, {name}!\n\nWir haben einige fantastische Neuigkeiten mit dir zu teilen! Dein {bot} Profil hat unglaubliche {num} Likes! Du machst eindeutig etwas richtig, weil die Leute einfach nicht genug von dir bekommen!\n\nAlso lass uns den Schwung halten und die Liebe verbreiten! Sag allen {bot} einzuladen, indem du ihnen {link} schickst und stelle sicher, dass du {command} gefolgt von deinem Benutzernamen um dein Profiel zu Herzen 💖!\n\nVielen Dank, dass du ein so fantastischer Teil unserer Community bist!\n\nGrüße,\n{bot} "
+        "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
     }
 }
