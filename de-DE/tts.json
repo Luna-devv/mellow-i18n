@@ -28,17 +28,19 @@
         }
     },
     "button": {
-        "changeSpeaker": "Änder die Standardstimme"
-    },
-    "uploadError": {
-        "cdn": "There was an error while registering the file in the CDN, please try again later.",
-        "upload": "There was an error while uploading the file to the CDN, please try again later.",
-        "send": "There was an error while sending the voice message, please try again later."
+        "changeSpeaker": "Änder die Standardstimme",
+        "invite_tts": "Get a 2nd Text to Speech Bot for Voice Chats"
     },
     "novc": "Du bist mit keinem Sprachkanal verbunden.",
+    "toolong": "Your message exceeds the server's limit with {count} characters. The maximum allowed is {max}.",
     "alreadyplaying": "Warte, bis die Audio von {user} abgespielt ist, verwende {command} wenn dies feststeckt.",
     "playing": "Spielt jetzt in {channel} für {time} [singular=\"sekunde\" plural=\"sekunden\"].",
-    "setdefaultvoice": "Die Standardstimme ist nun {voice}.",
+    "set_default_voice": "The default voice is now set to {voice}.",
+    "set_cts": {
+        "enabled": "Chat to Speech has been enabled.",
+        "disabled": "Chat to SPeech has been disabled.",
+        "note": "This change only applies to you, globally in every guild."
+    },
     "stopped": "Die Wiedergabe wurde beendet und zurückgesetzt.",
     "web": "Standardsprache & Dateiformat ändern"
 }
