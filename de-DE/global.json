@@ -1,70 +1,70 @@
 {
-    "noguild": "This command cannot be used inside of private messages or in user-installed space.",
-    "userdisabled": "You can no longer use this bot, your account has been disabled.",
-    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
-    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
+    "noguild": "Dieser Befehl kann nicht innerhalb von privaten Nachrichten oder im vom Benutzer installierten Umgebung verwendet werden.",
+    "userdisabled": "Du kannst diesen Bot nicht mehr verwenden, dein Account wurde deaktiviert.",
+    "dmdisabled": "Die Nachricht konnte dir nicht gesendet werden, deine Direktnachrichten scheinen deaktiviert zu sein.",
+    "botmention": "Hey {user}, benutze **{emote} SlashCommands** um mich zu nutzen!\nNutze {command} für weitere Informationen.",
     "none": "keine",
-    "error": "Something went wrong, please try again later.",
+    "error": "Etwas ist schief gelaufen, bitte versuche es später nochmal.",
     "premium": {
-        "required": "subscription required",
+        "required": "abo erforderlich",
         "embeds": {
-            "title": "Sorry but Subscription is required",
-            "limittitle": "Sorry but the Subscriptions limit was reached",
-            "description": "In order I can provide a stable bot and money doesn't grow on trees, I have to lock non essential features behind a Subscription."
+            "title": "Entschuldigung, aber Abonnement ist erforderlich",
+            "limittitle": "Entschuldigung, aber das Abonnementlimit wurde erreicht",
+            "description": "Damit ich einen stabilen Bot zur Verfügung stellen können und Geld nicht auf Bäumen wächst, muss ich nicht wesentliche Funktionen hinter einem Abonnement sperren."
         },
         "button": {
-            "subscribe": "Subscribe"
+            "subscribe": "Abonnieren"
         }
     },
     "button": {
-        "add": "Add {name}",
+        "add": "{name} Einladen",
         "support": "Support",
-        "vote": "Vote for {name}",
-        "voteSkip": "Support us to skip voting"
+        "vote": "Für {name} voten",
+        "voteSkip": "Unterstütze uns, um das Voten zu überspringen"
     },
     "permissions": {
         "user": {
-            "guild": "You cannot run this action since you're missing the {perms} permissions.",
-            "channel": "You cannot run this action since you're missing the {perms} permissions in this channel.",
+            "guild": "Du kannst diese Aktion nicht ausführen, da dir die {perms} Berechtigungen fehlen.",
+            "channel": "Du kannst diese Aktion nicht ausführen, da dir die {perms} Berechtigungen in diesem Kanal fehlen.",
             "roles": {
                 "user": {
-                    "text": "You cannot perform this action since the highest role of that user is higher than yours.",
+                    "text": "Du kannst diese Aktion nicht ausführen, da die höchste Rolle von diesem User höher als deine ist.",
                     "user": "User: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "you": "Du: {y.role} @ index {y.index}"
                 },
                 "role": {
-                    "text": "You cannot perform this action since your highest role is lower than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "text": "Du kannst diese Aktion nicht ausführen da deine höchste Rolle unter der zu bearbeitenden Rolle ist.",
+                    "user": "Rolle: {u.role} @ index {u.index}",
+                    "you": "Du: {y.role} @ index {y.index}"
                 }
             }
         },
         "me": {
-            "guild": "I cannot run this action since I'm missing the {perms} permissions.",
-            "channel": "I cannot run this action since I'm missing the {perms} permissions in this channel.",
+            "guild": "Ich kann diese Aktion nicht ausführen, da mir die {perms} Berechtigungen fehlen.",
+            "channel": "Ich kann diese Aktion nicht ausführen, da mir die {perms} Berechtigungen in diesem Kanal fehlen.",
             "roles": {
                 "user": {
-                    "text": "I cannot perform this action since the highest role of that user is higher than mine.",
+                    "text": "Ich kann diese Aktion nicht ausführen, da die höchste Rolle von dem User höher als meine ist.",
                     "user": "User: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "bot": "Ich: {b.role} @ index {b.index}"
                 },
                 "role": {
-                    "text": "I cannot perform this action since my highest role is higher than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "text": "Ich kann diese Aktion nicht ausführen, da meine höchste Rolle unter der zu bearbeitenden Rolle ist.",
+                    "user": "Rolle: {u.role} @ index {u.index}",
+                    "bot": "Ich: {b.role} @ index {b.index}"
                 }
             }
         }
     },
     "ad": {
-        "vote": "Please help us at {url}, only takes a few seconds",
-        "invite": "[Add {bot}]({url}) to your server"
+        "vote": "Bitte hilf uns auf {url}, dauert nur ein paar Sekunden",
+        "invite": "[Füge {bot}]({url}) zu deinem Server hinzu"
     },
     "nsfw": {
-        "title": "NSFW (Adult 18+) response detected",
+        "title": "NSFW (Erwachsene 18+) Antwort erkannt",
         "description": {
-            "1": "You cannot view NSFW content in a SFW marked channel.",
-            "2": "Either mark the this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+            "1": "NSFW-Inhalte können nicht in einem SFW markierten Kanal angezeigt werden.",
+            "2": "Entweder markiere diesen Kanal als Altersbegrenzt, oder erstelle einen neuen Kanal und markieren denen als Altersbegrenzt."
         }
     }
 }
