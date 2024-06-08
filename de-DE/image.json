@@ -1,0 +1,45 @@
+{
+    "vote": {
+        "title": "Vote, um die KI weiterhin kostenlos zu nutzen",
+        "description": {
+            "1": "{command} Ai Generation wächst nicht auf Bäumen! Unterstütze uns mit einem [schnellen Vote auf top.gg]({url}), es ermöglicht anderen, {name} leichter zu finden, vielen Dank für deine Unterstützung!",
+            "2": "Wenn du für mich Votest, kannst du so viele AI-Bilder generieren, wie du möchtest für die nächsten 12 Stunden!"
+        }
+    },
+    "illegal": {
+        "title": "Mögliche illegale Inhalte",
+        "description": {
+            "1": "Ich habe mögliche illegale Inhalte in deiner Query gefunden, bitte verzichte darauf, diese zu verwenden.",
+            "2": "Wenn du glaubst, dass dies ein Fehler ist, melde es bitte auf unserem [Support Server]({url}), danke."
+        }
+    },
+    "better_query": {
+        "title": "Bessere Queries schreiben",
+        "description": {
+            "1": "Die Qualität des Ergebnisses verbessert sich, wenn mehr Details sowohl für die Query als auch für negative Query stellen.",
+            "2": "Du kannst einfach das obige Beispiel einfach in die Zwischenablage kopieren und mit der Query herumspielen.",
+            "3": "Beachte, dass nicht jedes Modell gut für alles ist, daher solltest du zum Beispiel `Anime ..` nur für Anime bezogene Queries verwenden.",
+            "4": "Ja, ich kann NSFW-Inhalte generieren, kann aber nur innerhalb von [NSFW markierten Channels]({url})."
+        }
+    },
+    "model": {
+        "title": "Ungültiges Modell ausgewählt",
+        "description": {
+            "//": "or [set a default model]({url})",
+            "1": "Das ausgewählte Modell existiert nicht, bitte verwende die Auto-Vervollständigungsoptionen.",
+            "2": "Wenn dies weiterhin geschieht, frag bitte in unserem [Support Server]({url}), danke."
+        }
+    },
+    "error": {
+        "title": "Beim Generieren ist ein Fehler aufgetreten",
+        "description": {
+            "1": "Lorem ipsum.",
+            "2": "Wenn du denkst, dass dies ein Fehler ist, melde ihn bitte auf unserem [Support Server]({url}), es tut uns leid."
+        }
+    },
+    "button": {
+        "regenerate": "Regenerieren",
+        "once": "Diese Nachricht wird nur einmal angezeigt",
+        "selenite": "Bekomme einen Gemini chat bot"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "auhtorize": "If you are a verified beta-tester, authorize [us to use your spotify]({url})! Contact support if you want to become one.",
+    "someonePlaying": "{user} is now playing {track} for {duration}",
+    "youPlaying": "You are now also playing {track}",
+    "currentlyPlaying": "{user} is playing{track}by {artists} [singular=\" \" plural=\"on repeat\"]"
+}
