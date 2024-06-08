@@ -25,7 +25,6 @@
     "model": {
         "title": "Invalid model selected",
         "description": {
-            "//": "or [set a default model]({url})",
             "1": "The model you selected does not exist, please use the autocomplete options.",
             "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
         }
@@ -33,13 +32,14 @@
     "error": {
         "title": "There was an error while generating",
         "description": {
-            "1": "Lorem impsum.",
             "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
         }
     },
     "button": {
         "regenerate": "Regenerate",
         "once": "This message is only shown once",
-        "selenite": "Get Gemini chat bot"
-    }
+        "selenite": "Get Gemini chat bot",
+        "convert_channel_nsfw": "Convert channel to NSFW"
+    },
+    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
 }
