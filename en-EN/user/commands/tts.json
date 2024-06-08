@@ -28,17 +28,19 @@
         }
     },
     "button": {
-        "changeSpeaker": "Change default speaker"
-    },
-    "uploadError": {
-        "cdn": "There was an error while registering the file in the CDN, please try again later.",
-        "upload": "There was an error while uploading the file to the CDN, please try again later.",
-        "send": "There was an error while sending the voice message, please try again later."
+        "changeSpeaker": "Change default speaker",
+        "invite_tts": "Get a 2nd Text to Speech Bot for Voice Chats"
     },
     "novc": "You're not connected to any voice channels.",
-    "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
+    "toolong": "Your message exceeds the server's limit with {count} characters. The maximum allowed is {max}.",
+    "alreadyplaying": "Wait until the message by {user} is done playing, use {command} if it's stuck.",
     "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
-    "setdefaultvoice": "The default voice is now set to {voice}.",
+    "set_default_voice": "The default voice is now set to {voice}.",
+    "set_cts": {
+        "enabled": "Chat to Speech has been enabled.",
+        "disabled": "Chat to SPeech has been disabled.",
+        "note": "This change only applies to you, globally in every guild."
+    },
     "stopped": "Playback is terminated and reset.",
     "web": "Change default voice & fileformat"
 }
