@@ -41,5 +41,5 @@
         "selenite": "Bekomme einen Gemini chat bot",
         "convert_channel_nsfw": "Convert channel to NSFW"
     },
-    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+    "nsfw_query": "Du hast ein paar fragliche sachen in der Query ausprobiert.. Wechsle oder erstelle einen NSFW markierten Kanal, um solche zu nutzen!"
 }
