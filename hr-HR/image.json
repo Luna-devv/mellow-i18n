@@ -1,0 +1,45 @@
+{
+    "vote": {
+        "title": "Vote to continue using free AI",
+        "description": {
+            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
+            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+        }
+    },
+    "illegal": {
+        "title": "Possible illegal content",
+        "description": {
+            "1": "I have detected possible illegal content in your query, please refrain from using it.",
+            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+        }
+    },
+    "better_query": {
+        "title": "Write better queries",
+        "description": {
+            "1": "The quality of the result improves as you provide more detailes for both the query and negative queries.",
+            "2": "You can just copy the example shown above to your clipboard and play around with it's query.",
+            "3": "Note that not every model is good for everything, so you might want to use for example `Anime ..` for anime related queries.",
+            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+        }
+    },
+    "model": {
+        "title": "Invalid model selected",
+        "description": {
+            "//": "or [set a default model]({url})",
+            "1": "The model you selected does not exist, please use the autocomplete options.",
+            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+        }
+    },
+    "error": {
+        "title": "There was an error while generating",
+        "description": {
+            "1": "Lorem impsum.",
+            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+        }
+    },
+    "button": {
+        "regenerate": "Regenerate",
+        "once": "This message is only shown once",
+        "selenite": "Get Gemini chat bot"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "error": {
+        "config": "Starboard is not setup in this guild, [setup starboard]({url}) in the dashboard.",
+        "content": "This message does not have any content, attachments, embeds or stickers.",
+        "alreadyexists": "This message is a;ready in the starboard, [jump to message]({url})!"
+    },
+    "success": "Message has been successfully beamed to the {channel}."
+}
