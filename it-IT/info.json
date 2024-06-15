@@ -1,16 +1,16 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
-    "invites": "Invites",
-    "voice": "Voice",
-    "spotify": "Currently Listening",
-    "none": "none",
-    "globalScope": "Showing stats from all guilds combined.",
+    "messages": "Messaggi",
+    "name": "Nome",
+    "created": "Creato",
+    "joined": "Unito",
+    "invites": "Inviti",
+    "voice": "Canale vocale",
+    "spotify": "Ascolta Attualmente",
+    "none": "nessuno",
+    "globalScope": "Mostrando statistiche da tutti i server combinati.",
     "pronouns": {
-        "title": "Pronouns",
-        "none": "No pronouns set"
+        "title": "Pronomi",
+        "none": "Nessun pronome impostato"
     },
     "button": {
         "guildAvatar": "Per-Guild Avatar",
