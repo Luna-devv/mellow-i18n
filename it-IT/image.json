@@ -19,27 +19,27 @@
             "1": "La qualità del risultato migliora in quanto fornisci maggiori dettagli sia per le descrizioni che per le descrizioni negative.",
             "2": "Puoi solo copiare l'esempio mostrato sopra nel mio messaggio e giocare con la sua descrizione.",
             "3": "Nota che non ogni modello è buono per tutto, quindi potresti voler usare per esempio `Anime ..` per le descrizioni relative ad Anime.",
-            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+            "4": "Sì, posso generare contenuti NSPL, ma puoi usarli solo all'interno di [canali NSPL contrassegnati]({url}). - (NSPL: Non sicuri per il lavoro)"
         }
     },
     "model": {
-        "title": "Invalid model selected",
+        "title": "Modello selezionato non valido",
         "description": {
-            "1": "The model you selected does not exist, please use the autocomplete options.",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Il modello selezionato non esiste, utilizza le opzioni di completamento automatico.",
+            "2": "Se questo continua a accadere, si prega di chiedere nel nostro [server di supporto]({url}), grazie."
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Si è verificato un errore durante il generamento",
         "description": {
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Se pensi che questo sia un errore, segnalalo sul nostro [server di supporto]({url}), grazie."
         }
     },
     "button": {
-        "regenerate": "Regenerate",
-        "once": "This message is only shown once",
-        "selenite": "Get Gemini chat bot",
-        "convert_channel_nsfw": "Convert channel to NSFW"
+        "regenerate": "Rigenera",
+        "once": "Questo messaggio è mostrato solo una volta",
+        "selenite": "Usa il chat bot Gemini",
+        "convert_channel_nsfw": "Converti canale un Canale soggetto a limiti di età"
     },
-    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+    "nsfw_query": "Hai provato alcune cose cattive nella descrizione.. Passa a o crea un canale contrassegnato `Soggetto a limiti di età` per usarlo!"
 }
