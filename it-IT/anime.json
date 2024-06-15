@@ -1,6 +1,6 @@
 {
     "button": {
-        "showMore": "Show more {type}s",
-        "dm": "Save to DM"
+        "showMore": "Mostra più {type}i",
+        "dm": "Salva in messaggi privati"
     }
 }
