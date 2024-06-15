@@ -1,24 +1,24 @@
 {
     "vote": {
-        "title": "Vote to continue using free AI",
+        "title": "Vota per continuare ad utilizzare l'IA gratuitamente",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "La generazione di {command} con l'intelligenza Artificiale non cresce sugli alberi! Sostienici con un [voto rapido su top.gg]({url}), permette alle persone di trovare {name} più facilmente, grazie per il tuo supporto!",
+            "2": "Votarmi vi permetterà di generare tutte le immagini con l'intelligenza artificiale che desidera per le prossime 12 ore senza interruzioni!"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "Contenuto possibilmente illegale",
         "description": {
-            "1": "I have detected possible illegal content in your query, please refrain from using it.",
-            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+            "1": "Ho rilevato possibili contenuti illegali nel tuo messaggio, per favore non usarli.",
+            "2": "Se pensi che questo sia un errore, segnalalo sul nostro [server di supporto]({url}), grazie."
         }
     },
     "better_query": {
-        "title": "Write better queries",
+        "title": "Scrivi descrizioni migliori",
         "description": {
-            "1": "The quality of the result improves as you provide more detailes for both the query and negative queries.",
-            "2": "You can just copy the example shown above to your clipboard and play around with it's query.",
-            "3": "Note that not every model is good for everything, so you might want to use for example `Anime ..` for anime related queries.",
+            "1": "La qualità del risultato migliora in quanto fornisci maggiori dettagli sia per le descrizioni che per le descrizioni negative.",
+            "2": "Puoi solo copiare l'esempio mostrato sopra nel mio messaggio e giocare con la sua descrizione.",
+            "3": "Nota che non ogni modello è buono per tutto, quindi potresti voler usare per esempio `Anime ..` per le descrizioni relative ad Anime.",
             "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
         }
     },
