@@ -1,4 +1,11 @@
 {
+    "button": {
+        "verify": "Verify Eitherway",
+        "verified": "Verified by {user}",
+        "unverify": "Unverify or Punish",
+        "unverified": "Unverified by {user}",
+        "punised": "Punished by {user}"
+    },
     "title": {
         "success": "Passaporto: Successo",
         "fail": "Passaporto: Fallito"
