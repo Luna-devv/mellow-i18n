@@ -1,13 +1,12 @@
 {
-    "button": {
-        "verify": "Verify Eitherway",
-        "verified": "Verified by {user}",
-        "unverify": "Unverify or Punish",
-        "unverified": "Unverified by {user}",
-        "punised": "Punished by {user}"
+    "disabled": "Passport has been disabled and therefor can no longer be used.",
+    "no_member": "This member is no longer in this server and therefor cannot be verified.",
+    "success": {
+        "unbanned": "{user} has been successfully unbanned, you will have to re-invite them manually.",
+        "unbanned_invite": "You can just send them {url} per Direct Message!",
+        "verified": "{user} has been verified and given the {role} role."
     },
-    "title": {
-        "success": "Passport: Success",
-        "fail": "Passport: Failed"
+    "button": {
+        "enable": "Enable Passport"
     }
 }
