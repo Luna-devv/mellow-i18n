@@ -1,10 +1,13 @@
 {
     "button": {
-        "verify": "Verifizierung starten"
+        "verify": "Verify Eitherway",
+        "verified": "Verified by {user}",
+        "unverify": "Unverify or Punish",
+        "unverified": "Unverified by {user}",
+        "punised": "Punished by {user}"
     },
-    "title": "Willkommen, {user}!",
-    "description": {
-        "verify": "In order to get access to this Server, you will have to complete a quick verification to lower the risk of Bot attacks and to ensure overhaul security {emote}\n\nPlease note the Admins and Mods do not have access to any of your provided information such as email address or IPs.",
-        "premium": "Thank you for being an {bot} Pro member and supporting this project {emote}\n\nNote that you do not need to pass the verification manually as skipping verification is part of your Enterprise plan."
+    "title": {
+        "success": "Passport: Erfolg",
+        "fail": "Passport: Fehlgeschlagen"
     }
 }
