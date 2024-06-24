@@ -4,10 +4,10 @@
         "title": "Wie markiert man einen Kanal als NSFW",
         "description": {
             "1": "Du besitzt oder verwaltest diesen Server nicht [lade {bot} zu deinem eigenen Server ein]({url}) oder frage einen Serveradministrator, den folgenden Schritten zu folgen.",
-            "2": "1. (mobile) Tap the channel name and select 'Settings'.",
-            "3": "1. (desktop) Right-click the channel name and select 'Edit Channel'.",
-            "4": "2. Scroll down and enable 'Age-Restricted Channel'.",
-            "5": "3. Click 'Save Changes'."
+            "2": "1. (mobil) Tippe auf den Kanalnamen und wählen \"Einstellungen\".",
+            "3": "1. (Desktop) Klicke mit der rechten Maustaste auf den Kanalnamen und wählen 'Kanal bearbeiten'.",
+            "4": "2. Scrolle nach unten und aktiviere 'Altersbeschränkter Kanal'.",
+            "5": "3. Klicke auf \"Änderungen speichern\"."
         }
     }
 }
