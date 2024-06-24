@@ -1,14 +1,14 @@
 {
     "permissions": {
         "me": {
-            "guild": "{bot} is missing {perms} permission."
+            "guild": "{bot} fehlt die {perms} Berechtigung."
         }
     },
     "logging": {
         "account": "Nutzer: {var}",
         "joined": "Beigetreten: {var}",
         "created": "Erstellt: {var}",
-        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
+        "attempts": "Versuche: {num} [singular=\"versuch\" plural=\"versuche\"]",
         "reason": "Grund:\n```{var}```"
     }
 }
