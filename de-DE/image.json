@@ -39,7 +39,7 @@
         "regenerate": "Regenerieren",
         "once": "Diese Nachricht wird nur einmal angezeigt",
         "selenite": "Bekomme einen Gemini chat bot",
-        "convert_channel_nsfw": "Convert channel to NSFW"
+        "convert_channel_nsfw": "Kanal zu NSFW umwandeln"
     },
     "nsfw_query": "Du hast ein paar fragliche sachen in der Query ausprobiert.. Wechsle oder erstelle einen NSFW markierten Kanal, um solche zu nutzen!"
 }
