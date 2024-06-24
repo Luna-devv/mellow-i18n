@@ -4,11 +4,16 @@
             "guild": "{bot} is missing {perms} permission."
         }
     },
+    "moderation_actions": {
+        "ban": "Ban",
+        "kick": "Kick",
+        "role": "Assign Role"
+    },
     "logging": {
         "account": "User: {var}",
         "joined": "Joined: {var}",
         "created": "Created: {var}",
         "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
-        "reason": "Reason:\n```{var}```"
+        "reason": "Reason: {var}"
     }
 }
