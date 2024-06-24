@@ -1,12 +1,13 @@
 {
-    "disabled": "Passport has been disabled and therefor can no longer be used.",
-    "no_member": "This member is no longer in this server and therefor cannot be verified.",
-    "success": {
-        "unbanned": "{user} has been successfully unbanned, you will have to re-invite them manually.",
-        "unbanned_invite": "You can just send them {url} per Direct Message!",
-        "verified": "{user} has been verified and given the {role} role."
-    },
     "button": {
-        "enable": "Enable Passport"
+        "verify": "Trotzdem Verifizieren",
+        "verified": "Verifiziert von {user}",
+        "unverify": "Ent-Verifizieren oder bestrafen",
+        "unverified": "Ent-Verifiziert von {user}",
+        "punised": "Bestraft von {user}"
+    },
+    "title": {
+        "success": "Passport: Erfolg",
+        "fail": "Passport: Fehlgeschlagen"
     }
 }
