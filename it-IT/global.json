@@ -1,19 +1,75 @@
 {
-    "permissions": {
-        "me": {
-            "guild": "{bot} is missing {perms} permission."
+    "noguild": "This command cannot be used inside of private messages or in user-installed space.",
+    "userdisabled": "You can no longer use this bot, your account has been disabled.",
+    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
+    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
+    "none": "nessuno",
+    "error": "Something went wrong, please try again later.",
+    "premium": {
+        "required": "subscription required",
+        "embeds": {
+            "title": "Sorry but Subscription is required",
+            "limittitle": "Sorry but the Subscriptions limit was reached",
+            "description": "In order I can provide a stable bot and money doesn't grow on trees, I have to lock non essential features behind a Subscription."
+        },
+        "button": {
+            "subscribe": "Subscribe"
         }
     },
-    "moderation_actions": {
-        "ban": "Ban",
-        "kick": "Kick",
-        "role": "Assign Role"
+    "button": {
+        "add": "Add {name}",
+        "support": "Support",
+        "vote": "Vote for {name}",
+        "voteSkip": "Support us to skip voting"
     },
-    "logging": {
-        "account": "Utente: {var}",
-        "joined": "Unito: {var}",
-        "created": "Creato: {var}",
-        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
-        "reason": "Reason: {var}"
+    "permissions": {
+        "user": {
+            "guild": "You cannot run this action since you're missing the {perms} permissions.",
+            "channel": "You cannot run this action since you're missing the {perms} permissions in this channel.",
+            "roles": {
+                "user": {
+                    "text": "You cannot perform this action since the highest role of that user is higher than yours.",
+                    "user": "User: {u.role} @ index {u.index}",
+                    "you": "You: {y.role} @ index {y.index}"
+                },
+                "role": {
+                    "text": "You cannot perform this action since your highest role is lower than the role to manage.",
+                    "user": "Role: {u.role} @ index {u.index}",
+                    "you": "You: {y.role} @ index {y.index}"
+                }
+            }
+        },
+        "me": {
+            "guild": "I cannot run this action since I'm missing the {perms} permissions.",
+            "channel": "I cannot run this action since I'm missing the {perms} permissions in this channel.",
+            "roles": {
+                "user": {
+                    "text": "I cannot perform this action since the highest role of that user is higher than mine.",
+                    "user": "User: {u.role} @ index {u.index}",
+                    "bot": "Me: {b.role} @ index {b.index}"
+                },
+                "role": {
+                    "text": "I cannot perform this action since my highest role is higher than the role to manage.",
+                    "user": "Role: {u.role} @ index {u.index}",
+                    "bot": "Me: {b.role} @ index {b.index}"
+                }
+            }
+        }
+    },
+    "ad": {
+        "vote": "Please help us at {url}, only takes a few seconds",
+        "invite": "[Add {bot}]({url}) to your server"
+    },
+    "nsfw": {
+        "title": "NSFW (Adult 18+) response detected",
+        "description": {
+            "1": "You cannot view NSFW content in a SFW marked channel.",
+            "2": "Either mark the this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+        }
+    },
+    "moderation_punishment": {
+        "ban": "You have been banned from {guild}!",
+        "kick": "You have been kicked from {guild}!",
+        "role": "You've gotten the {role} role in {guild}!"
     }
 }
