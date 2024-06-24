@@ -1,13 +1,12 @@
 {
-    "button": {
-        "verify": "Trotzdem Verifizieren",
-        "verified": "Verifiziert von {user}",
-        "unverify": "Ent-Verifizieren oder bestrafen",
-        "unverified": "Ent-Verifiziert von {user}",
-        "punised": "Bestraft von {user}"
+    "disabled": "Passport wurde deaktiviert und kann daher nicht mehr verwendet werden.",
+    "no_member": "Dieses Mitglied ist nicht mehr auf diesem Server und kann daher nicht verifiziert werden.",
+    "success": {
+        "unbanned": "{user} wurde erfolgreich entbannt, du musst ihn manuell erneut einladen.",
+        "unbanned_invite": "Du kannst ihm einfach {url} per Peivat Nachricht schicken!",
+        "verified": "{user} wurde verifiziert und hat die {role} Rolle erhalten."
     },
-    "title": {
-        "success": "Passport: Erfolg",
-        "fail": "Passport: Fehlgeschlagen"
+    "button": {
+        "enable": "Passport Aktivieren"
     }
 }
