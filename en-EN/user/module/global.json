@@ -66,5 +66,10 @@
             "1": "You cannot view NSFW content in a SFW marked channel.",
             "2": "Either mark the this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
         }
+    },
+    "moderation_punishment": {
+        "ban": "You have been banned from {guild}!",
+        "kick": "You have been kicked from {guild}!",
+        "role": "You've gotten the {role} role in {guild}!"
     }
 }

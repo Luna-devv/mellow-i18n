@@ -1,13 +1,29 @@
 {
+    "select": {
+        "placeholder": "Manage passport verification overrides.",
+        "options": {
+            "unverify": {
+                "title": "Unverify & Reset",
+                "description": "This will allow and require the user to re-verify."
+            },
+            "punish": {
+                "title": "Punish ({action})",
+                "description": "This will punish the user with the set failed action."
+            },
+            "verify": {
+                "title": "Verify",
+                "description": "This will force-verify the user and give the verified role."
+            }
+        }
+    },
     "button": {
-        "verify": "Verify Eitherway",
         "verified": "Verified by {user}",
-        "unverify": "Unverify or Punish",
         "unverified": "Unverified by {user}",
         "punised": "Punished by {user}"
     },
     "title": {
         "success": "Passport: Success",
         "fail": "Passport: Failed"
-    }
+    },
+    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
 }
