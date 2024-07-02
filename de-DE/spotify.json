@@ -1,6 +1,6 @@
 {
-    "auhtorize": "If you are a verified beta-tester, authorize [us to use your spotify]({url})! Contact support if you want to become one.",
-    "someonePlaying": "{user} is now playing {track} for {duration}",
-    "youPlaying": "You are now also playing {track}",
-    "currentlyPlaying": "{user} is playing{track}by {artists} [singular=\" \" plural=\"on repeat\"]"
+    "auhtorize": "Wenn su ein Beta-Tester bist, autorisiere [uns dein Spotify zu benutzen]({url})! Kontaktiere den Support, wenn du einer werden möchten.",
+    "someonePlaying": "{user} spielt nun {track} für {duration}",
+    "youPlaying": "Du spielst nun auch {track}",
+    "currentlyPlaying": "{user} spielt{track}von {artists} [singular=\" plural=\"bei Wiederholung\"]"
 }
