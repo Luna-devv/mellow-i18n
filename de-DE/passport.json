@@ -1,29 +1,13 @@
 {
-    "select": {
-        "placeholder": "Verwalte Passport Verifizierungs Überschreibungen.",
-        "options": {
-            "unverify": {
-                "title": "Ent-Verifizieren & Zurücksetzen",
-                "description": "Dies erlaubt und erfordert eine erneute Verifizierung des Nutzers."
-            },
-            "punish": {
-                "title": "Bestrafe ({action})",
-                "description": "Dies bestraft den Benutzer mit der gesetzten fehlgeschlagenen Aktion."
-            },
-            "verify": {
-                "title": "Verifizieren",
-                "description": "Dies Verifiziert den Nutzer und gibt die Verifiziert Rolle."
-            }
-        }
+    "disabled": "Passport wurde deaktiviert und kann daher nicht mehr verwendet werden.",
+    "no_member": "Dieses Mitglied ist nicht mehr auf diesem Server und kann daher nicht verifiziert oder bestraft werden.",
+    "success": {
+        "unbanned": "{user} wurde erfolgreich entbannt, du musst ihn manuell erneut einladen.",
+        "unbanned_invite": "Du kannst ihm einfach {url} per Peivat Nachricht schicken!",
+        "verified": "{user} wurde verifiziert und hat die {role} Rolle erhalten.",
+        "unverified": "{user} wurde Ent-Verifiziert, er kann sich nun erneut verifizieren."
     },
     "button": {
-        "verified": "Verifiziert von {user}",
-        "unverified": "Ent-Verifiziert von {user}",
-        "punised": "Bestraft von {user}"
-    },
-    "title": {
-        "success": "Passport: Erfolg",
-        "fail": "Passport: Fehlgeschlagen"
-    },
-    "manual_verification_warning": "Dieser Nutzer wird in Zukunft von der Überprüfung abgewiesen, er muss manuell von Server Moderatoren überprüft werden."
+        "enable": "Passport Aktivieren"
+    }
 }
