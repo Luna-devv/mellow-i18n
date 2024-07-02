@@ -1,0 +1,10 @@
+{
+    "new_moon": "Neumond",
+    "waxing_crescent": "Zunehmend",
+    "first_quarter": "Erstes Viertel",
+    "waxing_gibbous": "Zunehmender Halbmond",
+    "full_moon": "Vollmond",
+    "waning_gibbous": "Abnehmender Dreiviertelmond",
+    "last_quarter": "Letztes Viertel",
+    "waning_crescent": "Abnehmdende Mondsichel"
+}
