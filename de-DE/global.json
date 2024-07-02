@@ -1,27 +1,76 @@
 {
-    "permissions": {
-        "me": {
-            "guild": "{bot} fehlt die {perms} Berechtigung.",
-            "channel": "{bot} is missing {perms} permission in {channel}."
+    "noguild": "Dieser Befehl kann nicht innerhalb von privaten Nachrichten oder im vom Benutzer installierten Umgebung verwendet werden.",
+    "userdisabled": "Du kannst diesen Bot nicht mehr verwenden, dein Account wurde deaktiviert.",
+    "dmdisabled": "Die Nachricht konnte dir nicht gesendet werden, deine Direktnachrichten scheinen deaktiviert zu sein.",
+    "botmention": "Hey {user}, benutze **{emote} SlashCommands** um mich zu nutzen!\nNutze {command} für weitere Informationen.",
+    "none": "keine",
+    "error": "Etwas ist schief gelaufen, bitte versuche es später nochmal.",
+    "premium": {
+        "required": "abo erforderlich",
+        "embeds": {
+            "title": "Entschuldigung, aber Abonnement ist erforderlich",
+            "limittitle": "Entschuldigung, aber das Abonnementlimit wurde erreicht",
+            "description": "Damit ich einen stabilen Bot zur Verfügung stellen können und Geld nicht auf Bäumen wächst, muss ich nicht wesentliche Funktionen hinter einem Abonnement sperren."
+        },
+        "button": {
+            "subscribe": "Abonnieren"
         }
     },
-    "moderation_actions": {
-        "nothing": "Nothing",
-        "ban": "Ban",
-        "kick": "Kick",
-        "role": "Assign Role",
-        "delete_message": "Delete Message"
+    "button": {
+        "add": "{name} Einladen",
+        "support": "Support",
+        "vote": "Für {name} voten",
+        "voteSkip": "Unterstütze uns, um das Voten zu überspringen"
     },
-    "logging": {
-        "account": "Nutzer: {var}",
-        "joined": "Beigetreten: {var}",
-        "created": "Erstellt: {var}",
-        "channel": "Channel: {var}",
-        "voice": "Voice: {var}",
-        "message": "Message: **[Jump to message]({url})**",
-        "command": "Command: {var}",
-        "action": "Action: {var}",
-        "attempts": "Versuche: {num} [singular=\"versuch\" plural=\"versuche\"]",
-        "reason": "Reason: {var}"
-    }
+    "permissions": {
+        "user": {
+            "guild": "Du kannst diese Aktion nicht ausführen, da dir die {perms} Berechtigungen fehlen.",
+            "channel": "Du kannst diese Aktion nicht ausführen, da dir die {perms} Berechtigungen in diesem Kanal fehlen.",
+            "roles": {
+                "user": {
+                    "text": "Du kannst diese Aktion nicht ausführen, da die höchste Rolle von diesem User höher als deine ist.",
+                    "user": "User: {u.role} @ index {u.index}",
+                    "you": "Du: {y.role} @ index {y.index}"
+                },
+                "role": {
+                    "text": "Du kannst diese Aktion nicht ausführen da deine höchste Rolle unter der zu bearbeitenden Rolle ist.",
+                    "user": "Rolle: {u.role} @ index {u.index}",
+                    "you": "Du: {y.role} @ index {y.index}"
+                }
+            }
+        },
+        "me": {
+            "guild": "Ich kann diese Aktion nicht ausführen, da mir die {perms} Berechtigungen fehlen.",
+            "channel": "Ich kann diese Aktion nicht ausführen, da mir die {perms} Berechtigungen in diesem Kanal fehlen.",
+            "roles": {
+                "user": {
+                    "text": "Ich kann diese Aktion nicht ausführen, da die höchste Rolle von dem User höher als meine ist.",
+                    "user": "User: {u.role} @ index {u.index}",
+                    "bot": "Ich: {b.role} @ index {b.index}"
+                },
+                "role": {
+                    "text": "Ich kann diese Aktion nicht ausführen, da meine höchste Rolle unter der zu bearbeitenden Rolle ist.",
+                    "user": "Rolle: {u.role} @ index {u.index}",
+                    "bot": "Ich: {b.role} @ index {b.index}"
+                }
+            }
+        }
+    },
+    "ad": {
+        "vote": "Bitte hilf uns auf {url}, dauert nur ein paar Sekunden",
+        "invite": "[Füge {bot}]({url}) zu deinem Server hinzu"
+    },
+    "nsfw": {
+        "title": "NSFW (Erwachsene 18+) Antwort erkannt",
+        "description": {
+            "1": "NSFW-Inhalte können nicht in einem SFW markierten Kanal angezeigt werden.",
+            "2": "Entweder markiere diesen Kanal als Altersbegrenzt, oder erstelle einen neuen Kanal und markieren denen als Altersbegrenzt."
+        }
+    },
+    "moderation_punishment": {
+        "ban": "You have been banned from {guild}!",
+        "kick": "You have been kicked from {guild}!",
+        "role": "You've gotten the {role} role in {guild}!"
+    },
+    "command_user": "Command used by {user}"
 }
