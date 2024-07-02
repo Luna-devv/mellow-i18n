@@ -1,0 +1,13 @@
+{
+    "success": "{user} markierte diesen Kanal als Altersbegrenzt, du kannst jetzt {command} ausführen, um NSFW-Inhalte zu generieren.",
+    "tutorial": {
+        "title": "Wie markiert man einen Kanal als NSFW",
+        "description": {
+            "1": "Du besitzt oder verwaltest diesen Server nicht [lade {bot} zu deinem eigenen Server ein]({url}) oder frage einen Serveradministrator, den folgenden Schritten zu folgen.",
+            "2": "1. (mobil) Tippe auf den Kanalnamen und wählen \"Einstellungen\".",
+            "3": "1. (desktop) Klicke mit der rechten Maustaste auf den Kanalnamen und wählen 'Kanal bearbeiten'.",
+            "4": "2. Scrolle nach unten und aktiviere 'Altersbeschränkter Kanal'.",
+            "5": "3. Klicke auf \"Änderungen speichern\"."
+        }
+    }
+}

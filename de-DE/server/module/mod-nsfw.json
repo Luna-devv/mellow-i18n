@@ -1,0 +1,8 @@
+{
+    "title": "NSFW Bild Erkannt",
+    "analysis": "Auswertung",
+    "thread": {
+        "name": "Bild Anhang (NSFW)",
+        "message": "Reupload eines von {user} gesendeten Bildes"
+    }
+}

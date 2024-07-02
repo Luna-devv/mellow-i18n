@@ -14,18 +14,18 @@
         }
     },
     "better_query": {
-        "title": "Write better queries",
+        "title": "Know your model and improve queries",
         "description": {
-            "1": "The quality of the result improves as you provide more detailes for both the query and negative queries.",
-            "2": "You can just copy the example shown above to your clipboard and play around with it's query.",
-            "3": "Note that not every model is good for everything, so you might want to use for example `Anime ..` for anime related queries.",
+            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
+            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
+            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
             "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
-        }
+        },
+        "footer": "This message is only shown once"
     },
     "model": {
         "title": "Invalid model selected",
         "description": {
-            "//": "or [set a default model]({url})",
             "1": "The model you selected does not exist, please use the autocomplete options.",
             "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
         }
@@ -33,13 +33,14 @@
     "error": {
         "title": "There was an error while generating",
         "description": {
-            "1": "Lorem impsum.",
             "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
         }
     },
     "button": {
         "regenerate": "Regenerate",
-        "once": "This message is only shown once",
-        "selenite": "Get Gemini chat bot"
-    }
+        "selenite": "Get Gemini Chat Bot",
+        "examples": "View some awesome examples",
+        "convert_channel_nsfw": "Convert channel to NSFW"
+    },
+    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
 }

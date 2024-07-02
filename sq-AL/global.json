@@ -1,7 +1,7 @@
 {
-    "noguild": "This command cannot be used inside of private messages.",
-    "userdisabled": "You have been disabled.",
-    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled",
+    "noguild": "This command cannot be used inside of private messages or in user-installed space.",
+    "userdisabled": "You can no longer use this bot, your account has been disabled.",
+    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
     "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
     "none": "none",
     "error": "Something went wrong, please try again later.",
@@ -61,10 +61,16 @@
         "invite": "[Add {bot}]({url}) to your server"
     },
     "nsfw": {
-        "title": "NSFW response detected",
+        "title": "NSFW (Adult 18+) response detected",
         "description": {
-            "1": "You cannot view NSFW content in a non-NSFW marked channel.",
-            "2": "Either mark the this channel as NSFW or create a new channel and mark it as NSFW."
+            "1": "You cannot view NSFW content in a SFW marked channel.",
+            "2": "Either mark the this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
         }
-    }
+    },
+    "moderation_punishment": {
+        "ban": "You have been banned from {guild}!",
+        "kick": "You have been kicked from {guild}!",
+        "role": "You've gotten the {role} role in {guild}!"
+    },
+    "command_user": "Command used by {user}"
 }
