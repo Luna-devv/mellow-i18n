@@ -14,13 +14,14 @@
         }
     },
     "better_query": {
-        "title": "Scrivi descrizioni migliori",
+        "title": "Know your model and improve queries",
         "description": {
-            "1": "La qualità del risultato migliora in quanto fornisci maggiori dettagli sia per le descrizioni che per le descrizioni negative.",
-            "2": "Puoi solo copiare l'esempio mostrato sopra nel mio messaggio e giocare con la sua descrizione.",
-            "3": "Nota che non ogni modello è buono per tutto, quindi potresti voler usare per esempio `Anime ..` per le descrizioni relative ad Anime.",
+            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
+            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
+            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
             "4": "Sì, posso generare contenuti NSPL, ma puoi usarli solo all'interno di [canali NSPL contrassegnati]({url}). - (NSPL: Non sicuri per il lavoro)"
-        }
+        },
+        "footer": "This message is only shown once"
     },
     "model": {
         "title": "Modello selezionato non valido",
@@ -37,8 +38,8 @@
     },
     "button": {
         "regenerate": "Rigenera",
-        "once": "Questo messaggio è mostrato solo una volta",
-        "selenite": "Usa il chat bot Gemini",
+        "selenite": "Get Gemini Chat Bot",
+        "examples": "View some awesome examples",
         "convert_channel_nsfw": "Converti canale un Canale soggetto a limiti di età"
     },
     "nsfw_query": "Hai provato alcune cose cattive nella descrizione.. Passa a o crea un canale contrassegnato `Soggetto a limiti di età` per usarlo!"
