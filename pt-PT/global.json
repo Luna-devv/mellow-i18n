@@ -1,27 +1,76 @@
 {
-    "permissions": {
-        "me": {
-            "guild": "{bot} is missing {perms} permission.",
-            "channel": "{bot} is missing {perms} permission in {channel}."
+    "noguild": "This command cannot be used inside of private messages or in user-installed space.",
+    "userdisabled": "You can no longer use this bot, your account has been disabled.",
+    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
+    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
+    "none": "nenhum",
+    "error": "Something went wrong, please try again later.",
+    "premium": {
+        "required": "subscrição necessária",
+        "embeds": {
+            "title": "Desculpe, mas subscrição é necessária",
+            "limittitle": "Desculpe, mas o limite de subscrições foi atingido",
+            "description": "In order I can provide a stable bot and money doesn't grow on trees, I have to lock non essential features behind a Subscription."
+        },
+        "button": {
+            "subscribe": "Subscreva"
         }
     },
-    "moderation_actions": {
-        "nothing": "Nothing",
-        "ban": "Ban",
-        "kick": "Kick",
-        "role": "Assign Role",
-        "delete_message": "Delete Message"
+    "button": {
+        "add": "Adicionar {name}",
+        "support": "Suporte",
+        "vote": "Vote for {name}",
+        "voteSkip": "Support us to skip voting"
     },
-    "logging": {
-        "account": "User: {var}",
-        "joined": "Joined: {var}",
-        "created": "Created: {var}",
-        "channel": "Channel: {var}",
-        "voice": "Voice: {var}",
-        "message": "Message: **[Jump to message]({url})**",
-        "command": "Command: {var}",
-        "action": "Action: {var}",
-        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
-        "reason": "Reason: {var}"
-    }
+    "permissions": {
+        "user": {
+            "guild": "Não é possível executar esta ação porque não tem as permissões {perms}.",
+            "channel": "Não pode executar esta ação porque não tem as permissões {perms} neste canal.",
+            "roles": {
+                "user": {
+                    "text": "Não pode executar esta ação, pois o cargo mais alto desse utilizador é superior ao seu.",
+                    "user": "Utilizador: {u.role} @ índice {u.index}",
+                    "you": "Você: {y.role} @ índice {y.index}"
+                },
+                "role": {
+                    "text": "Não é possível executar esta ação, pois o seu cargo mais alto é inferior ao cargo para gerir.",
+                    "user": "Cargo: {u.role} @ índice {u.index}",
+                    "you": "Você: {y.role} @ índice {y.index}"
+                }
+            }
+        },
+        "me": {
+            "guild": "Não posso executar esta ação porque não tenho as permissões {perms}.",
+            "channel": "Não posso executar esta ação porque não tenho as permissões {perms} neste canal.",
+            "roles": {
+                "user": {
+                    "text": "Eu não posso executar essa ação, uma vez que o maior cargo desse usuário é maior que o meu.",
+                    "user": "Utilizador: {u.role} @ índice {u.index}",
+                    "bot": "Eu: {b.role} @ índice {b.index}"
+                },
+                "role": {
+                    "text": "Eu não posso executar essa ação, uma vez que o meu maior cargo é superior ao cargo de gerir.",
+                    "user": "Cargo: {u.role} @ índice {u.index}",
+                    "bot": "Eu: {b.role} @ índice {b.index}"
+                }
+            }
+        }
+    },
+    "ad": {
+        "vote": "Por favor, ajude-nos em {url}, demora apenas alguns segundos",
+        "invite": "[Adicionar {bot}]({url}) ao seu servidor"
+    },
+    "nsfw": {
+        "title": "NSFW (Adult 18+) response detected",
+        "description": {
+            "1": "You cannot view NSFW content in a SFW marked channel.",
+            "2": "Either mark the this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+        }
+    },
+    "moderation_punishment": {
+        "ban": "You have been banned from {guild}!",
+        "kick": "You have been kicked from {guild}!",
+        "role": "You've gotten the {role} role in {guild}!"
+    },
+    "command_user": "Command used by {user}"
 }
