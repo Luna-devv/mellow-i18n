@@ -1,0 +1,8 @@
+{
+    "invalid": {
+        "title": "Ein Tag mit diesem Namen existiert nicht.",
+        "button": {
+            "create": "Neuen Tag erstellen"
+        }
+    }
+}
