@@ -1,13 +1,29 @@
 {
-    "disabled": "Passport wurde deaktiviert und kann daher nicht mehr verwendet werden.",
-    "no_member": "This member is no longer in this server and therefor cannot be verified, unverified or punished.",
-    "success": {
-        "unbanned": "{user} wurde erfolgreich entbannt, du musst ihn manuell erneut einladen.",
-        "unbanned_invite": "Du kannst ihm einfach {url} per Peivat Nachricht schicken!",
-        "verified": "{user} wurde verifiziert und hat die {role} Rolle erhalten.",
-        "unverified": "{user} has been unverified, they can now re-verify."
+    "select": {
+        "placeholder": "Manage passport verification overrides.",
+        "options": {
+            "unverify": {
+                "title": "Unverify & Reset",
+                "description": "This will allow and require the user to re-verify."
+            },
+            "punish": {
+                "title": "Punish ({action})",
+                "description": "This will punish the user with the set failed action."
+            },
+            "verify": {
+                "title": "Verify",
+                "description": "This will force-verify the user and give the verified role."
+            }
+        }
     },
     "button": {
-        "enable": "Passport Aktivieren"
-    }
+        "verified": "Verifiziert von {user}",
+        "unverified": "Ent-Verifiziert von {user}",
+        "punised": "Bestraft von {user}"
+    },
+    "title": {
+        "success": "Passport: Erfolg",
+        "fail": "Passport: Fehlgeschlagen"
+    },
+    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
 }
