@@ -1,6 +1,6 @@
 {
-    "result": "result",
+    "result": "ergebnis",
     "info": {
-        "length": "result is too long, here's a file"
+        "length": "ergebnis ist zu lang, hier ist eine Datei"
     }
 }
