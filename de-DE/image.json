@@ -14,13 +14,14 @@
         }
     },
     "better_query": {
-        "title": "Bessere Queries schreiben",
+        "title": "Know your model and improve queries",
         "description": {
-            "1": "Die Qualität des Ergebnisses verbessert sich, wenn mehr Details sowohl für die Query als auch für negative Query stellen.",
-            "2": "Du kannst einfach das obige Beispiel einfach in die Zwischenablage kopieren und mit der Query herumspielen.",
-            "3": "Beachte, dass nicht jedes Modell gut für alles ist, daher solltest du zum Beispiel `Anime ..` nur für Anime bezogene Queries verwenden.",
+            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
+            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
+            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
             "4": "Ja, ich kann NSFW-Inhalte generieren, kann aber nur innerhalb von [NSFW markierten Channels]({url})."
-        }
+        },
+        "footer": "This message is only shown once"
     },
     "model": {
         "title": "Ungültiges Modell ausgewählt",
@@ -37,8 +38,8 @@
     },
     "button": {
         "regenerate": "Regenerieren",
-        "once": "Diese Nachricht wird nur einmal angezeigt",
-        "selenite": "Bekomme einen Gemini chat bot",
+        "selenite": "Get Gemini Chat Bot",
+        "examples": "View some awesome examples",
         "convert_channel_nsfw": "Kanal zu NSFW umwandeln"
     },
     "nsfw_query": "Du hast ein paar fragliche sachen in der Query ausprobiert.. Wechsle oder erstelle einen NSFW markierten Kanal, um solche zu nutzen!"
