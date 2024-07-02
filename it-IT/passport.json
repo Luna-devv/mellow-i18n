@@ -1,13 +1,29 @@
 {
-    "disabled": "Passport has been disabled and therefor can no longer be used.",
-    "no_member": "This member is no longer in this server and therefor cannot be verified, unverified or punished.",
-    "success": {
-        "unbanned": "{user} has been successfully unbanned, you will have to re-invite them manually.",
-        "unbanned_invite": "You can just send them {url} per Direct Message!",
-        "verified": "{user} has been verified and given the {role} role.",
-        "unverified": "{user} has been unverified, they can now re-verify."
+    "select": {
+        "placeholder": "Manage passport verification overrides.",
+        "options": {
+            "unverify": {
+                "title": "Unverify & Reset",
+                "description": "This will allow and require the user to re-verify."
+            },
+            "punish": {
+                "title": "Punish ({action})",
+                "description": "This will punish the user with the set failed action."
+            },
+            "verify": {
+                "title": "Verify",
+                "description": "This will force-verify the user and give the verified role."
+            }
+        }
     },
     "button": {
-        "enable": "Enable Passport"
-    }
+        "verified": "Verified by {user}",
+        "unverified": "Unverified by {user}",
+        "punised": "Punished by {user}"
+    },
+    "title": {
+        "success": "Passaporto: Successo",
+        "fail": "Passaporto: Fallito"
+    },
+    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
 }
