@@ -1,18 +1,26 @@
 {
     "permissions": {
         "me": {
-            "guild": "{bot} is missing {perms} permission."
+            "guild": "{bot} is missing {perms} permission.",
+            "channel": "{bot} is missing {perms} permission in {channel}."
         }
     },
     "moderation_actions": {
+        "nothing": "Nothing",
         "ban": "Ban",
         "kick": "Kick",
-        "role": "Assign Role"
+        "role": "Assign Role",
+        "delete_message": "Delete Message"
     },
     "logging": {
         "account": "User: {var}",
         "joined": "Joined: {var}",
         "created": "Created: {var}",
+        "channel": "Channel: {var}",
+        "voice": "Voice: {var}",
+        "message": "Message: **[Jump to message]({url})**",
+        "command": "Command: {var}",
+        "action": "Action: {var}",
         "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
         "reason": "Reason: {var}"
     }
