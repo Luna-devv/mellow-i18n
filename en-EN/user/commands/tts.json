@@ -1,9 +1,9 @@
 {
     "channel": {
-        "title": "A Text to Speech channel is setup",
+        "title": "A Chat to Speech channel is setup",
         "description": {
             "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
-            "2": "If you are a server administrator, you can change or remove the channel [on your guild's dashboard]({url})."
+            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
         }
     },
     "speaker": {
@@ -29,18 +29,18 @@
     },
     "button": {
         "changeSpeaker": "Change default speaker",
-        "invite_tts": "Get a 2nd Text to Speech Bot for Voice Chats"
+        "invite_tts": "Get a 2nd Text to Speech Bot"
     },
     "novc": "You're not connected to any voice channels.",
-    "toolong": "Your message exceeds the server's limit with {count} characters. The maximum allowed is {max}.",
+    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
     "alreadyplaying": "Wait until the message by {user} is done playing, use {command} if it's stuck.",
     "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
     "set_default_voice": "The default voice is now set to {voice}.",
     "set_cts": {
         "enabled": "Chat to Speech has been enabled.",
         "disabled": "Chat to Speech has been disabled.",
-        "note": "This change only applies to you, globally, in every guild."
+        "note": "This change only applies to you and in every server you're in."
     },
-    "stopped": "Playback is terminated and reset.",
+    "stopped": "Playback was terminated and reset.",
     "web": "Change default voice & fileformat"
 }

@@ -4,7 +4,7 @@
     },
     "title": "Welcome {user}!",
     "description": {
-        "verify": "In order to get access to this Server, you will have to complete a quick verification to lower the risk of Bot attacks and to ensure overhaul security {emote}\n\nPlease note the Admins and Mods do not have access to any of your provided information such as email address or IPs.",
-        "premium": "Thank you for being an {bot} Pro member and supporting this project {emote}\n\nNote that you do not need to pass the verification manually as skipping verification is part of your Enterprise plan."
+        "verify": "In order to gain access to this server, you will need to complete a quick verification to reduce the risk of bot attacks and ensure overall security {emote}\n\nPlease note that the admins and mods do not have access to any of the information you provide, such as emails or IPs.",
+        "premium": "Thank you for being a {bot} Pro member and supporting this project {emote}\n\nNote that you do not need to pass the verification manually, as skipping the verification is part of your Pro subscription."
     }
 }
