@@ -1,0 +1,13 @@
+{
+    "disabled": "Passport wurde deaktiviert und kann daher nicht mehr verwendet werden.",
+    "no_member": "Dieses Mitglied ist nicht mehr auf diesem Server und kann daher nicht verifiziert oder bestraft werden.",
+    "success": {
+        "unbanned": "{user} wurde erfolgreich entbannt, du musst ihn manuell erneut einladen.",
+        "unbanned_invite": "Du kannst ihm einfach {url} per Peivat Nachricht schicken!",
+        "verified": "{user} wurde verifiziert und hat die {role} Rolle erhalten.",
+        "unverified": "{user} wurde Ent-Verifiziert, er kann sich nun erneut verifizieren."
+    },
+    "button": {
+        "enable": "Passport Aktivieren"
+    }
+}
