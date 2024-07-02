@@ -1,0 +1,9 @@
+{
+    "none": "Du hast noch keine Tags",
+    "title": {
+        "text": "Text [singular=\"Befehl\" plural=\"Befehle\"] ({amount})",
+        "slash": "Slash [singular=\"Befehl\" plural=\"Befehle\"] ({amount})"
+    },
+    "disabled": "{amount} [singular=\"tag ist\" plural=\"tags sind\"] aufgrund fehlender Berechtigungen versteckt",
+    "footer": "Mit {command} benutzen"
+}
