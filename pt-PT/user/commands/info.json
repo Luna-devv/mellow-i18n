@@ -1,0 +1,27 @@
+{
+    "messages": "Mensagens",
+    "name": "Nome",
+    "created": "Criado",
+    "joined": "Juntou-se",
+    "invites": "Convites",
+    "voice": "Voz",
+    "spotify": "Currently Listening",
+    "none": "nenhum",
+    "globalScope": "Showing stats from all guilds combined.",
+    "pronouns": {
+        "title": "Pronomes",
+        "none": "Nenhum pronome definido"
+    },
+    "button": {
+        "guildAvatar": "Per-Guild Avatar",
+        "avatar": "Avatar",
+        "banner": "Banner"
+    },
+    "likes": {
+        "add": "Gosto",
+        "remove": "Remover o Gosto",
+        "added": "Gostou do perfil de {user}, que agora tem {num} [singular=\"gosto\" plural=\"gostos\"].",
+        "removed": "Já não gosta do perfil de {user}.",
+        "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
+    }
+}
