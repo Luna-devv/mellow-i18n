@@ -1,0 +1,46 @@
+{
+    "vote": {
+        "title": "Vote, um die KI weiterhin kostenlos zu nutzen",
+        "description": {
+            "1": "{command} Ai Generation wächst nicht auf Bäumen! Unterstütze uns mit einem [schnellen Vote auf top.gg]({url}), es ermöglicht anderen, {name} leichter zu finden, vielen Dank für deine Unterstützung!",
+            "2": "Wenn du für mich Votest, kannst du so viele AI-Bilder generieren, wie du möchtest für die nächsten 12 Stunden!"
+        }
+    },
+    "illegal": {
+        "title": "Mögliche illegale Inhalte",
+        "description": {
+            "1": "Ich habe mögliche illegale Inhalte in deiner Query gefunden, bitte verzichte darauf, diese zu verwenden.",
+            "2": "Wenn du glaubst, dass dies ein Fehler ist, melde es bitte auf unserem [Support Server]({url}), danke."
+        }
+    },
+    "better_query": {
+        "title": "Kenne dein Modell und verbessere deine Query",
+        "description": {
+            "1": "Das Bild verbessert sich, wenn du mehr und bessere Details in der Query schreibst, beachte, dass das Überschreiben der negativen Query die Voreingestellte entfernt.",
+            "2": "Du solltest [die Nutzungsrichtlinien finden]({url}) für dein Modell finden, um bessere Ergebnisse zu erzielen.",
+            "3": "Beachte, dass nicht jedes Modell für alles gut ist, einige Modelle sind auf Anime und andere auf realistische Bilder trainiert.",
+            "4": "Ja, ich kann NSFW-Inhalte generieren, kann aber nur innerhalb von [NSFW markierten Channels]({url})."
+        },
+        "footer": "Diese Nachricht wird nur einmal angezeigt"
+    },
+    "model": {
+        "title": "Ungültiges Modell ausgewählt",
+        "description": {
+            "1": "Das ausgewählte Modell existiert nicht, bitte verwende die Auto-Vervollständigungsoptionen.",
+            "2": "Wenn dies weiterhin geschieht, frag bitte in unserem [Support Server]({url}), danke."
+        }
+    },
+    "error": {
+        "title": "Beim Generieren ist ein Fehler aufgetreten",
+        "description": {
+            "2": "Wenn du denkst, dass dies ein Fehler ist, melde ihn bitte auf unserem [Support Server]({url}), es tut uns leid."
+        }
+    },
+    "button": {
+        "regenerate": "Regenerieren",
+        "selenite": "Bekomme einen Gemini chat bot",
+        "examples": "Sehe einige tolle bespiele",
+        "convert_channel_nsfw": "Kanal zu NSFW umwandeln"
+    },
+    "nsfw_query": "Du hast ein paar fragliche sachen in der Query ausprobiert.. Wechsle oder erstelle einen NSFW markierten Kanal, um solche zu nutzen!"
+}
