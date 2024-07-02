@@ -1,0 +1,7 @@
+{
+    "months": "[singular=\"mês\" plural=\"meses\"]",
+    "days": "[singular=\"dia\" plural=\"dias\"]",
+    "hours": "[singular=\"hora\" plural=\"horas\"]",
+    "minutes": "[singular=\"minuto\" plural=\"minutos\"]",
+    "seconds": "[singular=\"segundo\" plural=\"segundos\"]"
+}
