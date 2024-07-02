@@ -1,0 +1,27 @@
+{
+    "permissions": {
+        "me": {
+            "guild": "{bot} fehlt die {perms} Berechtigung.",
+            "channel": "{bot} fehlt die {perms} Berechtigung in {channel}."
+        }
+    },
+    "moderation_actions": {
+        "nothing": "Nichts",
+        "ban": "Bann",
+        "kick": "Kick",
+        "role": "Rolle Zuweisen",
+        "delete_message": "Nachricht Löschen"
+    },
+    "logging": {
+        "account": "Nutzer: {var}",
+        "joined": "Beigetreten: {var}",
+        "created": "Erstellt: {var}",
+        "channel": "Kanal: {var}",
+        "voice": "Voice: {var}",
+        "message": "Nachricht: **[Springe zur Nachricht]({url})**",
+        "command": "Befehl: {var}",
+        "action": "Aktion: {var}",
+        "attempts": "Versuche: {num} [singular=\"versuch\" plural=\"versuche\"]",
+        "reason": "Grund: {var}"
+    }
+}
