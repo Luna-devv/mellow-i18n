@@ -1,0 +1,17 @@
+{
+    "title": "Hey, {username}",
+    "notice": {
+        "1": "Vielen Dank für deinen Vote, es hilft uns wirklich viel!",
+        "2": "Wenn du dieses Projekt weiter unterstützen möchtest, indem du [über top.gg]({url}) votest, erwägst bitte, die Vote Erinnerung mit dem unten stehenden Knopf zu aktivieren!",
+        "3": "Du erhältst diese Nachricht nur einmal."
+    },
+    "reminder": {
+        "1": "Du kannst nun wieder für mich auf top.gg Voten!",
+        "2": "Vote für tolle Vorteile wie eine [Voter Rolle in unserem Community Server]({url}) und mehr wie in {command} gezeigt.",
+        "3": "Vielen Dank, ich weiß dich wirklich zu schätzen!",
+        "4": "Deaktiviere mit {command}"
+    },
+    "button": {
+        "enable": "Vote Erinnerung aktivieren"
+    }
+}
