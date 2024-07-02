@@ -1,8 +1,8 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
+    "title": "NSFW Bild Erkannt",
+    "analysis": "Auswertung",
     "thread": {
-        "name": "Image attachment (NSFW)",
-        "message": "Reupload of an image sent by {user}"
+        "name": "Bild Anhang (NSFW)",
+        "message": "Reupload eines von {user} gesendeten Bildes"
     }
 }
