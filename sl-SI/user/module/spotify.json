@@ -1,6 +1,13 @@
 {
-    "auhtorize": "If you are a verified beta-tester, authorize [us to use your spotify]({url})! Contact support if you want to become one.",
-    "someonePlaying": "{user} is now playing {track} for {duration}",
-    "youPlaying": "You are now also playing {track}",
-    "currentlyPlaying": "{user} is playing{track}by {artists} [singular=\" \" plural=\"on repeat\"]"
+    "auhtorize": "If you are a beta-tester, [authorize me to access your spotify]({url})! Contact support if you want to become a tester.",
+    "error": {
+        "missing_track": "No track to play was provided.",
+        "invalid_track": "Seems like this isn't a spotify song.."
+    },
+    "now_playing": "{user} is now playing {track} for {duration}",
+    "now_also_playing": "You are now also playing {track}",
+    "currently_playing": "{user} is playing {track} by {artists} [singular=\" \" plural=\"on repeat\"]",
+    "button": {
+        "play": "Play on Spotify"
+    }
 }
