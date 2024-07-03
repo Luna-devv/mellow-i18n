@@ -1,9 +1,9 @@
 {
     "channel": {
-        "title": "A Chat to Speech channel is setup",
+        "title": "Ein Text zu Sprach Channel ist eingerichtet",
         "description": {
             "1": "Dieser Server hat einen speziellen Text zu Sprache Kanal in {channel}, bitte poste Nachrichten in diesem Channel, um Sprache zu generieren.",
-            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
+            "2": "Wenn du ein Serveradministrator bist, kannst du den Kanal [auf dem Dashboard deines Servers]({url}) ändern oder entfernen."
         }
     },
     "speaker": {
@@ -29,18 +29,18 @@
     },
     "button": {
         "changeSpeaker": "Änder die Standardstimme",
-        "invite_tts": "Get a 2nd Text to Speech Bot"
+        "invite_tts": "Erhalte einen 2. Text zu Sprache Bot"
     },
     "novc": "Du bist mit keinem Sprachkanal verbunden.",
-    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
+    "toolong": "Deine Nachricht überschreitet das Serverlimit von {max} mit {count} Zeichen.",
     "alreadyplaying": "Warte, bis die Audio von {user} abgespielt ist, verwende {command} wenn dies feststeckt.",
     "playing": "Spielt jetzt in {channel} für {time} [singular=\"sekunde\" plural=\"sekunden\"].",
     "set_default_voice": "Die Standardstimme ist nun {voice}.",
     "set_cts": {
         "enabled": "Chat zu Sprache wurde aktiviert.",
         "disabled": "Chat zu Sprache wurde deaktiviert.",
-        "note": "This change only applies to you and in every server you're in."
+        "note": "Diese Änderung gilt nur für dich und für jeden Server, auf denen du bist."
     },
-    "stopped": "Playback was terminated and reset.",
+    "stopped": "Die Wiedergabe wurde beendet und zurückgesetzt.",
     "web": "Standardsprache & Dateiformat ändern"
 }
