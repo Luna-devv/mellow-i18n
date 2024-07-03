@@ -6,7 +6,7 @@
         }
     },
     "moderation_actions": {
-        "nothing": "Nothing",
+        "nothing": "何も",
         "ban": "禁止",
         "kick": "キック",
         "role": "役割を割り当てる",
@@ -21,7 +21,7 @@
         "message": "メッセージ: **[メッセージにジャンプ]({url})**",
         "command": "コマンド: {var}",
         "action": "アクション: {var}",
-        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
-        "reason": "Reason: {var}"
+        "attempts": "試行：{num} 回",
+        "reason": "理由: {var}"
     }
 }
