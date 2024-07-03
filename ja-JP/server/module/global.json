@@ -1,0 +1,27 @@
+{
+    "permissions": {
+        "me": {
+            "guild": "{bot} は {perms} 権限を持っていません。",
+            "channel": "{bot} は {channel} で {perms} 権限を持っていません。"
+        }
+    },
+    "moderation_actions": {
+        "nothing": "Nothing",
+        "ban": "禁止",
+        "kick": "キック",
+        "role": "役割を割り当てる",
+        "delete_message": "メッセージを削除"
+    },
+    "logging": {
+        "account": "ユーザー: {var}",
+        "joined": "参加日: {var}",
+        "created": "作成日: {var}",
+        "channel": "チャンネル: {var}",
+        "voice": "ボイス: {var}",
+        "message": "メッセージ: **[メッセージにジャンプ]({url})**",
+        "command": "コマンド: {var}",
+        "action": "アクション: {var}",
+        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
+        "reason": "Reason: {var}"
+    }
+}
