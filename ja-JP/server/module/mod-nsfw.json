@@ -1,8 +1,8 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
+    "title": "NSFW画像が検出された",
+    "analysis": "分析",
     "thread": {
-        "name": "Image attachment (NSFW)",
-        "message": "Reupload of an image sent by {user}"
+        "name": "画像添付 (NSFW)",
+        "message": "{user} が送った画像の再アップロード"
     }
 }
