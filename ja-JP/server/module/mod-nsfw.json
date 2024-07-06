@@ -1,0 +1,8 @@
+{
+    "title": "NSFW画像が検出された",
+    "analysis": "分析",
+    "thread": {
+        "name": "画像添付 (NSFW)",
+        "message": "{user} が送った画像の再アップロード"
+    }
+}

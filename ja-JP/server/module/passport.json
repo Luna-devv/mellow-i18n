@@ -1,0 +1,29 @@
+{
+    "select": {
+        "placeholder": "パスポート認証の上書きを管理",
+        "options": {
+            "unverify": {
+                "title": "認証解除＆リセット",
+                "description": "これはユーザーが再認証できるようにし、再認証を要求する"
+            },
+            "punish": {
+                "title": "処罰する ({action})",
+                "description": "これは設定された失敗アクションでユーザーを処罰する"
+            },
+            "verify": {
+                "title": "認証する",
+                "description": "これはユーザーを強制的に認証し、認証された役割を与える"
+            }
+        }
+    },
+    "button": {
+        "verified": "{user} によって認証済み",
+        "unverified": "認証は {user} によって削除されました",
+        "punised": "{user} によって処罰"
+    },
+    "title": {
+        "success": "パスポート：成功",
+        "fail": "パスポート：失敗"
+    },
+    "manual_verification_warning": "このユーザーは今後、認証がブロックされているため、サーバースタッフによって手動で認証される必要があります。"
+}

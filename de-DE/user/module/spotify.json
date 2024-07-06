@@ -1,6 +1,13 @@
 {
-    "auhtorize": "Wenn su ein Beta-Tester bist, autorisiere [uns dein Spotify zu benutzen]({url})! Kontaktiere den Support, wenn du einer werden möchten.",
-    "someonePlaying": "{user} spielt nun {track} für {duration}",
-    "youPlaying": "Du spielst nun auch {track}",
-    "currentlyPlaying": "{user} spielt{track}von {artists} [singular=\" plural=\"bei Wiederholung\"]"
+    "auhtorize": "Wenn du ein Beta-Tester bist, [autorisiere mich auf deine Spotify]({url})! Kontaktiere den Support, wenn du ein Tester werden möchtest.",
+    "error": {
+        "missing_track": "Es wurde kein Titel zum Abspielen angegeben.",
+        "invalid_track": "Es sieht so aus, als ob dies kein Spotify Song ist.."
+    },
+    "now_playing": "{user} spielt nun {track} für {duration}",
+    "now_also_playing": "Du spielst nun auch {track}",
+    "currently_playing": "{user} spielt {track} von {artists} [singular=\" plural=\"wiederholend\"]",
+    "button": {
+        "play": "Auf Spotify Spielen"
+    }
 }

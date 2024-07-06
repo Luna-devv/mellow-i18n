@@ -2,8 +2,8 @@
     "channel": {
         "title": "Ein Text zu Sprach Channel ist eingerichtet",
         "description": {
-            "1": "Dieser Server hat einen speziellen Text zu Sprache Channel in {channel}, bitte poste Nachrichten in diesem Channel, um Sprache zu generieren.",
-            "2": "Wenn du ein Serveradministrator bist, kannst du den Channel [auf dem Dashboard deines Servers]({url}) ändern oder entfernen."
+            "1": "Dieser Server hat einen speziellen Text zu Sprache Kanal in {channel}, bitte poste Nachrichten in diesem Channel, um Sprache zu generieren.",
+            "2": "Wenn du ein Serveradministrator bist, kannst du den Kanal [auf dem Dashboard deines Servers]({url}) ändern oder entfernen."
         }
     },
     "speaker": {
@@ -29,17 +29,17 @@
     },
     "button": {
         "changeSpeaker": "Änder die Standardstimme",
-        "invite_tts": "Hol' dir einen 2. Text zu Sprache Bot"
+        "invite_tts": "Erhalte einen 2. Text zu Sprache Bot"
     },
     "novc": "Du bist mit keinem Sprachkanal verbunden.",
-    "toolong": "Deine Nachricht überschreitet die Servergrenze mit {count} Zeichen. Die maximal zulässige Anzahl ist {max}.",
+    "toolong": "Deine Nachricht überschreitet das Serverlimit von {max} mit {count} Zeichen.",
     "alreadyplaying": "Warte, bis die Audio von {user} abgespielt ist, verwende {command} wenn dies feststeckt.",
     "playing": "Spielt jetzt in {channel} für {time} [singular=\"sekunde\" plural=\"sekunden\"].",
     "set_default_voice": "Die Standardstimme ist nun {voice}.",
     "set_cts": {
         "enabled": "Chat zu Sprache wurde aktiviert.",
         "disabled": "Chat zu Sprache wurde deaktiviert.",
-        "note": "Diese Änderung gilt nur für dich, überall, in jedem Server."
+        "note": "Diese Änderung gilt nur für dich und für jeden Server, auf denen du bist."
     },
     "stopped": "Die Wiedergabe wurde beendet und zurückgesetzt.",
     "web": "Standardsprache & Dateiformat ändern"
