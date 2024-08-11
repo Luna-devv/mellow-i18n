@@ -14,14 +14,14 @@
         }
     },
     "better_query": {
-        "title": "Know your model and improve queries",
+        "title": "Conosci il tuo modello e migliora le richieste",
         "description": {
-            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
-            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
-            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
+            "1": "L'immagine migliora man mano che si forniscono maggiori e migliori dettagli nella query, notare che sovrascrivere la query negativa rimuoverà la preimpostazione.",
+            "2": "Dovresti [trovare le linee guida di utilizzo]({url}) per ottenere risultati migliori.",
+            "3": "Si noti che non ogni modello è buono per tutto, alcuni modelli sono addestrati su anime e altri su immagini realistiche.",
             "4": "Sì, posso generare contenuti NSPL, ma puoi usarli solo all'interno di [canali NSPL contrassegnati]({url}). - (NSPL: Non sicuri per il lavoro)"
         },
-        "footer": "This message is only shown once"
+        "footer": "Questo messaggio viene mostrato solo una volta"
     },
     "model": {
         "title": "Modello selezionato non valido",
@@ -38,8 +38,8 @@
     },
     "button": {
         "regenerate": "Rigenera",
-        "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples"
+        "selenite": "Usa il chat bot Gemini",
+        "examples": "Visualizza alcuni esempi eccezionali"
     },
     "nsfw_query": "Hai provato alcune cose cattive nella descrizione.. Passa a o crea un canale contrassegnato `Soggetto a limiti di età` per usarlo!"
 }
