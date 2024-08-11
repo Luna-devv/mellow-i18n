@@ -29,17 +29,21 @@
     },
     "button": {
         "changeSpeaker": "Änder die Standardstimme",
-        "invite_tts": "Erhalte einen 2. Text zu Sprache Bot"
+        "invite_tts": "Erhalte einen 2. Text zu Sprache Bot",
+        "enable_queue": "Enable message queue"
     },
     "novc": "Du bist mit keinem Sprachkanal verbunden.",
+    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
     "toolong": "Deine Nachricht überschreitet das Serverlimit von {max} mit {count} Zeichen.",
     "alreadyplaying": "Warte, bis die Audio von {user} abgespielt ist, verwende {command} wenn dies feststeckt.",
     "playing": "Spielt jetzt in {channel} für {time} [singular=\"sekunde\" plural=\"sekunden\"].",
-    "set_default_voice": "Die Standardstimme ist nun {voice}.",
-    "set_cts": {
-        "enabled": "Chat zu Sprache wurde aktiviert.",
-        "disabled": "Chat zu Sprache wurde deaktiviert.",
-        "note": "Diese Änderung gilt nur für dich und für jeden Server, auf denen du bist."
+    "set": {
+        "only_you": "This setting only applies to you.",
+        "default_voice": "The default voice is now set to {voice}.",
+        "cts": {
+            "enabled": "Chat to Speech has been enabled.",
+            "disabled": "Chat to Speech has been disabled."
+        }
     },
     "stopped": "Die Wiedergabe wurde beendet und zurückgesetzt.",
     "web": "Standardsprache & Dateiformat ändern"
