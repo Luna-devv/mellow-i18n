@@ -1,13 +1,13 @@
 {
     "channel": {
-        "title": "A Chat to Speech channel is setup",
+        "title": "È stato configurato un canale di conversazione vocale tramite testo",
         "description": {
-            "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
-            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
+            "1": "Questo server ha una configurazione del canale Text to Speech dedicata in {channel}, si prega di pubblicare messaggi in quel canale per generare audio.",
+            "2": "Se sei un amministratore del server, puoi cambiare o rimuovere il canale [su questo dashboard server]({url})."
         }
     },
     "speaker": {
-        "title": "Invalid speaker selected",
+        "title": "Modello selezionato non valido",
         "description": {
             "1": "The speaker you selected does not eixst, please use the autocomplete options or [set a default voice]({url}).",
             "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
