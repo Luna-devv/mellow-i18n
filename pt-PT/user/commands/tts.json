@@ -35,7 +35,7 @@
     "novc": "Você não está conectado a nenhum canal de voz.",
     "noplayer": "O texto para fala não está sendo usado no momento, use {command} primeiro!",
     "toolong": "Sua mensagem excede o limite de servidores de {max} com {count} caracteres.",
-    "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
+    "alreadyplaying": "Aguarde até que a mensagem de {user} termine de ser reproduzida, use {command} se estiver presa.",
     "playing": "Reproduzindo agora em {channel} por {time} [singular=\"segundo\" plural=\"segundos\"].",
     "set": {
         "only_you": "Esta configuração só se aplica a você.",
