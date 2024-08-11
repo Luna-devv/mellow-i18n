@@ -73,7 +73,7 @@
     "moderation_punishment": {
         "ban": "You have been banned from {guild}!",
         "kick": "You have been kicked from {guild}!",
-        "role": "You've gotten the {role} role in {guild}!"
+        "role": "Você ganhou o cargo {role} em {guild}!"
     },
-    "command_user": "Command used by {user}"
+    "command_user": "Comando usado por {user}"
 }
