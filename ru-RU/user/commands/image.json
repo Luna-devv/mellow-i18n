@@ -1,20 +1,20 @@
 {
     "vote": {
-        "title": "Vote to continue using free AI",
+        "title": "Проголосуйте, чтобы продолжить использовать ИИ",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "ИИ {command} генерация не растёт на деревьях! Поддержите нас [голосом на top.gg]({url}), это позволит найти {name} легче, спасибо за вашу поддержку!",
+            "2": "Если вы проголосуете за меня, то вы сможете генерировать столько изображений сколько захотите в течение 12 часов!"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "Возможно незаконный контент",
         "description": {
-            "1": "I have detected possible illegal content in your query, please refrain from using it.",
-            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+            "1": "Обнаружен возможно незаконный контент в вашем запросе, пожалуйста, не повторяйте его.",
+            "2": "Если вы считаете, что это ошибка, то сообщите о ней на [нашем сервере]({url}), спасибо."
         }
     },
     "better_query": {
-        "title": "Know your model and improve queries",
+        "title": "Знайте модель и улучшайте запросы",
         "description": {
             "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
             "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
