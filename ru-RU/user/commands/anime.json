@@ -1,6 +1,6 @@
 {
     "button": {
-        "showMore": "Show more {type}s",
-        "dm": "Save to DM"
+        "showMore": "Показать больше {type}",
+        "dm": "Отправить в ЛС"
     }
 }
