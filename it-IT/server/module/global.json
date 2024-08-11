@@ -1,27 +1,27 @@
 {
     "permissions": {
         "me": {
-            "guild": "{bot} is missing {perms} permission.",
-            "channel": "{bot} is missing {perms} permission in {channel}."
+            "guild": "A {bot} manca l'autorizzazione {perms}.",
+            "channel": "A {bot} manca l'autorizzazione {perms} in {channel}."
         }
     },
     "moderation_actions": {
-        "nothing": "Nothing",
+        "nothing": "Niente",
         "ban": "Ban",
-        "kick": "Kick",
-        "role": "Assign Role",
-        "delete_message": "Delete Message"
+        "kick": "Espulsione",
+        "role": "Assegna ruolo",
+        "delete_message": "Elimina messaggio"
     },
     "logging": {
         "account": "Utente: {var}",
         "joined": "Unito: {var}",
         "created": "Creato: {var}",
-        "channel": "Channel: {var}",
-        "voice": "Voice: {var}",
-        "message": "Message: **[Jump to message]({url})**",
-        "command": "Command: {var}",
-        "action": "Action: {var}",
-        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
-        "reason": "Reason: {var}"
+        "channel": "Canale: {var}",
+        "voice": "Canale Voce: {var}",
+        "message": "Messaggio: **[Vai al messaggio]({url})**",
+        "command": "Comando: {var}",
+        "action": "Azione: {var}",
+        "attempts": "Tentativi: {num} [singulare=\"tentativo\" plurale=\"tentativi\"]",
+        "reason": "Motivo: {var}"
     }
 }
