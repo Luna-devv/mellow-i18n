@@ -1,16 +1,16 @@
 {
-    "noguild": "This command cannot be used inside of private messages or in user-installed space.",
-    "userdisabled": "You can no longer use this bot, your account has been disabled.",
-    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
-    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
+    "noguild": "Este comando não pode ser usado em mensagens privadas ou no espaço instalado pelo utilizador.",
+    "userdisabled": "Não pode mais usar esse bot, sua conta foi desativada.",
+    "dmdisabled": "Não foi possível enviar a mensagem, suas mensagens privadas parecem estar desativadas.",
+    "botmention": "Olá {user}, usa **{emote} Comandos de barra** para me usar!\nUsa {command} para mais informações.",
     "none": "nenhum",
-    "error": "Something went wrong, please try again later.",
+    "error": "Algo deu errado, por favor, tente novamente mais tarde.",
     "premium": {
         "required": "subscrição necessária",
         "embeds": {
             "title": "Desculpe, mas subscrição é necessária",
             "limittitle": "Desculpe, mas o limite de subscrições foi atingido",
-            "description": "In order I can provide a stable bot and money doesn't grow on trees, I have to lock non essential features behind a Subscription."
+            "description": "Para podermos fornecer um bot estável e o dinheiro não cresce nas árvores, temos de bloquear as funcionalidades não essenciais atrás de uma Subscrição."
         },
         "button": {
             "subscribe": "Subscreva"
@@ -19,8 +19,8 @@
     "button": {
         "add": "Adicionar {name}",
         "support": "Suporte",
-        "vote": "Vote for {name}",
-        "voteSkip": "Support us to skip voting"
+        "vote": "Vote em {name}",
+        "voteSkip": "Apoie-nos para pular a votação"
     },
     "permissions": {
         "user": {
@@ -61,18 +61,18 @@
         "invite": "[Adicionar {bot}]({url}) ao seu servidor"
     },
     "nsfw": {
-        "title": "NSFW (Adult 18+) response detected",
+        "title": "Resposta NSFW (adulto 18+) detectada",
         "description": {
-            "1": "You cannot view NSFW content in a SFW marked channel.",
-            "2": "Either mark the this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+            "1": "Você não pode ver o conteúdo adulto em um canal marcado com SFW.",
+            "2": "Either mark this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
         },
         "button": {
-            "convert_channel_nsfw": "Convert channel to NSFW"
+            "convert_channel_nsfw": "Converter canal para NSFW"
         }
     },
     "moderation_punishment": {
-        "ban": "You have been banned from {guild}!",
-        "kick": "You have been kicked from {guild}!",
+        "ban": "Você foi banido de {guild}!",
+        "kick": "Você foi expulso de {guild}!",
         "role": "Você ganhou o cargo {role} em {guild}!"
     },
     "command_user": "Comando usado por {user}"
