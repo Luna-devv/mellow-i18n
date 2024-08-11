@@ -39,8 +39,7 @@
     "button": {
         "regenerate": "Rigenera",
         "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples",
-        "convert_channel_nsfw": "Converti canale un Canale soggetto a limiti di età"
+        "examples": "View some awesome examples"
     },
     "nsfw_query": "Hai provato alcune cose cattive nella descrizione.. Passa a o crea un canale contrassegnato `Soggetto a limiti di età` per usarlo!"
 }
