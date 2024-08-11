@@ -6,22 +6,22 @@
         }
     },
     "moderation_actions": {
-        "nothing": "Nothing",
-        "ban": "Ban",
-        "kick": "Kick",
-        "role": "Assign Role",
-        "delete_message": "Delete Message"
+        "nothing": "Ничего",
+        "ban": "Кик",
+        "kick": "Кик",
+        "role": "Назначить роль",
+        "delete_message": "Удалить сообщение"
     },
     "logging": {
-        "account": "User: {var}",
-        "joined": "Joined: {var}",
-        "created": "Created: {var}",
-        "channel": "Channel: {var}",
-        "voice": "Voice: {var}",
-        "message": "Message: **[Jump to message]({url})**",
-        "command": "Command: {var}",
-        "action": "Action: {var}",
-        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
-        "reason": "Reason: {var}"
+        "account": "Пользователь: {var}",
+        "joined": "Присоединились: {var}",
+        "created": "Создано: {var}",
+        "channel": "Канал: {var}",
+        "voice": "Голосовой чат: {var}",
+        "message": "Сообщение: **[Перейти]({url})**",
+        "command": "Команда: {var}",
+        "action": "Действие: {var}",
+        "attempts": "Попыток: {num}",
+        "reason": "Причина: {var}"
     }
 }
