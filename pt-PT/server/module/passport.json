@@ -1,13 +1,13 @@
 {
     "select": {
-        "placeholder": "Manage passport verification overrides.",
+        "placeholder": "Gerenciar substituições de verificação de passaporte.",
         "options": {
             "unverify": {
-                "title": "Unverify & Reset",
-                "description": "This will allow and require the user to re-verify."
+                "title": "Não verificar e Reiniciar",
+                "description": "Isto permitirá e exigirá que o usuário verifique novamente."
             },
             "punish": {
-                "title": "Punish ({action})",
+                "title": "Punição ({action})",
                 "description": "This will punish the user with the set failed action."
             },
             "verify": {
