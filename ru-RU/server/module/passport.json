@@ -4,15 +4,15 @@
         "options": {
             "unverify": {
                 "title": "Убрать верификацию",
-                "description": "This will allow and require the user to re-verify."
+                "description": "Это запросит пользователя верифицироваться заново."
             },
             "punish": {
-                "title": "Punish ({action})",
-                "description": "This will punish the user with the set failed action."
+                "title": "Наказание ({action})",
+                "description": "Это накажет пользователя выбранным действием."
             },
             "verify": {
-                "title": "Verify",
-                "description": "This will force-verify the user and give the verified role."
+                "title": "Верифицировать",
+                "description": "Это обойдет проверку и выдаст пользователю роль верификации."
             }
         }
     },
