@@ -1,12 +1,12 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
-    "description": "{percent} nsfw ({threshold} threshold)",
+    "title": "Обнаружено NSFW изображение",
+    "analysis": "Анализ",
+    "description": "{percent} nsfw ({threshold} порог)",
     "thread": {
-        "name": "Image attachment (NSFW)",
-        "message": "Reupload of an image sent by {user}"
+        "name": "Вложенное изображение (NSFW)",
+        "message": "Перезалив сообщения отправленного {user}"
     },
     "button": {
-        "update_threshold": "Change the threshold ({threshold}%)"
+        "update_threshold": "Изменить порог ({threshold}%)"
     }
 }
