@@ -1,6 +1,6 @@
 {
-    "messages": "Message leaderboard",
-    "voiceminutes": "Voice leaderboard",
-    "invites": "Invite leaderboard",
-    "web": "View the web leaderboard"
+    "messages": "Classifica Messaggi",
+    "voiceminutes": "Classifica Canali Vocali",
+    "invites": "Classifica Inviti",
+    "web": "Guarda la classifica online"
 }
