@@ -21,10 +21,10 @@
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Houve um erro ao gerar",
         "description": {
             "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Se pensa que isso é um erro, por favor reporte-o no nosso [servidor de suporte]({url}), pedimos desculpas."
         }
     },
     "button": {
