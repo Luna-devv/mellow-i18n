@@ -1,13 +1,13 @@
 {
-    "success": "{user} marked this channel as Age-Restricted, you may now run {command} to generate NSFW content.",
+    "success": "Этот канал был отмечен как ограниченный по возрасту {user}, вы можете использовать {command} чтобы генерировать NSFW контент.",
     "tutorial": {
-        "title": "How to mark a channel as NSFW",
+        "title": "Как отметить канал как NSFW",
         "description": {
-            "1": "You do not own or manage this server, [invite {bot} to your own server]({url}) or ask a Server Administrator to follow the steps below.",
-            "2": "1. (mobile) Tap the channel name and select 'Settings'.",
-            "3": "1. (desktop) Right-click the channel name and select 'Edit Channel'.",
-            "4": "2. Scroll down and enable 'Age-Restricted Channel'.",
-            "5": "3. Click 'Save Changes'."
+            "1": "Вы не владелец или не управляете этим сервером, [пригласите {bot} на свой сервер]({url}) или попросите администратора выполнить шаги ниже.",
+            "2": "1. (телефон) Нажмите на название канала и выберите 'Настроить канал'.",
+            "3": "1. (компьютер) Нажмите ПКМ по названию канала и выберите 'Настроить канал'.",
+            "4": "2. Пролистайте вниз и включите 'Канал с возрастным ограничением'.",
+            "5": "3. Нажмите 'Сохранить изменения'."
         }
     }
 }
