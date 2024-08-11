@@ -2,7 +2,7 @@
     "auhtorize": "Se for um testador beta, [autorize-me a acessar o seu Spotify]({url})! Entre em contacto com o suporte se quiser se tornar um testador.",
     "error": {
         "missing_track": "Nenhuma faixa para reproduzir foi fornecida.",
-        "invalid_track": "Parece que esse não é uma música do Spotify.."
+        "invalid_track": "Parece que esse não é uma música do Spotify…"
     },
     "now_playing": "{user} está a tocar {track} durante {duration}",
     "now_also_playing": "Você agora também está tocando {track}",
