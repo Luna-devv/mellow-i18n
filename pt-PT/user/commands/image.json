@@ -38,8 +38,8 @@
     },
     "button": {
         "regenerate": "Gerar novamente",
-        "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples"
+        "selenite": "Obter chatbot gemini",
+        "examples": "Veja alguns exemplos incríveis"
     },
-    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+    "nsfw_query": "Tentou algumas coisas malvadas na consulta… Troque para ou crie um canal NSFW para usá-la!"
 }
