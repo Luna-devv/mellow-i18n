@@ -10,14 +10,14 @@
         "title": "Possível conteúdo ilegal",
         "description": {
             "1": "Eu detectei possíveis conteúdos ilegais na sua consulta, por favor se abstenha de usá-los.",
-            "2": "Se você acha que isso é um erro, por favor, reporte em nosso [servidor de suporte]({url}), obrigado."
+            "2": "Se pensa que isso é um erro, por favor, reporte no nosso [servidor de suporte]({url}), obrigado."
         }
     },
     "better_query": {
         "title": "Conheça o seu modelo e melhore as consultas",
         "description": {
             "1": "A imagem melhora conforme fornece mais e melhores detalhes na consulta, note que sob-escrever a consulta negativa irá remover a predefinição.",
-            "2": "Você deve [encontrar as diretrizes de uso]({url}) para que o seu modelo obtenha melhores resultados.",
+            "2": "Deve [encontrar as diretrizes de uso]({url}) para que o seu modelo obtenha melhores resultados.",
             "3": "Note que nem todos os modelos são bons para tudo, alguns modelos são treinados em anime e outros em imagens realistas.",
             "4": "Sim, eu posso gerar conteúdo NSFW, mas só pode usá-lo dentro de [canais marcados pelo NSFW]({url})."
         },
@@ -26,7 +26,7 @@
     "model": {
         "title": "Modelo selecionado inválido",
         "description": {
-            "1": "O modelo que você selecionou não existe, por favor, use as opções de preenchimento automático.",
+            "1": "O modelo que selecionou não existe, por favor, use as opções de preenchimento automático.",
             "2": "Se isso continuar a acontecer, por favor peça ajuda no nosso [servidor de suporte]({url}), obrigada."
         }
     },
