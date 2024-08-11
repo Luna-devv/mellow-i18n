@@ -30,50 +30,50 @@
                 "user": {
                     "text": "You cannot perform this action since the highest role of that user is higher than yours.",
                     "user": "User: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "you": "Tu: {y.role} @ index {y.index}"
                 },
                 "role": {
-                    "text": "You cannot perform this action since your highest role is lower than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "text": "Non puoi eseguire questa azione poiché il tuo ruolo più alto è inferiore al ruolo da gestire.",
+                    "user": "Ruolo: {u.role} @ index {u.index}",
+                    "you": "Tu: {y.role} @ index {y.index}"
                 }
             }
         },
         "me": {
-            "guild": "I cannot run this action since I'm missing the {perms} permissions.",
-            "channel": "I cannot run this action since I'm missing the {perms} permissions in this channel.",
+            "guild": "Non riesco a eseguire questa azione poiché mi mancano le autorizzazioni {perms}.",
+            "channel": "Non riesco a eseguire questa azione poiché mi mancano le autorizzazioni {perms} in questo canale.",
             "roles": {
                 "user": {
-                    "text": "I cannot perform this action since the highest role of that user is higher than mine.",
-                    "user": "User: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "text": "Non posso eseguire questa azione poiché il ruolo più alto di quell'utente è superiore al mio.",
+                    "user": "Utente: {u.role} @ index {u.index}",
+                    "bot": "Io: {b.role} @ index {b.index}"
                 },
                 "role": {
-                    "text": "I cannot perform this action since my highest role is higher than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "text": "Non posso eseguire questa azione poiché il mio ruolo più alto è superiore al ruolo da gestire.",
+                    "user": "Ruolo: {u.role} @ index {u.index}",
+                    "bot": "Io: {b.role} @ index {b.index}"
                 }
             }
         }
     },
     "ad": {
-        "vote": "Please help us at {url}, only takes a few seconds",
-        "invite": "[Add {bot}]({url}) to your server"
+        "vote": "Aiutaci su {url}, richiede solo pochi secondi",
+        "invite": "[Aggiungi {bot}]({url}) al tuo server"
     },
     "nsfw": {
-        "title": "NSFW (Adult 18+) response detected",
+        "title": "Rilevata risposta NSFW (Adulti 18+)",
         "description": {
-            "1": "You cannot view NSFW content in a SFW marked channel.",
-            "2": "Either mark the this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+            "1": "Non è possibile visualizzare il contenuto NSFW in un canale contrassegnato SFW.",
+            "2": "Either mark this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
         },
         "button": {
-            "convert_channel_nsfw": "Convert channel to NSFW"
+            "convert_channel_nsfw": "Converti il canale in NSFW"
         }
     },
     "moderation_punishment": {
-        "ban": "You have been banned from {guild}!",
-        "kick": "You have been kicked from {guild}!",
-        "role": "You've gotten the {role} role in {guild}!"
+        "ban": "Sei stato bannato da {guild}!",
+        "kick": "Sei stato espulso da {guild}!",
+        "role": "Hai ottenuto il ruolo {role} in {guild}!"
     },
-    "command_user": "Command used by {user}"
+    "command_user": "Comando utilizzato da {user}"
 }
