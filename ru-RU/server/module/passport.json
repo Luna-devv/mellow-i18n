@@ -17,13 +17,13 @@
         }
     },
     "button": {
-        "verified": "Verified by {user}",
-        "unverified": "Unverified by {user}",
-        "punised": "Punished by {user}"
+        "verified": "Верифицировано {user}",
+        "unverified": "Разверифицировано {user}",
+        "punised": "Наказано {user}"
     },
     "title": {
-        "success": "Passport: Success",
-        "fail": "Passport: Failed"
+        "success": "Passport: Успешно",
+        "fail": "Passport: Неуспешно"
     },
-    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
+    "manual_verification_warning": "Этот пользователь заблокирован от проверки в будущем, модераторам нужно верифицировать их вручную."
 }
