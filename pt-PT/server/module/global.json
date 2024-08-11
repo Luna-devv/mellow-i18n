@@ -13,7 +13,7 @@
         "delete_message": "Apagar mensagem"
     },
     "logging": {
-        "account": "Usuário: {var}",
+        "account": "Utilizador: {var}",
         "joined": "Entrou a: {var}",
         "created": "Criado a: {var}",
         "channel": "Canal: {var}",
