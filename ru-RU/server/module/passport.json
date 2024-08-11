@@ -1,9 +1,9 @@
 {
     "select": {
-        "placeholder": "Manage passport verification overrides.",
+        "placeholder": "Управление решения Passport.",
         "options": {
             "unverify": {
-                "title": "Unverify & Reset",
+                "title": "Убрать верификацию",
                 "description": "This will allow and require the user to re-verify."
             },
             "punish": {
