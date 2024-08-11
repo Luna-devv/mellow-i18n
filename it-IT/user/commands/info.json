@@ -13,15 +13,15 @@
         "none": "Nessun pronome impostato"
     },
     "button": {
-        "guildAvatar": "Per-Guild Avatar",
+        "guildAvatar": "Avatar per Gilda",
         "avatar": "Avatar",
         "banner": "Banner"
     },
     "likes": {
-        "add": "Like",
-        "remove": "Remove Like",
-        "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
-        "removed": "You no longer like {user}'s profile.",
-        "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
+        "add": "Mi piace",
+        "remove": "Rimuovi Like",
+        "added": "Ti è piaciuto il profilo di {user}. Ora hanno {num};[singolare=\"Mi piace\", plural=\"Mi piace\"].",
+        "removed": "Non ti piace più il profilo di {user}.",
+        "dm": "{emote} Congratulazioni, {name}!\n\nAbbiamo delle fantastiche novità da condividere con te! Il tuo profilo {bot} ha raggiunto un incredibile {num} mi piace! Stai chiaramente facendo qualcosa di giusto perché le persone non ne hanno mai abbastanza di te!\n\nQuindi manteniamo lo slancio e diffondiamo l'amore! Dì a tutti di invitare {bot} inviando loro {link} e assicurati di utilizzare il {command} seguito dal tuo nome utente a cuore 💖 il tuo profilo!\n\nGrazie per essere una parte così fantastica della nostra comunità!\n\nSaluti,\n{bot} "
     }
 }
