@@ -4,7 +4,7 @@
     },
     "title": "Bem-vindo, {user}!",
     "description": {
-        "verify": "Para obter acesso a este servidor, você precisará concluir uma verificação rápida para reduzir o risco de ataques de bots e garantir segurança geral {emote}\n\nObserve que os administradores e mods não têm acesso a nenhuma das informações fornecidas, tais como e-mails ou IPs.",
+        "verify": "Para obter acesso a este servidor, precisará concluir uma verificação rápida para reduzir o risco de ataques de bots e garantir segurança geral {emote}\n\nObserve que os administradores e mods não têm acesso a nenhuma das informações fornecidas, tais como e-mails ou IPs.",
         "premium": "Obrigado por ser um membro da {bot} Pro e por apoiar este projeto {emote}\n\nNote que não precisa passar na verificação manualmente, como pular a verificação é parte da sua assinatura Pro."
     }
 }
