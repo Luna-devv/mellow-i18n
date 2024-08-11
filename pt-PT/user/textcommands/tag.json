@@ -1,8 +1,8 @@
 {
     "invalid": {
-        "title": "A tag with that name does not exist.",
+        "title": "Não existe uma tag com esse nome.",
         "button": {
-            "create": "Create new tag"
+            "create": "Criar nova tag"
         }
     }
 }
