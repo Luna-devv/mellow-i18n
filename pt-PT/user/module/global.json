@@ -44,12 +44,12 @@
             "channel": "Não posso executar esta ação porque não tenho as permissões {perms} neste canal.",
             "roles": {
                 "user": {
-                    "text": "Eu não posso executar essa ação, uma vez que o maior cargo desse usuário é maior que o meu.",
+                    "text": "Eu não posso executar essa ação, visto que o maior cargo desse utilizador é maior que o meu.",
                     "user": "Utilizador: {u.role} @ índice {u.index}",
                     "bot": "Eu: {b.role} @ índice {b.index}"
                 },
                 "role": {
-                    "text": "Eu não posso executar essa ação, uma vez que o meu maior cargo é superior ao cargo de gerir.",
+                    "text": "Eu não posso executar essa ação, visto que o meu maior cargo é superior ao cargo de gerir.",
                     "user": "Cargo: {u.role} @ índice {u.index}",
                     "bot": "Eu: {b.role} @ índice {b.index}"
                 }
@@ -64,7 +64,7 @@
         "title": "Resposta NSFW (adulto 18+) detectada",
         "description": {
             "1": "Você não pode ver o conteúdo adulto em um canal marcado com SFW.",
-            "2": "Either mark this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+            "2": "Marque este canal como Restrito(18+) ou crie um novo canal e o marque como Restrito(18+)."
         },
         "button": {
             "convert_channel_nsfw": "Converter canal para NSFW"
@@ -73,7 +73,7 @@
     "moderation_punishment": {
         "ban": "Você foi banido de {guild}!",
         "kick": "Você foi expulso de {guild}!",
-        "role": "Você ganhou o cargo {role} em {guild}!"
+        "role": "Ganhou o cargo {role} em {guild}!"
     },
     "command_user": "Comando usado por {user}"
 }
