@@ -39,8 +39,7 @@
     "button": {
         "regenerate": "Regenerate",
         "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples",
-        "convert_channel_nsfw": "Convert channel to NSFW"
+        "examples": "View some awesome examples"
     },
     "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
 }
