@@ -1,6 +1,6 @@
 {
-    "success": "{user}'s avatar:",
+    "success": "Avatar di {user}:",
     "button": {
-        "link": "Open in Browser"
+        "link": "Apri nel browser"
     }
 }
