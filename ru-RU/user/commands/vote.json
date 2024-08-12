@@ -1,8 +1,8 @@
 {
-    "title": "Support me by voting!",
+    "title": "Поддержите меня голосом!",
     "description": {
-        "1": "It's like giving us money without giving any money! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-        "2": "Voting for me will allow you access to some higher limits in some places and a [voter role in our community server]({url}) for the next 12 hours!"
+        "1": "Это как дать нам деньги, не давая никаких денег! Поддержите нас [голосом на top.gg]({url}), это позволит найти {name} легче, спасибо за вашу поддержку!",
+        "2": "Если вы проголосуете за меня, то вы повысите лимит для некоторых действий и получите [роль за голос на нашем сервере]({url}) в течение 12 часов!"
     },
-    "already": "you've already voted today, come back {time} to vote again!"
+    "already": "вы уже голосовали сегодня, возвращайтесь к {time}, чтобы проголосовать снова!"
 }
