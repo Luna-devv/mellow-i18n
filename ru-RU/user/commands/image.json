@@ -26,7 +26,7 @@
     "model": {
         "title": "Выбрана неверная модель",
         "description": {
-            "1": "The model you selected does not exist, please use the autocomplete options.",
+            "1": "Выбранная модель не существует, пожалуйста, выберите из существующих опций.",
             "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
         }
     },
