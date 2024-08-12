@@ -30,24 +30,24 @@
     "button": {
         "changeSpeaker": "Änder die Standardstimme",
         "invite_tts": "Erhalte einen 2. Text zu Sprache Bot",
-        "enable_queue": "Enable message queue"
+        "enable_queue": "Nachrichtenwarteschlange aktivieren"
     },
     "novc": "Du bist mit keinem Sprachkanal verbunden.",
-    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
+    "noplayer": "Text-zu-Sprache wird im Moment nicht verwendet. Verwende zuerst {command}!",
     "toolong": "Deine Nachricht überschreitet das Serverlimit von {max} mit {count} Zeichen.",
     "alreadyplaying": "Warte, bis die Audio von {user} abgespielt ist, verwende {command} wenn dies feststeckt.",
     "playing": "Spielt jetzt in {channel} für {time} [singular=\"sekunde\" plural=\"sekunden\"].",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "Diese Einstellung gilt nur für dich.",
+        "default_voice": "Die Standard-Stimme ist jetzt auf {voice} gesetzt.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Chat-zu-Sprache wurde aktiviert.",
+            "disabled": "Chat-zu-Sprache wurde deaktiviert."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Alle aktiven Filter wurden ausgeschaltet.",
+            "enabled": "Der Filter {filter} ist für die aktuelle Sitzung aktiviert.",
+            "disabled": "Der Filter {filter} ist für die aktuelle Sitzung deaktiviert."
         }
     },
     "stopped": "Die Wiedergabe wurde beendet und zurückgesetzt.",
