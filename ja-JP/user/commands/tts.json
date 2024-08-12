@@ -43,6 +43,11 @@
         "cts": {
             "enabled": "Chat to Speech has been enabled.",
             "disabled": "Chat to Speech has been disabled."
+        },
+        "filter": {
+            "cleared": "Disabled all active filters.",
+            "enabled": "Enabled the {filter} filter for the current session.",
+            "disabled": "Disabled the {filter} filter for the current session."
         }
     },
     "stopped": "Playback was terminated and reset.",
