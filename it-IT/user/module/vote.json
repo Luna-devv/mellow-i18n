@@ -6,12 +6,12 @@
         "3": "Riceverai questo messaggio solo una volta."
     },
     "reminder": {
-        "1": "You are now able to vote again for me on top.gg!",
-        "2": "Vote to keep awesome perks such as a [voter role in our community server]({url}) and more as shown in {command}.",
-        "3": "Thank you alot, I really appreciate you!",
-        "4": "Disable using {command}"
+        "1": "Ora puoi votare di nuovo per me su top.gg!",
+        "2": "Vota per tenere vantaggi impressionanti come un [ruolo voter nel nostro server della comunità]({url}) e più come mostrato in {command}.",
+        "3": "Grazie mille, ti apprezzo molto!",
+        "4": "Disabilita usando {command}"
     },
     "button": {
-        "enable": "Enable vote reminder"
+        "enable": "Abilita promemoria di votazione"
     }
 }
