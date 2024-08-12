@@ -45,9 +45,9 @@
             "disabled": "Conversa para fala foi desativado."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Desabilitei todos os filtros ativos.",
+            "enabled": "Ativei o filtro {filter} para a sessão atual.",
+            "disabled": "Desativei o filtro {filter} para a sessão atual."
         }
     },
     "stopped": "A reprodução foi encerrada e reiniciada.",
