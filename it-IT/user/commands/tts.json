@@ -9,47 +9,47 @@
     "speaker": {
         "title": "Modello selezionato non valido",
         "description": {
-            "1": "The speaker you selected does not eixst, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "La voce selezionata non esiste, si prega di utilizzare le opzioni di completamento automatico o [impostare una voce predefinita]({url}).",
+            "2": "Se questo continua a accadere, si prega di chiedere nel nostro [server di supporto]({url}), grazie."
         }
     },
     "vote": {
-        "title": "Vote requried for long input",
+        "title": "Votazione richiesta per testi lunghi",
         "description": {
-            "1": "Audio generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate {newamount} characters instead of just {amount} for the next 12 hours!"
+            "1": "La generazione audio non cresce sugli alberi! Sostienici con un [voto veloce su top.gg]({url}), permette alle persone di trovare più facilmente {name}, grazie per il tuo supporto!",
+            "2": "Votare per me ti permetterà di generare {newamount} personaggi, invece di solo {amount} per le prossime 12 ore!"
         }
     },
     "error": {
         "title": "Si è verificato un errore durante il generamento",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
+            "1": "Questo accade solitamente se la lingua dell'testo non corrisponde alla lingua dell'altoparlante, prova a cambiare la lingua di input o l'altoparlante.",
             "2": "Se pensi che questo sia un errore, segnalalo sul nostro [server di supporto]({url}), grazie."
         }
     },
     "button": {
-        "changeSpeaker": "Change default speaker",
-        "invite_tts": "Get a 2nd Text to Speech Bot",
-        "enable_queue": "Enable message queue"
+        "changeSpeaker": "Cambia voce predefinita",
+        "invite_tts": "Prendi un secondo Bot con le modalitá testo a voce",
+        "enable_queue": "Abilita coda messaggi"
     },
-    "novc": "You're not connected to any voice channels.",
-    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
-    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
+    "novc": "Non sei connesso ad un canale vocale.",
+    "noplayer": "Il testo a voce non è usato al momento, usa {command} prima!",
+    "toolong": "Il tuo messaggio supera il limite di {max} dei server con {count} caratteri.",
     "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
-    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "playing": "Ora parlando in {channel} per {time} [singular=\"secondo\" plural=\"secondi\"].",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "Questa impostazione si applica solo a te.",
+        "default_voice": "La voce predefinita è ora impostata su {voice}.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Chat to Speech è stato abilitato.",
+            "disabled": "Chat to Speech è stato abilitato."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Disabilita tutti i filtri attivi.",
+            "enabled": "Abilitato il filtro {filter} per la sessione corrente.",
+            "disabled": "Disabilitato il filtro {filter} per la sessione corrente."
         }
     },
-    "stopped": "Playback was terminated and reset.",
-    "web": "Change default voice & fileformat"
+    "stopped": "La riproduzione è stata terminata e resettata.",
+    "web": "Cambia la voce predefinita e il formato file"
 }
