@@ -9,7 +9,7 @@
     "speaker": {
         "title": "Выбран неверный голос",
         "description": {
-            "1": "The speaker you selected does not eixst, please use the autocomplete options or [set a default voice]({url}).",
+            "1": "Выбранный голос не существует, пожалуйста, выберите из существующих опций или [выберите голос по умолчанию]({url}).",
             "2": "Если это повторяется, то сообщите об этом в нашем [сервере поддержки]({url}), спасибо."
         }
     },
@@ -36,20 +36,20 @@
     "noplayer": "Не используется синтез речи, сперва используйте {command}!",
     "toolong": "Ваше сообщение превышает лимит сервера {max} на {count} символов.",
     "alreadyplaying": "Дождитесь завершения воспроизведения сообщения {user} или используйте {command} если оно застряло.",
-    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "playing": "Проигрывается в {channel} в течении {time} сек.",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "Этот параметр применяется только к вам.",
+        "default_voice": "Голос по умолчанию теперь установлен на {voice}.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Синтез речи включен.",
+            "disabled": "Синтез речи выключен."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Все активные фильтры отключены.",
+            "enabled": "Фильтр {filter} включен для текущей сессии.",
+            "disabled": "Фильтр {filter} выключен для текущей сессии."
         }
     },
-    "stopped": "Playback was terminated and reset.",
-    "web": "Change default voice & fileformat"
+    "stopped": "Воспроизведение прервано.",
+    "web": "Изменить голос и формат файла по умолчанию"
 }
