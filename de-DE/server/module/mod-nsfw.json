@@ -1,12 +1,12 @@
 {
     "title": "NSFW Bild Erkannt",
     "analysis": "Auswertung",
-    "description": "{percent} nsfw ({threshold} threshold)",
+    "description": "{percent} nsfw ({threshold} Schwellenwert)",
     "thread": {
         "name": "Bild Anhang (NSFW)",
         "message": "Reupload eines von {user} gesendeten Bildes"
     },
     "button": {
-        "update_threshold": "Change the threshold ({threshold}%)"
+        "update_threshold": "Ändere den Schwellenwert ({threshold}%)"
     }
 }
