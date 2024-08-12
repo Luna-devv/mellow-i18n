@@ -64,10 +64,10 @@
         "title": "NSFW (Erwachsene 18+) Antwort erkannt",
         "description": {
             "1": "NSFW-Inhalte können nicht in einem SFW markierten Kanal angezeigt werden.",
-            "2": "Either mark this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+            "2": "Markiere entweder diesen Kanal als altersbeschränkt oder erstelle einen neuen Kanal und markiere diesen als altersbeschränkt."
         },
         "button": {
-            "convert_channel_nsfw": "Convert channel to NSFW"
+            "convert_channel_nsfw": "Kanal zu NSFW umwandeln"
         }
     },
     "moderation_punishment": {
