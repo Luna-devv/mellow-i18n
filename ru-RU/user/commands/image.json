@@ -16,15 +16,15 @@
     "better_query": {
         "title": "Знайте модель и улучшайте запросы",
         "description": {
-            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
-            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
-            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
-            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+            "1": "Картинка улучшается по мере того, как вы дополняете запрос. Заметьте, что перезапись негативного запроса уберёт пресет.",
+            "2": "Ты можешь использовать [руководство по использованию]({url}) модели, чтобы получить результаты лучше.",
+            "3": "Заметьте, что не каждая модель хороша для всего, некоторые модели тренированы на аниме, а другие на реалистичных изображениях.",
+            "4": "Я могу генерировать NSFW контент, но ты можешь использовать команду только в [каналах с ограничениями по возрасту]({url})."
         },
-        "footer": "This message is only shown once"
+        "footer": "Это сообщение показывается только один раз"
     },
     "model": {
-        "title": "Invalid model selected",
+        "title": "Выбрана неверная модель",
         "description": {
             "1": "The model you selected does not exist, please use the autocomplete options.",
             "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
