@@ -1,27 +1,27 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
-    "invites": "Invites",
-    "voice": "Voice",
-    "spotify": "Currently Listening",
-    "none": "none",
-    "globalScope": "Showing stats from all guilds combined.",
+    "messages": "Сообщения",
+    "name": "Имя",
+    "created": "Создано",
+    "joined": "Присоединились",
+    "invites": "Приглашения",
+    "voice": "Голосовой канал",
+    "spotify": "Сейчас слушает",
+    "none": "нету",
+    "globalScope": "Показ статистики из всех серверов вместе.",
     "pronouns": {
-        "title": "Pronouns",
-        "none": "No pronouns set"
+        "title": "Местоимения",
+        "none": "Не задано"
     },
     "button": {
-        "guildAvatar": "Per-Guild Avatar",
-        "avatar": "Avatar",
-        "banner": "Banner"
+        "guildAvatar": "Аватарка на сервере",
+        "avatar": "Аватарка",
+        "banner": "Баннер"
     },
     "likes": {
-        "add": "Like",
-        "remove": "Remove Like",
-        "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
-        "removed": "You no longer like {user}'s profile.",
+        "add": "Нравится",
+        "remove": "Больше не нравится",
+        "added": "Вам понравился профиль {user}, теперь у них лайков: {num}.",
+        "removed": "Вам больше не нравится профиль {user}.",
         "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
     }
 }
