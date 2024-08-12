@@ -1,8 +1,12 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
+    "title": "Imagem NSFW detectada",
+    "analysis": "Análise",
+    "description": "{percent} nsfw ({threshold} limite)",
     "thread": {
-        "name": "Image attachment (NSFW)",
-        "message": "Reupload of an image sent by {user}"
+        "name": "Anexo de imagem (NSFW)",
+        "message": "Reenvio de uma imagem enviada pelo {user}"
+    },
+    "button": {
+        "update_threshold": "Alterar o limite ({threshold}%)"
     }
 }

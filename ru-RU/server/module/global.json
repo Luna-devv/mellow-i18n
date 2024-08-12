@@ -1,0 +1,27 @@
+{
+    "permissions": {
+        "me": {
+            "guild": "{bot} не имеет разрешения {perms}.",
+            "channel": "{bot} не имеет разрешения {perms} в {channel}."
+        }
+    },
+    "moderation_actions": {
+        "nothing": "Ничего",
+        "ban": "Кик",
+        "kick": "Кик",
+        "role": "Назначить роль",
+        "delete_message": "Удалить сообщение"
+    },
+    "logging": {
+        "account": "Пользователь: {var}",
+        "joined": "Присоединились: {var}",
+        "created": "Создано: {var}",
+        "channel": "Канал: {var}",
+        "voice": "Голосовой чат: {var}",
+        "message": "Сообщение: **[Перейти]({url})**",
+        "command": "Команда: {var}",
+        "action": "Действие: {var}",
+        "attempts": "Попыток: {num}",
+        "reason": "Причина: {var}"
+    }
+}

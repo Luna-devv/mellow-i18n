@@ -1,4 +1,4 @@
 {
-    "members": "{amount} members",
+    "members": "Membros {amount}",
     "boosts": "{amount} boosts"
 }

@@ -1,29 +1,29 @@
 {
     "select": {
-        "placeholder": "Manage passport verification overrides.",
+        "placeholder": "Gerenciar substituições de verificação de passaporte.",
         "options": {
             "unverify": {
-                "title": "Unverify & Reset",
-                "description": "This will allow and require the user to re-verify."
+                "title": "Não verificar e Reiniciar",
+                "description": "Isto permitirá e exigirá que o usuário verifique novamente."
             },
             "punish": {
-                "title": "Punish ({action})",
-                "description": "This will punish the user with the set failed action."
+                "title": "Punição ({action})",
+                "description": "Isto irá punir o usuário com a ação por falha definida."
             },
             "verify": {
-                "title": "Verify",
-                "description": "This will force-verify the user and give the verified role."
+                "title": "Verificar",
+                "description": "Isto forçará o utilizador a verificar e dará o cargo de verificado."
             }
         }
     },
     "button": {
-        "verified": "Verified by {user}",
-        "unverified": "Unverified by {user}",
-        "punised": "Punished by {user}"
+        "verified": "Verificado por {user}",
+        "unverified": "Não verificado por {user}",
+        "punised": "Punido por {user}"
     },
     "title": {
-        "success": "Passport: Success",
-        "fail": "Passport: Failed"
+        "success": "Passaporte: Sucesso",
+        "fail": "Passaporte: Falha"
     },
-    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
+    "manual_verification_warning": "Este usuário está bloqueado de verificar no futuro, ele terá que ser verificado manualmente pela equipe do servidor."
 }

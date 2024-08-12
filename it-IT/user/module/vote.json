@@ -1,17 +1,17 @@
 {
-    "title": "Hey there, {username}",
+    "title": "Ciao, {username}",
     "notice": {
-        "1": "Thanks for voting, it really helps us alot!",
-        "2": "If you want to continue supporting this project by [voting on top.gg]({url}), please consider enabling the vote reminder using the button below!",
-        "3": "You only recieve this message once."
+        "1": "Grazie per aver votato, ci aiuta davvero alot!",
+        "2": "Se vuoi continuare a supportare questo progetto [votando su top.gg]({url}), considera di abilitare il promemoria di voto utilizzando il pulsante qui sotto!",
+        "3": "Riceverai questo messaggio solo una volta."
     },
     "reminder": {
-        "1": "You are now able to vote again for me on top.gg!",
-        "2": "Vote to keep awesome perks such as a [voter role in our community server]({url}) and more as shown in {command}.",
-        "3": "Thank you alot, I really appreciate you!",
-        "4": "Disable using {command}"
+        "1": "Ora puoi votare di nuovo per me su top.gg!",
+        "2": "Vota per tenere vantaggi impressionanti come un [ruolo voter nel nostro server della comunità]({url}) e più come mostrato in {command}.",
+        "3": "Grazie mille, ti apprezzo molto!",
+        "4": "Disabilita usando {command}"
     },
     "button": {
-        "enable": "Enable vote reminder"
+        "enable": "Abilita promemoria di votazione"
     }
 }

@@ -29,17 +29,26 @@
     },
     "button": {
         "changeSpeaker": "Change default speaker",
-        "invite_tts": "Get a 2nd Text to Speech Bot"
+        "invite_tts": "Get a 2nd Text to Speech Bot",
+        "enable_queue": "Enable message queue"
     },
     "novc": "You're not connected to any voice channels.",
+    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
     "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
     "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
     "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
-    "set_default_voice": "The default voice is now set to {voice}.",
-    "set_cts": {
-        "enabled": "Chat to Speech has been enabled.",
-        "disabled": "Chat to Speech has been disabled.",
-        "note": "This change only applies to you and in every server you're in."
+    "set": {
+        "only_you": "This setting only applies to you.",
+        "default_voice": "The default voice is now set to {voice}.",
+        "cts": {
+            "enabled": "Chat to Speech has been enabled.",
+            "disabled": "Chat to Speech has been disabled."
+        },
+        "filter": {
+            "cleared": "Disabled all active filters.",
+            "enabled": "Enabled the {filter} filter for the current session.",
+            "disabled": "Disabled the {filter} filter for the current session."
+        }
     },
     "stopped": "Playback was terminated and reset.",
     "web": "Change default voice & fileformat"

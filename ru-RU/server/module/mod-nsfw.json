@@ -1,0 +1,12 @@
+{
+    "title": "Обнаружено NSFW изображение",
+    "analysis": "Анализ",
+    "description": "{percent} nsfw ({threshold} порог)",
+    "thread": {
+        "name": "Вложенное изображение (NSFW)",
+        "message": "Перезалив сообщения отправленного {user}"
+    },
+    "button": {
+        "update_threshold": "Изменить порог ({threshold}%)"
+    }
+}

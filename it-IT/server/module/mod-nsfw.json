@@ -1,8 +1,12 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
+    "title": "Immagine non appropriata all'Età inferiore di 18 anni rilevata",
+    "analysis": "Analisi",
+    "description": "{percent} Nsfw (soglia{threshold})",
     "thread": {
-        "name": "Image attachment (NSFW)",
-        "message": "Reupload of an image sent by {user}"
+        "name": "Allegato immagine (Non adatto all'Età inferiore di 18)",
+        "message": "Ri-invio di un'immagine inviata da {user}"
+    },
+    "button": {
+        "update_threshold": "Cambia la soglia ({threshold}%)"
     }
 }

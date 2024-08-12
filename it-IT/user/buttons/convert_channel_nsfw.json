@@ -1,13 +1,13 @@
 {
-    "success": "{user} marked this channel as Age-Restricted, you may now run {command} to generate NSFW content.",
+    "success": "{user} ha contrassegnato questo canale come limitato all'Eta, è ora possibile eseguire {command} per generare contenuti per utenti con piú di 18 anni.",
     "tutorial": {
-        "title": "How to mark a channel as NSFW",
+        "title": "Come contrassegnare un canale come limitato all'Età",
         "description": {
-            "1": "You do not own or manage this server, [invite {bot} to your own server]({url}) or ask a Server Administrator to follow the steps below.",
-            "2": "1. (mobile) Tap the channel name and select 'Settings'.",
-            "3": "1. (desktop) Right-click the channel name and select 'Edit Channel'.",
-            "4": "2. Scroll down and enable 'Age-Restricted Channel'.",
-            "5": "3. Click 'Save Changes'."
+            "1": "Non possiedi o gestisci questo server, [invita {bot} al tuo server]({url}) o chiedi a un amministratore del server di seguire i passaggi qui sotto.",
+            "2": "1. (telefono) Tocca il nome del canale e seleziona 'Impostazioni'.",
+            "3": "1. (desktop) Peremi con il pulsante destro del mouse sul nome del canale e seleziona 'Modifica canale'.",
+            "4": "2. Scorri verso il basso e abilita 'Canale Limitato all'Età'.",
+            "5": "3. Clicca 'Salva Modifiche'."
         }
     }
 }
