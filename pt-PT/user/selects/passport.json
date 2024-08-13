@@ -1,6 +1,6 @@
 {
-    "disabled": "O passaporte foi desativado e não pode mais ser usado.",
-    "no_member": "Este membro não está mais neste servidor e não pode ser verificado, não verificado ou punido.",
+    "disabled": "Passport has been disabled and therefore can no longer be used.",
+    "no_member": "This member is no longer in this server and therefore cannot be verified, unverified or punished.",
     "success": {
         "unbanned": "{user} foi desbanido com sucesso, você terá que convidá-lo novamente manualmente.",
         "unbanned_invite": "Você pode apenas enviar {url} por mensagem direta!",
