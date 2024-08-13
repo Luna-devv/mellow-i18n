@@ -1,13 +1,13 @@
 {
     "vote": {
-        "title": "Vote to continue using free AI",
+        "title": "Glasajte za nastavak korištenja besplatne umjetne inteligencije",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "Ai {command} generacija ne raste na drveću! Podržite nas [brzim glasovanjem na top.gg]({url}), to omogućuje ljudima da lakše pronađu {name}, hvala vam na podršci!",
+            "2": "Glasovanje za mene omogućit će vam pristup generiranju koliko god želite AI slika u sljedećih 12 sati!"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "Mogući ilegalni sadržaj",
         "description": {
             "1": "I have detected possible illegal content in your query, please refrain from using it.",
             "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
