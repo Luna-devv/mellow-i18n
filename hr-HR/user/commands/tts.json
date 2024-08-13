@@ -9,7 +9,7 @@
     "speaker": {
         "title": "Invalid speaker selected",
         "description": {
-            "1": "The speaker you selected does not eixst, please use the autocomplete options or [set a default voice]({url}).",
+            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
             "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
         }
     },
@@ -21,10 +21,10 @@
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Došlo je do pogreške tijekom generiranja",
         "description": {
             "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Ako mislite da je ovo greška, prijavite je na našem [poslužitelju za podršku]({url}), žao nam je."
         }
     },
     "button": {
@@ -35,7 +35,7 @@
     "novc": "You're not connected to any voice channels.",
     "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
     "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
-    "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
+    "alreadyplaying": "Pričekajte dok se ne završi reprodukcija poruke od {user}, upotrijebite {command} ako je zapela.",
     "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
     "set": {
         "only_you": "This setting only applies to you.",
@@ -45,11 +45,11 @@
             "disabled": "Chat to Speech has been disabled."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Onemogućeni su svi aktivni filtri.",
+            "enabled": "Omogućen je filtar {filter} za trenutnu sesiju.",
+            "disabled": "Onemogućen je filtar {filter} za trenutnu sesiju."
         }
     },
-    "stopped": "Playback was terminated and reset.",
-    "web": "Change default voice & fileformat"
+    "stopped": "Reprodukcija je prekinuta i poništena.",
+    "web": "Promjena zadanog glasa i formata datoteke"
 }
