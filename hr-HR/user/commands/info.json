@@ -1,27 +1,27 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
-    "invites": "Invites",
-    "voice": "Voice",
-    "spotify": "Currently Listening",
-    "none": "none",
-    "globalScope": "Showing stats from all guilds combined.",
+    "messages": "Poruke",
+    "name": "Ime",
+    "created": "Kreiran",
+    "joined": "Pridružen",
+    "invites": "Pozivnice",
+    "voice": "Glasovni kanal",
+    "spotify": "Trenutno sluša",
+    "none": "prazno",
+    "globalScope": "Prikaz statistike svih cehova zajedno.",
     "pronouns": {
-        "title": "Pronouns",
-        "none": "No pronouns set"
+        "title": "Zamjenice",
+        "none": "Nema postavljenih zamjenica"
     },
     "button": {
-        "guildAvatar": "Per-Guild Avatar",
+        "guildAvatar": "Avatar po serveru",
         "avatar": "Avatar",
-        "banner": "Banner"
+        "banner": "Baner"
     },
     "likes": {
-        "add": "Like",
-        "remove": "Remove Like",
-        "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
-        "removed": "You no longer like {user}'s profile.",
+        "add": "Sviđa mi se",
+        "remove": "Ukloni lajk",
+        "added": "Svidio vam se profil korisnika {user}, oni sada imaju {num} [singular=\"lajk\" plural=\"lajka\"].",
+        "removed": "Više vam se ne sviđa profil korisnika {user}.",
         "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
     }
 }
