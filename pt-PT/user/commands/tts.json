@@ -9,7 +9,7 @@
     "speaker": {
         "title": "Alto-falante inválido selecionado",
         "description": {
-            "1": "O altifalante que selecionou não existe, use as opções de preenchimento automático ou [defina a voz padrão]({url}).",
+            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
             "2": "Se isso continuar a acontecer, por favor peça ajuda no nosso [servidor de suporte]({url}), obrigada."
         }
     },
@@ -45,9 +45,9 @@
             "disabled": "Conversa para fala foi desativado."
         },
         "filter": {
-            "cleared": "Desabilitei todos os filtros ativos.",
-            "enabled": "Ativei o filtro {filter} para a sessão atual.",
-            "disabled": "Desativei o filtro {filter} para a sessão atual."
+            "cleared": "Disabled all active filters.",
+            "enabled": "Enabled the {filter} filter for the current session.",
+            "disabled": "Disabled the {filter} filter for the current session."
         }
     },
     "stopped": "A reprodução foi encerrada e reiniciada.",
