@@ -1,7 +1,7 @@
 {
-    "months": "[singular=\"month\" plural=\"months\"]",
-    "days": "[singular=\"day\" plural=\"days\"]",
-    "hours": "[singular=\"hour\" plural=\"hours\"]",
-    "minutes": "[singular=\"minute\" plural=\"minutes\"]",
-    "seconds": "[singular=\"second\" plural=\"seconds\"]"
+    "months": "[singular=\"mjesec\" plural=\"mjeseca\"]",
+    "days": "[singular=\"dan\" plural=\"dana\"]",
+    "hours": "[singular=\"sat\" plural=\"sata\"]",
+    "minutes": "[singular=\"minuta\" plural=\"minute\"]",
+    "seconds": "[singular=\"sekunda\" plural=\"sekunde\"]"
 }
