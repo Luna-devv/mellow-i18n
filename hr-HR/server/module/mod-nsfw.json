@@ -1,12 +1,12 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
-    "description": "{percent} nsfw ({threshold} threshold)",
+    "title": "Otkrivena NSFW slika",
+    "analysis": "Analiza",
+    "description": "{percent} nsfw ({threshold} prag)",
     "thread": {
-        "name": "Image attachment (NSFW)",
-        "message": "Reupload of an image sent by {user}"
+        "name": "Prilog slike (NSFW)",
+        "message": "Ponovni prijenos slike koju je poslao {user}"
     },
     "button": {
-        "update_threshold": "Change the threshold ({threshold}%)"
+        "update_threshold": "Promjena praga ({threshold}%)"
     }
 }
