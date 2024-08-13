@@ -9,7 +9,7 @@
     "speaker": {
         "title": "Modello selezionato non valido",
         "description": {
-            "1": "La voce selezionata non esiste, si prega di utilizzare le opzioni di completamento automatico o [impostare una voce predefinita]({url}).",
+            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
             "2": "Se questo continua a accadere, si prega di chiedere nel nostro [server di supporto]({url}), grazie."
         }
     },
