@@ -9,7 +9,7 @@
     "speaker": {
         "title": "Выбран неверный голос",
         "description": {
-            "1": "Выбранный голос не существует, пожалуйста, выберите из существующих опций или [выберите голос по умолчанию]({url}).",
+            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
             "2": "Если это повторяется, то сообщите об этом в нашем [сервере поддержки]({url}), спасибо."
         }
     },
