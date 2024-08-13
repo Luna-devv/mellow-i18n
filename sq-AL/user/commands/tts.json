@@ -9,7 +9,7 @@
     "speaker": {
         "title": "Invalid speaker selected",
         "description": {
-            "1": "The speaker you selected does not eixst, please use the autocomplete options or [set a default voice]({url}).",
+            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
             "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
         }
     },
