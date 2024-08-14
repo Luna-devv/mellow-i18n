@@ -21,10 +21,10 @@
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Pati një gabim gjatë krijimit",
         "description": {
             "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Nëse mendoni se ky është një gabim, ju lutemi raportoni atë në [serverin e mbështetjes] ({url}), na vjen keq."
         }
     },
     "button": {
