@@ -1,25 +1,25 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
-    "invites": "Invites",
-    "voice": "Voice",
-    "spotify": "Currently Listening",
-    "none": "none",
-    "globalScope": "Showing stats from all guilds combined.",
+    "messages": "Mesazhet",
+    "name": "Emri",
+    "created": "Krijuar",
+    "joined": "U bashkua",
+    "invites": "Ftesat",
+    "voice": "Zëri",
+    "spotify": "Aktualisht po dëgjon",
+    "none": "asnjë",
+    "globalScope": "Duke shfaqur statistika nga të gjitha serverat e kombinuara.",
     "pronouns": {
-        "title": "Pronouns",
-        "none": "No pronouns set"
+        "title": "Përemrat",
+        "none": "Nuk ka përemra të vendosur"
     },
     "button": {
-        "guildAvatar": "Per-Guild Avatar",
-        "avatar": "Avatar",
-        "banner": "Banner"
+        "guildAvatar": "Avatari Per-Server",
+        "avatar": "Avatari",
+        "banner": "Banneri"
     },
     "likes": {
-        "add": "Like",
-        "remove": "Remove Like",
+        "add": "Pëlqeje",
+        "remove": "Hiq pëlqimin",
         "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
         "removed": "You no longer like {user}'s profile.",
         "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
