@@ -1,6 +1,6 @@
 {
-    "messages": "Message leaderboard",
-    "voiceminutes": "Voice leaderboard",
-    "invites": "Invite leaderboard",
-    "web": "View the web leaderboard"
+    "messages": "Ljestvica Poruka",
+    "voiceminutes": "Ljestvica Poziva",
+    "invites": "Ljestvica Pozivnica",
+    "web": "Pogledajte web ploču s najboljim rezultatima"
 }
