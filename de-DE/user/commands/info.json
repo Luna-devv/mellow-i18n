@@ -4,8 +4,11 @@
     "created": "Erstellt",
     "joined": "Beigetreten",
     "invites": "Einladungen",
+    "guilds": "Server",
     "voice": "Sprachchat",
-    "spotify": "Hört momentan",
+    "description": "Beschreibung",
+    "commands": "Beliebte Befehle",
+    "spotify": "Hört Momentan",
     "none": "keine",
     "globalScope": "Zeige Statistiken allen Servern zusammen.",
     "pronouns": {
@@ -15,7 +18,9 @@
     "button": {
         "guildAvatar": "Pro-Server Avatar",
         "avatar": "Avatar",
-        "banner": "Banner"
+        "banner": "Banner",
+        "terms": "Nutzungsbedingungen",
+        "privacy": "Datenschutzerklärung"
     },
     "likes": {
         "add": "Gefällt mir",
