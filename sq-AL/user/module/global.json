@@ -64,7 +64,7 @@
         "title": "NSFW (Adult 18+) response detected",
         "description": {
             "1": "You cannot view NSFW content in a SFW marked channel.",
-            "2": "Either mark the this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+            "2": "Ose shënojeni këtë kanal si NSFW ose krijoni një kanal të ri dhe shënojeni atë si NSFW."
         },
         "button": {
             "convert_channel_nsfw": "Convert channel to NSFW"
