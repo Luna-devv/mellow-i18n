@@ -8,9 +8,9 @@
     "premium": {
         "required": "abo erforderlich",
         "embeds": {
-            "title": "Entschuldigung, aber Abonnement ist erforderlich",
-            "limittitle": "Entschuldigung, aber das Abonnementlimit wurde erreicht",
-            "description": "Damit ich einen stabilen Bot zur Verfügung stellen können und Geld nicht auf Bäumen wächst, muss ich nicht wesentliche Funktionen hinter einem Abonnement sperren."
+            "title": "Entschuldigung, aber ein Pro-Abonnement ist erforderlich",
+            "limittitle": "Sorry, aber dein Pro-Abonnement-Limit wurde erreicht.",
+            "description": "Um einen stabilen Bot anbieten zu können, und da Geld nicht auf Bäumen wächst, muss ich unwichtige Funktionen hinter einem Pro-Abo verbergen."
         },
         "button": {
             "subscribe": "Abonnieren"
