@@ -1,13 +1,13 @@
 {
-    "success": "{user} marked this channel as Age-Restricted, you may now run {command} to generate NSFW content.",
+    "success": "{user} e shënoi këtë kanal si të kufizuar për moshën, tani mund të ekzekutoni {command} për të gjeneruar përmbajtje NSFW.",
     "tutorial": {
-        "title": "How to mark a channel as NSFW",
+        "title": "Si të shënoni një kanal si NSFW",
         "description": {
-            "1": "You do not own or manage this server, [invite {bot} to your own server]({url}) or ask a Server Administrator to follow the steps below.",
-            "2": "1. (mobile) Tap the channel name and select 'Settings'.",
-            "3": "1. (desktop) Right-click the channel name and select 'Edit Channel'.",
-            "4": "2. Scroll down and enable 'Age-Restricted Channel'.",
-            "5": "3. Click 'Save Changes'."
+            "1": "Ju nuk e zotëroni ose menaxhoni këtë server, [ftoni {bot} në serverin tuaj]({url}) ose kërkoni nga një Administrator Serveri të ndjekë hapat e mëposhtëm.",
+            "2": "1. (celular) Prekni emrin e kanalit dhe zgjidhni \"Cilësimet\".",
+            "3": "1. (desktop) Klikoni me të djathtën mbi emrin e kanalit dhe zgjidhni \"Ndrysho kanalin\".",
+            "4": "2. Lëvizni poshtë dhe aktivizoni 'Kanali i kufizuar për moshën'.",
+            "5": "3. Kliko 'Ruaj ndryshimet'."
         }
     }
 }
