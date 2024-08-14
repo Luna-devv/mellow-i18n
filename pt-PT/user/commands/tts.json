@@ -9,7 +9,7 @@
     "speaker": {
         "title": "Alto-falante inválido selecionado",
         "description": {
-            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
+            "1": "O altifalante que selecionou não existe, use as opções de preenchimento automático ou [defina a voz padrão]({url}).",
             "2": "Se isso continuar a acontecer, por favor peça ajuda no nosso [servidor de suporte]({url}), obrigada."
         }
     },
