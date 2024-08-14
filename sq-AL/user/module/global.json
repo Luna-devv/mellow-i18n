@@ -3,7 +3,7 @@
     "userdisabled": "You can no longer use this bot, your account has been disabled.",
     "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
     "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
-    "none": "none",
+    "none": "asnjë",
     "error": "Something went wrong, please try again later.",
     "premium": {
         "required": "subscription required",
