@@ -1,9 +1,9 @@
 {
-    "none": "You dont have any tags yet",
+    "none": "Još nemate oznake",
     "title": {
-        "text": "Text [singular=\"Command\" plural=\"Commands\"] ({amount})",
-        "slash": "Slash [singular=\"Command\" plural=\"Commands\"] ({amount})"
+        "text": "Tekst [singular=\"Naredbe\" plural=\"Naredba\"] ({amount})",
+        "slash": "Kosa [singular=\"Naredbe\" plural=\"Naredba\"] ({amount})"
     },
-    "disabled": "{amount} [singular=\"tag is\" plural=\"tags are\"] hidden due to missing permissions",
-    "footer": "Use with {command}"
+    "disabled": "{amount} [singular=\"tag je skriven\" plural=\"taga su skrivena\"] zbog nedostajućih dozvola",
+    "footer": "Koristi s {command}"
 }
