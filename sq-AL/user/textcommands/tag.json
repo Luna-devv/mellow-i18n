@@ -1,8 +1,8 @@
 {
     "invalid": {
-        "title": "A tag with that name does not exist.",
+        "title": "Një etiketë me atë emër nuk ekziston.",
         "button": {
-            "create": "Create new tag"
+            "create": "Krijo Tag të re"
         }
     }
 }
