@@ -4,8 +4,11 @@
     "created": "Kreiran",
     "joined": "Pridružen",
     "invites": "Pozivnice",
+    "guilds": "Guilds",
     "voice": "Glasovni kanal",
-    "spotify": "Trenutno sluša",
+    "description": "Description",
+    "commands": "Popular Commands",
+    "spotify": "Currently Listening To",
     "none": "prazno",
     "globalScope": "Prikaz statistike svih cehova zajedno.",
     "pronouns": {
@@ -15,7 +18,9 @@
     "button": {
         "guildAvatar": "Avatar po serveru",
         "avatar": "Avatar",
-        "banner": "Baner"
+        "banner": "Baner",
+        "terms": "Terms of Service",
+        "privacy": "Privacy Policy"
     },
     "likes": {
         "add": "Sviđa mi se",
