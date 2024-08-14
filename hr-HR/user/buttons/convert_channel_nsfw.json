@@ -1,13 +1,13 @@
 {
-    "success": "{user} marked this channel as Age-Restricted, you may now run {command} to generate NSFW content.",
+    "success": "{user} je označio ovaj kanal kao dobno ograničen, sada možete pokrenuti {command} za generiranje NSFW sadržaja.",
     "tutorial": {
-        "title": "How to mark a channel as NSFW",
+        "title": "Kako označiti kanal kao NSFW",
         "description": {
-            "1": "You do not own or manage this server, [invite {bot} to your own server]({url}) or ask a Server Administrator to follow the steps below.",
-            "2": "1. (mobile) Tap the channel name and select 'Settings'.",
-            "3": "1. (desktop) Right-click the channel name and select 'Edit Channel'.",
-            "4": "2. Scroll down and enable 'Age-Restricted Channel'.",
-            "5": "3. Click 'Save Changes'."
+            "1": "Vi niste vlasnik niti upravljate ovim serverom, [pozovite {bot} na svoj server]({url}) ili zamolite administratora servera da slijedi korake u nastavku.",
+            "2": "1. (mobilni) Dodirnite naziv kanala i odaberite 'Postavke'.",
+            "3": "1. (stolno računalo) Desnom tipkom miša kliknite naziv kanala i odaberite 'Uredi kanal'.",
+            "4": "2. Pomaknite se prema dolje i omogućite 'Kanal s dobnim ograničenjem'.",
+            "5": "3. Pritisnite \"Spremi promjene\"."
         }
     }
 }
