@@ -8,9 +8,9 @@
     "premium": {
         "required": "potrebna pretplata",
         "embeds": {
-            "title": "Žao nam je, ali potrebna je pretplata",
-            "limittitle": "Nažalost, dosegnuto je ograničenje broja pretplata",
-            "description": "Kako bih mogao osigurati stabilnog bota i kako novac ne bi rastao na drveću, moram zaključati manje važnije značajke iza pretplate."
+            "title": "Sorry, but a Pro Subscription is required",
+            "limittitle": "Sorry, but your Pro Subscription limit was reached.",
+            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a Pro Subscription."
         },
         "button": {
             "subscribe": "Pretplatite se"
@@ -49,7 +49,7 @@
                     "bot": "Ja: {b.role} @ indeks {b.index}"
                 },
                 "role": {
-                    "text": "Ne mogu izvršiti ovu radnju jer je moja najviša uloga viša od uloge za upravljanje.",
+                    "text": "I cannot perform this action since my highest role is lower than the role to manage.",
                     "user": "Uloga: {u.role} @ indeks {u.index}",
                     "bot": "Ja: {b.role} @ indeks {b.index}"
                 }
