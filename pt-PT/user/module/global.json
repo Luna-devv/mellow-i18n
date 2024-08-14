@@ -8,9 +8,9 @@
     "premium": {
         "required": "subscrição necessária",
         "embeds": {
-            "title": "Desculpe, mas subscrição é necessária",
-            "limittitle": "Desculpe, mas o limite de subscrições foi atingido",
-            "description": "Para podermos fornecer um bot estável e o dinheiro não cresce nas árvores, temos de bloquear as funcionalidades não essenciais atrás de uma Subscrição."
+            "title": "Sorry, but a Pro Subscription is required",
+            "limittitle": "Sorry, but your Pro Subscription limit was reached.",
+            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a Pro Subscription."
         },
         "button": {
             "subscribe": "Subscreva"
@@ -49,7 +49,7 @@
                     "bot": "Eu: {b.role} @ índice {b.index}"
                 },
                 "role": {
-                    "text": "Eu não posso executar essa ação, visto que o meu maior cargo é superior ao cargo de gerir.",
+                    "text": "I cannot perform this action since my highest role is lower than the role to manage.",
                     "user": "Cargo: {u.role} @ índice {u.index}",
                     "bot": "Eu: {b.role} @ índice {b.index}"
                 }
