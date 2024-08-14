@@ -1,8 +1,8 @@
 {
     "invalid": {
-        "title": "A tag with that name does not exist.",
+        "title": "Oznaka s tim imenom ne postoji.",
         "button": {
-            "create": "Create new tag"
+            "create": "Izradi novu oznaku"
         }
     }
 }
