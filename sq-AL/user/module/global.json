@@ -1,79 +1,79 @@
 {
-    "noguild": "This command cannot be used inside of private messages or in user-installed space.",
-    "userdisabled": "You can no longer use this bot, your account has been disabled.",
-    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
-    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
+    "noguild": "Kjo komandë nuk mund të përdoret brenda mesazheve private ose në hapësirën e instaluar nga përdoruesi.",
+    "userdisabled": "Nuk mund ta përdorni më këtë robot, llogaria juaj është çaktivizuar.",
+    "dmdisabled": "Nuk mund ta përdorni këtë robot, llogaria juaj është e aktivizuar.",
+    "botmention": "Hej {user}, ekzekuto **{emote} SlashCommands** për të më përdorur!\nPërdorni {command} për më shumë informacion.",
     "none": "asnjë",
-    "error": "Something went wrong, please try again later.",
+    "error": "Diçka shkoi keq, ju lutemi të provoni më vonë.",
     "premium": {
-        "required": "subscription required",
+        "required": "kërkohet abonimi",
         "embeds": {
-            "title": "Sorry but Subscription is required",
-            "limittitle": "Sorry but the Subscriptions limit was reached",
-            "description": "In order I can provide a stable bot and money doesn't grow on trees, I have to lock non essential features behind a Subscription."
+            "title": "Na vjen keq, por kërkohet abonim",
+            "limittitle": "Na vjen keq, por kufiri i abonimeve u arrit.",
+            "description": "Për të siguruar një bot të qëndrueshëm dhe meqenëse paratë nuk rriten në pemë, më duhet të bllokoj veçori jo thelbësore pas një Abonimi Pro."
         },
         "button": {
-            "subscribe": "Subscribe"
+            "subscribe": "Abonohu"
         }
     },
     "button": {
-        "add": "Add {name}",
-        "support": "Support",
-        "vote": "Vote for {name}",
-        "voteSkip": "Support us to skip voting"
+        "add": "Shto {name}",
+        "support": "Mbështetja",
+        "vote": "Voto për {name}",
+        "voteSkip": "Na mbështesni për të kapërcyer votimin"
     },
     "permissions": {
         "user": {
-            "guild": "You cannot run this action since you're missing the {perms} permissions.",
-            "channel": "You cannot run this action since you're missing the {perms} permissions in this channel.",
+            "guild": "Nuk mund ta ekzekutosh këtë veprim pasi të mungojnë lejet e {perms}.",
+            "channel": "Nuk mund ta ekzekutosh këtë veprim pasi të mungojnë lejet e {perms} në këtë kanal.",
             "roles": {
                 "user": {
-                    "text": "You cannot perform this action since the highest role of that user is higher than yours.",
-                    "user": "User: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "text": "Ju nuk mund ta kryeni këtë veprim pasi roli më i lartë i atij përdoruesi është më i lartë se i juaji.",
+                    "user": "Përdoruesi: {u.role} @ index {u.index}",
+                    "you": "Ju: {y.role} @ index {y.index}"
                 },
                 "role": {
-                    "text": "You cannot perform this action since your highest role is lower than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "text": "Ju nuk mund ta kryeni këtë veprim pasi roli juaj më i lartë është më i ulët se roli për të menaxhuar.",
+                    "user": "Roli: {u.role} @ index {u.index}",
+                    "you": "Ju: {y.role} @ index {y.index}"
                 }
             }
         },
         "me": {
-            "guild": "I cannot run this action since I'm missing the {perms} permissions.",
-            "channel": "I cannot run this action since I'm missing the {perms} permissions in this channel.",
+            "guild": "Nuk mund ta ekzekutoj këtë veprim pasi më mungojnë lejet e {perms}.",
+            "channel": "Nuk mund ta ekzekutoj këtë veprim pasi më mungojnë lejet e {perms} në këtë kanal.",
             "roles": {
                 "user": {
-                    "text": "I cannot perform this action since the highest role of that user is higher than mine.",
-                    "user": "User: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "text": "Nuk mund ta kryej këtë veprim pasi roli më i lartë i atij përdoruesi është më i lartë se i imi.",
+                    "user": "Përdoruesi: {u.role} @ index {u.index}",
+                    "bot": "Unë: {b.role} @ index {b.index}"
                 },
                 "role": {
-                    "text": "I cannot perform this action since my highest role is higher than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "text": "Nuk mund ta kryej këtë veprim pasi roli im më i lartë është më i ulët se roli për të menaxhuar.",
+                    "user": "Roli: {u.role} @ index {u.index}",
+                    "bot": "Unë: {b.role} @ index {b.index}"
                 }
             }
         }
     },
     "ad": {
-        "vote": "Please help us at {url}, only takes a few seconds",
-        "invite": "[Add {bot}]({url}) to your server"
+        "vote": "Ju lutemi na ndihmoni në {url}, duhen vetëm disa sekonda",
+        "invite": "[Shto {bot}]({url}) në serverin tënd"
     },
     "nsfw": {
-        "title": "NSFW (Adult 18+) response detected",
+        "title": "U zbulua përgjigja NSFW (Adult 18+)",
         "description": {
-            "1": "You cannot view NSFW content in a SFW marked channel.",
+            "1": "Nuk mund të shikoni përmbajtjen NSFW në një kanal të shënuar me SFW.",
             "2": "Ose shënojeni këtë kanal si NSFW ose krijoni një kanal të ri dhe shënojeni atë si NSFW."
         },
         "button": {
-            "convert_channel_nsfw": "Convert channel to NSFW"
+            "convert_channel_nsfw": "Konvertoni kanalin në NSFW"
         }
     },
     "moderation_punishment": {
-        "ban": "You have been banned from {guild}!",
-        "kick": "You have been kicked from {guild}!",
-        "role": "You've gotten the {role} role in {guild}!"
+        "ban": "Ju jeni përjashtuar nga {guild}!",
+        "kick": "Ju jeni dëbuar nga {guild}!",
+        "role": "Ju keni marrë rolin {role} në {guild}!"
     },
-    "command_user": "Command used by {user}"
+    "command_user": "Kommandi i përdorur nga {user}"
 }
