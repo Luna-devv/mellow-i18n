@@ -8,9 +8,9 @@
     "premium": {
         "required": "potrebna pretplata",
         "embeds": {
-            "title": "Sorry, but a Pro Subscription is required",
-            "limittitle": "Sorry, but your Pro Subscription limit was reached.",
-            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a Pro Subscription."
+            "title": "Žao nam je, ali potrebna je Pro pretplata",
+            "limittitle": "Nažalost, dosegnuto je vaše ograničenje Pro pretplate.",
+            "description": "Kako bih osigurali stabilnog bota, a budući da novac ne raste na drveću, moram zaključati manje bitne značajke iza Pro pretplate."
         },
         "button": {
             "subscribe": "Pretplatite se"
@@ -49,7 +49,7 @@
                     "bot": "Ja: {b.role} @ indeks {b.index}"
                 },
                 "role": {
-                    "text": "I cannot perform this action since my highest role is lower than the role to manage.",
+                    "text": "Ne mogu izvršiti ovu radnju jer je moja najviša uloga niža od uloge za upravljanje.",
                     "user": "Uloga: {u.role} @ indeks {u.index}",
                     "bot": "Ja: {b.role} @ indeks {b.index}"
                 }
@@ -61,19 +61,19 @@
         "invite": "[Dodaj {bot}]({url}) na svoj server"
     },
     "nsfw": {
-        "title": "NSFW (Adult 18+) response detected",
+        "title": "Otkriven NSFW odgovor (odrasli 18+)",
         "description": {
-            "1": "You cannot view NSFW content in a SFW marked channel.",
+            "1": "Ne možete gledati NSFW sadržaj u kanalu s oznakom SFW.",
             "2": "Označite ovaj kanal kao dobno ograničen ili stvorite novi kanal i označite ga kao dobno ograničen."
         },
         "button": {
-            "convert_channel_nsfw": "Convert channel to NSFW"
+            "convert_channel_nsfw": "Pretvori kanal u NSFW"
         }
     },
     "moderation_punishment": {
-        "ban": "You have been banned from {guild}!",
-        "kick": "You have been kicked from {guild}!",
-        "role": "You've gotten the {role} role in {guild}!"
+        "ban": "Banani ste iz {guild}!",
+        "kick": "Izbačeni ste iz {guild}!",
+        "role": "Dobili ste ulogu {role} u {guild}!"
     },
-    "command_user": "Command used by {user}"
+    "command_user": "Naredba korištena od {user}"
 }
