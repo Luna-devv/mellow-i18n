@@ -35,7 +35,7 @@
     "novc": "You're not connected to any voice channels.",
     "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
     "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
-    "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
+    "alreadyplaying": "Prisni derisa audioja nga {user} të përfundojë duke luajtur, përdorni {command} nëse është e bllokuar.",
     "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
     "set": {
         "only_you": "This setting only applies to you.",
