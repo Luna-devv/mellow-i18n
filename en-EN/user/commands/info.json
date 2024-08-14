@@ -4,8 +4,11 @@
     "created": "Created",
     "joined": "Joined",
     "invites": "Invites",
+    "guilds": "Guilds",
     "voice": "Voice",
-    "spotify": "Currently Listening",
+    "description": "Description",
+    "commands": "Popular Commands",
+    "spotify": "Currently Listening To",
     "none": "none",
     "globalScope": "Showing stats from all guilds combined.",
     "pronouns": {
@@ -15,7 +18,9 @@
     "button": {
         "guildAvatar": "Per-Guild Avatar",
         "avatar": "Avatar",
-        "banner": "Banner"
+        "banner": "Banner",
+        "terms": "Terms of Service",
+        "privacy": "Privacy Policy"
     },
     "likes": {
         "add": "Like",
