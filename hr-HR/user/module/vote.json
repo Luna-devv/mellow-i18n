@@ -1,17 +1,17 @@
 {
-    "title": "Hey there, {username}",
+    "title": "Pozdrav, {username}",
     "notice": {
-        "1": "Thanks for voting, it really helps us alot!",
-        "2": "If you want to continue supporting this project by [voting on top.gg]({url}), please consider enabling the vote reminder using the button below!",
-        "3": "You only recieve this message once."
+        "1": "Hvala na glasanju, stvarno nam puno pomaže!",
+        "2": "Ako želite nastaviti podržavati ovaj projekt [glasovanjem na top.gg]({url}), razmislite o omogućavanju podsjetnika za glasovanje pomoću gumba u nastavku!",
+        "3": "Ovu poruku dobivate samo jednom."
     },
     "reminder": {
-        "1": "You are now able to vote again for me on top.gg!",
-        "2": "Vote to keep awesome perks such as a [voter role in our community server]({url}) and more as shown in {command}.",
-        "3": "Thank you alot, I really appreciate you!",
-        "4": "Disable using {command}"
+        "1": "Sada možete ponovo glasati za mene na top.gg!",
+        "2": "Glasajte da biste zadržali sjajne pogodnosti kao što je [uloga glasača na našem serveru]({url}) i više kao što je prikazano u {command}.",
+        "3": "Hvala vam puno, stvarno vas cijenim!",
+        "4": "Onemogući pomoću {command}"
     },
     "button": {
-        "enable": "Enable vote reminder"
+        "enable": "Omogući podsjetnik za glasovanje"
     }
 }
