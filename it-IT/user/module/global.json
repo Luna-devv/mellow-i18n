@@ -8,9 +8,9 @@
     "premium": {
         "required": "abbonamento richiesto",
         "embeds": {
-            "title": "Ci dispiace, ma ti serve un abbonamento",
-            "limittitle": "Siamo spiacenti ma è stato raggiunto il limite di abbonamenti",
-            "description": "Per poter fornire un bot stabile, ma dato che il denaro non cresce sugli alberi, dobbiamo bloccare le funzionalità non essenziali dietro un abbonamento."
+            "title": "Sorry, but a Pro Subscription is required",
+            "limittitle": "Sorry, but your Pro Subscription limit was reached.",
+            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a Pro Subscription."
         },
         "button": {
             "subscribe": "Abbonati"
@@ -49,7 +49,7 @@
                     "bot": "Io: {b.role} @ index {b.index}"
                 },
                 "role": {
-                    "text": "Non posso eseguire questa azione poiché il mio ruolo più alto è superiore al ruolo da gestire.",
+                    "text": "I cannot perform this action since my highest role is lower than the role to manage.",
                     "user": "Ruolo: {u.role} @ index {u.index}",
                     "bot": "Io: {b.role} @ index {b.index}"
                 }
