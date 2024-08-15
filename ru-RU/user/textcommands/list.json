@@ -1,9 +1,9 @@
 {
-    "none": "You dont have any tags yet",
+    "none": "У вас еще нет тегов",
     "title": {
-        "text": "Text [singular=\"Command\" plural=\"Commands\"] ({amount})",
-        "slash": "Slash [singular=\"Command\" plural=\"Commands\"] ({amount})"
+        "text": "Текст команды ({amount})",
+        "slash": "Слэш команды ({amount})"
     },
-    "disabled": "{amount} [singular=\"tag is\" plural=\"tags are\"] hidden due to missing permissions",
-    "footer": "Use with {command}"
+    "disabled": "{amount} [singular=\"тэг\" plural=\"тег(а/ов)\"] спрятано из-за отсутствия прав",
+    "footer": "Используется как {command}"
 }

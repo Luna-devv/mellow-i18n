@@ -26,20 +26,20 @@
     "model": {
         "title": "Выбрана неверная модель",
         "description": {
-            "1": "The model you selected does not exist, please use the autocomplete options.",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Выбранная модель не существует, пожалуйста, выберите из существующих опций.",
+            "2": "Если это повторяется, то сообщите об этом в нашем [сервере поддержки]({url}), спасибо."
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Произошла ошибка при генерации",
         "description": {
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Если вы считаете, что это ошибка, то сообщите о ней в нашем [сервере поддержки]({url}), простите."
         }
     },
     "button": {
-        "regenerate": "Regenerate",
-        "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples"
+        "regenerate": "Перегенерировать",
+        "selenite": "Получить чат бот Gemini",
+        "examples": "Посмотреть крутые примеры"
     },
-    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+    "nsfw_query": "Вы попробовали что-то плохое в запросе.. Перейдите или создайте канал с ограничением по возрасту, чтобы использовать команду!"
 }

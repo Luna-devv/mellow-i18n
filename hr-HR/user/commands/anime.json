@@ -1,6 +1,6 @@
 {
     "button": {
-        "showMore": "Show more {type}s",
-        "dm": "Save to DM"
+        "showMore": "Prikaži više {type}-a",
+        "dm": "Spremi u DM"
     }
 }

@@ -1,79 +1,79 @@
 {
-    "noguild": "This command cannot be used inside of private messages or in user-installed space.",
-    "userdisabled": "You can no longer use this bot, your account has been disabled.",
-    "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
-    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
-    "none": "none",
-    "error": "Something went wrong, please try again later.",
+    "noguild": "Ova se naredba ne može koristiti unutar privatnih poruka ili u prostoru koji instalira korisnik.",
+    "userdisabled": "Više ne možete koristiti ovog bota, vaš račun je onemogućen.",
+    "dmdisabled": "Ne mogu vam poslati poruku, čini se da su vaše izravne poruke onemogućene.",
+    "botmention": "Hej {user}, koristi **{emote} SlashNaredbe** da me iskoristiš!\nKoristite {command} za više informacija.",
+    "none": "prazno",
+    "error": "Nešto nije u redu, pokušajte ponovo kasnije.",
     "premium": {
-        "required": "subscription required",
+        "required": "potrebna pretplata",
         "embeds": {
-            "title": "Sorry but Subscription is required",
-            "limittitle": "Sorry but the Subscriptions limit was reached",
-            "description": "In order I can provide a stable bot and money doesn't grow on trees, I have to lock non essential features behind a Subscription."
+            "title": "Žao nam je, ali potrebna je Pro pretplata",
+            "limittitle": "Nažalost, dosegnuto je vaše ograničenje Pro pretplate.",
+            "description": "Kako bih osigurali stabilnog bota, a budući da novac ne raste na drveću, moram zaključati manje bitne značajke iza Pro pretplate."
         },
         "button": {
-            "subscribe": "Subscribe"
+            "subscribe": "Pretplatite se"
         }
     },
     "button": {
-        "add": "Add {name}",
-        "support": "Support",
-        "vote": "Vote for {name}",
-        "voteSkip": "Support us to skip voting"
+        "add": "Dodaj {name}",
+        "support": "Podrška",
+        "vote": "Glasajte za {name}",
+        "voteSkip": "Podržite nas da preskočimo glasanje"
     },
     "permissions": {
         "user": {
-            "guild": "You cannot run this action since you're missing the {perms} permissions.",
-            "channel": "You cannot run this action since you're missing the {perms} permissions in this channel.",
+            "guild": "Ne možete pokrenuti ovu radnju jer nemate dopuštenja {perms}.",
+            "channel": "Ne možete pokrenuti ovu radnju jer nemate dopuštenja {perms} na ovom kanalu.",
             "roles": {
                 "user": {
-                    "text": "You cannot perform this action since the highest role of that user is higher than yours.",
-                    "user": "User: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "text": "Ne možete izvršiti ovu radnju jer je najviša uloga tog korisnika viša od vaše.",
+                    "user": "Korisnik: {u.role} @ indeks {u.index}",
+                    "you": "Vi: {y.role} @ indeks {y.index}"
                 },
                 "role": {
-                    "text": "You cannot perform this action since your highest role is lower than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "you": "You: {y.role} @ index {y.index}"
+                    "text": "Ne možete izvršiti ovu radnju jer je vaša najviša uloga niža od uloge kojom upravljate.",
+                    "user": "Uloga: {u.role} @ indeks {u.index}",
+                    "you": "Vi: {y.role} @ indeks {y.index}"
                 }
             }
         },
         "me": {
-            "guild": "I cannot run this action since I'm missing the {perms} permissions.",
-            "channel": "I cannot run this action since I'm missing the {perms} permissions in this channel.",
+            "guild": "Ne mogu pokrenuti ovu radnju jer mi nedostaju dopuštenja {perms}.",
+            "channel": "Ne mogu pokrenuti ovu radnju jer mi nedostaju dopuštenja {perms} u ovom kanalu.",
             "roles": {
                 "user": {
-                    "text": "I cannot perform this action since the highest role of that user is higher than mine.",
-                    "user": "User: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "text": "Ne mogu izvršiti ovu radnju jer je najviša uloga tog korisnika viša od moje.",
+                    "user": "Korisnik: {u.role} @ indeks {u.index}",
+                    "bot": "Ja: {b.role} @ indeks {b.index}"
                 },
                 "role": {
-                    "text": "I cannot perform this action since my highest role is higher than the role to manage.",
-                    "user": "Role: {u.role} @ index {u.index}",
-                    "bot": "Me: {b.role} @ index {b.index}"
+                    "text": "Ne mogu izvršiti ovu radnju jer je moja najviša uloga niža od uloge za upravljanje.",
+                    "user": "Uloga: {u.role} @ indeks {u.index}",
+                    "bot": "Ja: {b.role} @ indeks {b.index}"
                 }
             }
         }
     },
     "ad": {
-        "vote": "Please help us at {url}, only takes a few seconds",
-        "invite": "[Add {bot}]({url}) to your server"
+        "vote": "Pomozite nam na {url}, potrebno je samo nekoliko sekundi",
+        "invite": "[Dodaj {bot}]({url}) na svoj server"
     },
     "nsfw": {
-        "title": "NSFW (Adult 18+) response detected",
+        "title": "Otkriven NSFW odgovor (odrasli 18+)",
         "description": {
-            "1": "You cannot view NSFW content in a SFW marked channel.",
-            "2": "Either mark this channel as Age-Restricted or create a new channel and mark it as Age-Restricted."
+            "1": "Ne možete gledati NSFW sadržaj u kanalu s oznakom SFW.",
+            "2": "Označite ovaj kanal kao dobno ograničen ili stvorite novi kanal i označite ga kao dobno ograničen."
         },
         "button": {
-            "convert_channel_nsfw": "Convert channel to NSFW"
+            "convert_channel_nsfw": "Pretvori kanal u NSFW"
         }
     },
     "moderation_punishment": {
-        "ban": "You have been banned from {guild}!",
-        "kick": "You have been kicked from {guild}!",
-        "role": "You've gotten the {role} role in {guild}!"
+        "ban": "Banani ste iz {guild}!",
+        "kick": "Izbačeni ste iz {guild}!",
+        "role": "Dobili ste ulogu {role} u {guild}!"
     },
-    "command_user": "Command used by {user}"
+    "command_user": "Naredba korištena od {user}"
 }

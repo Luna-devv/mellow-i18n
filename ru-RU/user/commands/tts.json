@@ -1,55 +1,55 @@
 {
     "channel": {
-        "title": "A Chat to Speech channel is setup",
+        "title": "Настроен чат для преобразования текста в речь",
         "description": {
-            "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
-            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
+            "1": "На этом сервере есть чат для преобразования текста в речь {channel}, отправляйте сообщения в том канале для генерирования аудио.",
+            "2": "Если вы администратор, вы можете изменить или убрать канал в [панели управления сервером]({url})."
         }
     },
     "speaker": {
-        "title": "Invalid speaker selected",
+        "title": "Выбран неверный голос",
         "description": {
-            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Выбранный вами голос не существует, пожалуйста, выберите существующую опцию или [выберите голос по умолчанию]({url}).",
+            "2": "Если это повторяется, то сообщите об этом в нашем [сервере поддержки]({url}), спасибо."
         }
     },
     "vote": {
-        "title": "Vote requried for long input",
+        "title": "Необходимо проголосовать для длинного ввода",
         "description": {
-            "1": "Audio generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate {newamount} characters instead of just {amount} for the next 12 hours!"
+            "1": "Аудио генерация не растёт на деревьях! Поддержите нас [голосом на top.gg]({url}), это позволит найти {name} легче, спасибо за вашу поддержку!",
+            "2": "Если вы проголосуете за меня, то вы сможете генерировать {newamount} символов вместо {amount} в течение 12 часов!"
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Произошла ошибка при генерации",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "1": "Обычно это случается когда входной язык не соответствует языку голоса, попробуйте изменить входной язык или голос.",
+            "2": "Если вы считаете, что это ошибка, то сообщите о ней в нашем [сервере поддержки]({url}), простите."
         }
     },
     "button": {
-        "changeSpeaker": "Change default speaker",
-        "invite_tts": "Get a 2nd Text to Speech Bot",
-        "enable_queue": "Enable message queue"
+        "changeSpeaker": "Изменить голос по умолчанию",
+        "invite_tts": "Пригласить 2-го бота синтеза речи",
+        "enable_queue": "Включить очередь сообщений"
     },
-    "novc": "You're not connected to any voice channels.",
-    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
-    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
-    "alreadyplaying": "Wait until the message by {user} is done playing, use {command} if it's stuck.",
-    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "novc": "Вы не находитесь в голосовом канале.",
+    "noplayer": "Не используется синтез речи, сперва используйте {command}!",
+    "toolong": "Ваше сообщение превышает лимит сервера {max} на {count} символов.",
+    "alreadyplaying": "Дождитесь завершения воспроизведения сообщения {user} или используйте {command} если оно застряло.",
+    "playing": "Проигрывается в {channel} в течении {time} сек.",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "Этот параметр применяется только к вам.",
+        "default_voice": "Голос по умолчанию теперь установлен на {voice}.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Синтез речи включен.",
+            "disabled": "Синтез речи выключен."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Все активные фильтры отключены.",
+            "enabled": "Фильтр {filter} включен для текущей сессии.",
+            "disabled": "Фильтр {filter} выключен для текущей сессии."
         }
     },
-    "stopped": "Playback was terminated and reset.",
-    "web": "Change default voice & fileformat"
+    "stopped": "Воспроизведение прервано.",
+    "web": "Изменить голос и формат файла по умолчанию"
 }

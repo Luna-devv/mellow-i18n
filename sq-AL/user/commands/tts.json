@@ -1,55 +1,55 @@
 {
     "channel": {
-        "title": "A Chat to Speech channel is setup",
+        "title": "Është konfiguruar një kanal Chat to Speech",
         "description": {
-            "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
-            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
+            "1": "Ky server ka një konfigurim të dedikuar kanali \"Text to Speech\" në {channel}, ju lutemi postoni mesazhe në atë kanal për të gjeneruar audio.",
+            "2": "Nëse je administrator serveri, mund të ndryshosh ose heqësh kanalin [në këtë panel të serverit]({url})."
         }
     },
     "speaker": {
-        "title": "Invalid speaker selected",
+        "title": "Është zgjedhur zër i pavlefshëm",
         "description": {
-            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Zëri që keni zgjedhur nuk ekziston, ju lutemi përdorni opsionet e plotësimit automatik ose [caktoni një zë të paracaktuar] ({url}).",
+            "2": "Nëse kjo vazhdon të ndodhë, ju lutemi pyesni në [serverin tonë të mbështetjes] ({url}), faleminderit."
         }
     },
     "vote": {
-        "title": "Vote requried for long input",
+        "title": "Kërkohet vota për të dhëna të gjata",
         "description": {
-            "1": "Audio generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate {newamount} characters instead of just {amount} for the next 12 hours!"
+            "1": "Gjenerimi i audios nuk rritet në pemë! Na mbështesni me një [votim të shpejtë në top.gg]({url}), kjo i lejon njerëzit të gjejnë më lehtë {name}, faleminderit për mbështetjen tuaj!",
+            "2": "Votimi për mua do t'ju lejojë të keni akses për të gjeneruar {newamount} karaktere në vend të vetëm {amount} për 12 orët e ardhshme!"
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Pati një gabim gjatë krijimit",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "1": "Kjo zakonisht ndodh nëse gjuha e hyrjes nuk përputhet me gjuhën e folësit, provoni të ndryshoni gjuhën e hyrjes ose folësin.",
+            "2": "Nëse mendoni se ky është një gabim, ju lutemi raportoni atë në [serverin e mbështetjes] ({url}), na vjen keq."
         }
     },
     "button": {
-        "changeSpeaker": "Change default speaker",
-        "invite_tts": "Get a 2nd Text to Speech Bot",
-        "enable_queue": "Enable message queue"
+        "changeSpeaker": "Ndrysho zërin e paracaktuar",
+        "invite_tts": "Merrni një Bot të dytë për Text to Speech",
+        "enable_queue": "Aktivizo radhën e mesazheve"
     },
-    "novc": "You're not connected to any voice channels.",
-    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
-    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
-    "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
-    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "novc": "Nuk je i lidhur me asnjë kanal zanor.",
+    "noplayer": "Text to Speech nuk përdoret për momentin, përdorni fillimisht {command}!",
+    "toolong": "Mesazhi juaj tejkalon kufirin e serverëve prej {max} me {count} karaktere.",
+    "alreadyplaying": "Prisni derisa audioja nga {user} të përfundojë duke luajtur, përdorni {command} nëse është e bllokuar.",
+    "playing": "Tani po luhet në {channel} për {time} [singular=\"sekond\" plural=\"sekonda\"].",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "Ky cilësim vlen vetëm për ju.",
+        "default_voice": "Zëri i paracaktuar tani është vendosur në {voice}.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Chat to Speech është aktivizuar.",
+            "disabled": "Chat to Speech është çaktivizuar."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Çaktivizoi të gjithë filtrat aktivë.",
+            "enabled": "Aktivizoi filtrin {filter} për seancën aktuale.",
+            "disabled": "Çaktivizoi filtrin {filter} për seancën aktuale."
         }
     },
-    "stopped": "Playback was terminated and reset.",
-    "web": "Change default voice & fileformat"
+    "stopped": "Riprodhimi u ndërpre dhe u rivendos.",
+    "web": "Ndrysho formatin e paracaktuar të zërit dhe skedarit"
 }

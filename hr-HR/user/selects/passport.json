@@ -1,13 +1,13 @@
 {
-    "disabled": "Passport has been disabled and therefore can no longer be used.",
-    "no_member": "This member is no longer in this server and therefore cannot be verified, unverified or punished.",
+    "disabled": "Putovnica je onemogućena i stoga se više ne može koristiti.",
+    "no_member": "Ovaj član više nije na ovom serverui stoga se ne može verificirati, deverificirati ili kazniti.",
     "success": {
-        "unbanned": "{user} has been successfully unbanned, you will have to re-invite them manually.",
-        "unbanned_invite": "You can just send them {url} per Direct Message!",
-        "verified": "{user} has been verified and given the {role} role.",
-        "unverified": "{user} has been unverified, they can now re-verify."
+        "unbanned": "{user} je uspješno uklonjen sazabrane, morat ćete ga ponovno ručno pozvati.",
+        "unbanned_invite": "Možete im jednostavno poslati {url} izravnom porukom!",
+        "verified": "{user} je potvrđen i dobio je ulogu {role}.",
+        "unverified": "{user} nije potvrđen, sada se može ponovno potvrditi."
     },
     "button": {
-        "enable": "Enable Passport"
+        "enable": "Omogući putovnicu"
     }
 }

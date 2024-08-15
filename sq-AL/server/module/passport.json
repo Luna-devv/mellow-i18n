@@ -1,29 +1,29 @@
 {
     "select": {
-        "placeholder": "Manage passport verification overrides.",
+        "placeholder": "Menaxho anulimet e verifikimit të pasaportës.",
         "options": {
             "unverify": {
-                "title": "Unverify & Reset",
-                "description": "This will allow and require the user to re-verify."
+                "title": "Hiç verifikimin dhe rivendos",
+                "description": "Kjo do të lejojë dhe do të kërkojë që përdoruesi të verifikojë përsëri."
             },
             "punish": {
-                "title": "Punish ({action})",
-                "description": "This will punish the user with the set failed action."
+                "title": "Ndëshkimi ({action})",
+                "description": "Kjo do të ndëshkojë përdoruesin me veprimin e caktuar të dështuar."
             },
             "verify": {
-                "title": "Verify",
-                "description": "This will force-verify the user and give the verified role."
+                "title": "Verifiko",
+                "description": "Kjo do të verifikojë me forcë përdoruesin dhe do të japë rolin e verifikuar."
             }
         }
     },
     "button": {
-        "verified": "Verified by {user}",
-        "unverified": "Unverified by {user}",
-        "punised": "Punished by {user}"
+        "verified": "Verifikuar nga {user}",
+        "unverified": "Verifikimi u hoq nga {user}",
+        "punised": "Dënohet nga {user}"
     },
     "title": {
-        "success": "Passport: Success",
-        "fail": "Passport: Failed"
+        "success": "Pasaporta: Sukses",
+        "fail": "Pasaporta: E dështuar"
     },
-    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
+    "manual_verification_warning": "Ky përdorues është i bllokuar nga verifikimi në të ardhmen, ata do të duhet të verifikohen manualisht nga stafi i serverit."
 }

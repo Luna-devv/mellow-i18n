@@ -1,13 +1,13 @@
 {
-    "disabled": "Passport has been disabled and therefore can no longer be used.",
-    "no_member": "This member is no longer in this server and therefore cannot be verified, unverified or punished.",
+    "disabled": "Pasaporta është çaktivizuar dhe për këtë arsye nuk mund të përdoret më.",
+    "no_member": "Ky anëtar nuk është më në këtë server dhe për këtë arsye nuk mund të verifikohet, mos verifikohet ose ndëshkohet.",
     "success": {
-        "unbanned": "{user} has been successfully unbanned, you will have to re-invite them manually.",
-        "unbanned_invite": "You can just send them {url} per Direct Message!",
-        "verified": "{user} has been verified and given the {role} role.",
-        "unverified": "{user} has been unverified, they can now re-verify."
+        "unbanned": "{user} është hequr me sukses, do të duhet t'i ftosh sërish manualisht.",
+        "unbanned_invite": "Thjesht mund t'i dërgoni {url} për Mesazh Direkt!",
+        "verified": "{user} është verifikuar dhe i është dhënë roli {role}.",
+        "unverified": "{user} nuk është verifikuar, ai tani mund të riverifikohet."
     },
     "button": {
-        "enable": "Enable Passport"
+        "enable": "Aktivizo pasaportën"
     }
 }

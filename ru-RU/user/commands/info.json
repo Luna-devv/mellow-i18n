@@ -1,27 +1,33 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
-    "invites": "Invites",
-    "voice": "Voice",
-    "spotify": "Currently Listening",
-    "none": "none",
-    "globalScope": "Showing stats from all guilds combined.",
-    "pronouns": {
-        "title": "Pronouns",
-        "none": "No pronouns set"
+    "messages": "Сообщения",
+    "name": "Имя",
+    "created": "Создано",
+    "joined": "Присоединились",
+    "invites": "Приглашения",
+    "guilds": "Сервера",
+    "voice": "Голосовой канал",
+    "description": "Описание",
+    "commands": "Популярные команды",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
     },
+    "spotify": "Сейчас слушает",
+    "none": "нету",
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Per-Guild Avatar",
-        "avatar": "Avatar",
-        "banner": "Banner"
+        "guild_avatar": "Guild Avatar",
+        "avatar": "Аватарка",
+        "banner": "Баннер",
+        "terms": "Политика услуг",
+        "privacy": "Политика конфиденциальности"
     },
     "likes": {
-        "add": "Like",
-        "remove": "Remove Like",
-        "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
-        "removed": "You no longer like {user}'s profile.",
-        "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
+        "add": "Нравится",
+        "remove": "Больше не нравится",
+        "added": "Вам понравился профиль {user}, теперь у них лайков: {num}.",
+        "removed": "Вам больше не нравится профиль {user}.",
+        "dm": "{emote} Поздравляю, {name}!\n\nУ меня есть фантастичные новости для тебя! Твой {bot} профиль набрал невероятное количество {num} лайков! Ты точно делаешь что-то правильно, потому что тебя просто неналюбуюешься!\n\nПоддерживаем моментум и распостраняем любовь! Приглашай {bot} этой ссылкой {link} и не забудь про {command} с твоим никнеймом что бы лайкнуть 💖 свой профиль!\n\nСпасибо за то, что ты такая замечательная часть нашего сообщества!\n\nСпасибо,\n{bot} "
     }
 }

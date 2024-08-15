@@ -1,45 +1,45 @@
 {
     "vote": {
-        "title": "Vote to continue using free AI",
+        "title": "Glasajte za nastavak korištenja besplatne umjetne inteligencije",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "Ai {command} generacija ne raste na drveću! Podržite nas [brzim glasovanjem na top.gg]({url}), to omogućuje ljudima da lakše pronađu {name}, hvala vam na podršci!",
+            "2": "Glasovanje za mene omogućit će vam pristup generiranju koliko god želite AI slika u sljedećih 12 sati!"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "Mogući ilegalni sadržaj",
         "description": {
-            "1": "I have detected possible illegal content in your query, please refrain from using it.",
-            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+            "1": "Otkrila sam mogući ilegalni sadržaj u vašem upitu, molimo vas da ga ne koristite.",
+            "2": "Ako mislite da je ovo pogreška, prijavite je na našem [poslužitelju za podršku]({url}), hvala."
         }
     },
     "better_query": {
-        "title": "Know your model and improve queries",
+        "title": "Upoznajte svoj model i poboljšajte upite",
         "description": {
-            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
-            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
-            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
-            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+            "1": "Slika se poboljšava kako dajete više i bolje pojedinosti u upitu, imajte na umu da će prebrisanje negativnog upita ukloniti unaprijed postavljeno.",
+            "2": "Trebali biste [pronaći smjernice za korištenje]({url}) za svoj model kako biste dobili bolje rezultate.",
+            "3": "Imajte na umu da nije svaki model dobar za sve, neki modeli su obučeni na anime, a neki drugi na realističnim slikama.",
+            "4": "Da, mogu generirati NSFW sadržaj, ali ga možete koristiti samo unutar [NSFW označenih kanala]({url})."
         },
-        "footer": "This message is only shown once"
+        "footer": "Ova poruka se prikazuje samo jednom"
     },
     "model": {
-        "title": "Invalid model selected",
+        "title": "Odabran je nevažeći model",
         "description": {
-            "1": "The model you selected does not exist, please use the autocomplete options.",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Model koji ste odabrali ne postoji, koristite opcije samodovršavanja.",
+            "2": "Ako se ovo nastavi događati, pitajte na našem [poslužitelju za podršku]({url}), hvala."
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Došlo je do pogreške tijekom generiranja",
         "description": {
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Ako mislite da je ovo greška, prijavite je na našem [poslužitelju za podršku]({url}), žao nam je."
         }
     },
     "button": {
-        "regenerate": "Regenerate",
-        "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples"
+        "regenerate": "Regenerirati",
+        "selenite": "Nabavite Gemini Chat Bot",
+        "examples": "Pogledajte neke sjajne primjere"
     },
-    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+    "nsfw_query": "Pokušali ste neke zločeste stvari u upitu.. Prebacite se na ili stvorite kanal s oznakom NSFW da biste ih koristili!"
 }

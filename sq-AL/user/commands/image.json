@@ -1,45 +1,45 @@
 {
     "vote": {
-        "title": "Vote to continue using free AI",
+        "title": "Votoni për të vazhduar përdorimin e AI falas",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "Leja e përdorimit të AI nuk rritet në pemë! Na mbështesni me një [votim të shpejtë në top.gg]({url}), kjo i lejon njerëzit të gjejnë më lehtë {name}, faleminderit për mbështetjen tuaj!",
+            "2": "Votimi për mua do t'ju lejojë të keni leje për të gjeneruar sa më shumë imazhe të AI që dëshironi për 12 orët e ardhshme!"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "Përmbajtja e mundshme e paligjshme",
         "description": {
-            "1": "I have detected possible illegal content in your query, please refrain from using it.",
-            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+            "1": "Kam zbuluar përmbajtje të mundshme të paligjshme në pyetjen tuaj, ju lutemi përmbahuni nga përdorimi i saj.",
+            "2": "Nëse mendoni se ky është një gabim, ju lutemi raportoni në [serverin tonë të mbështetjes]({url}), faleminderit."
         }
     },
     "better_query": {
-        "title": "Know your model and improve queries",
+        "title": "Njihni modelin tuaj dhe përmirësoni pyetjet",
         "description": {
-            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
-            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
-            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
-            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+            "1": "Imazhi përmirësohet ndërsa jepni më shumë detaje në pyetje. Mbani në mend se mbishkrimi i pyetjes negative do të heqë paravendosjen.",
+            "2": "Duhet të [gjeni udhëzimet e përdorimit]({url}) që modeli juaj të ketë rezultate më të mira.",
+            "3": "Vini re se jo çdo model është i mirë për gjithçka, disa modele janë trajnuar në anime dhe disa të tjera në imazhe realiste.",
+            "4": "Po, unë mund të gjeneroj përmbajtje NSFW, por ju mund ta përdorni vetëm brenda [kanaleve të shënuara NSFW] ({url})."
         },
-        "footer": "This message is only shown once"
+        "footer": "Ky mesazh shfaqet vetëm një herë"
     },
     "model": {
-        "title": "Invalid model selected",
+        "title": "Është zgjedhur model i pavlefshëm",
         "description": {
-            "1": "The model you selected does not exist, please use the autocomplete options.",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Modeli që keni zgjedhur nuk ekziston, ju lutemi përdorni opsionet e plotësimit automatik.",
+            "2": "Nëse kjo vazhdon të ndodhë, ju lutemi pyesni në [serverin tonë të mbështetjes] ({url}), faleminderit."
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Pati një gabim gjatë krijimit",
         "description": {
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Nëse mendoni se ky është një gabim, ju lutemi raportoni atë në [serverin e mbështetjes] ({url}), na vjen keq."
         }
     },
     "button": {
-        "regenerate": "Regenerate",
-        "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples"
+        "regenerate": "Rigjeneroni",
+        "selenite": "Merr Gemini Chat Bot",
+        "examples": "Shikoni disa shembuj të mrekullueshëm"
     },
-    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+    "nsfw_query": "Ke provuar disa gjëra të këqija në pyetje. Kalo te ose krijo një kanal të shënuar NSFW për ta përdorur atë!"
 }

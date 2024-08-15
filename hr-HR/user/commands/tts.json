@@ -1,55 +1,55 @@
 {
     "channel": {
-        "title": "A Chat to Speech channel is setup",
+        "title": "Kanal Text u Glas je postavljen",
         "description": {
-            "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
-            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
+            "1": "Ovaj server ima namjenski kanal za pretvaranje teksta u govor postavljen na {channel}, postavljajte poruke na tom kanalu za generiranje zvuka.",
+            "2": "Ako ste administrator servera, možete promijeniti ili ukloniti kanal [na ovoj nadzornoj ploči poslužitelja]({url})."
         }
     },
     "speaker": {
-        "title": "Invalid speaker selected",
+        "title": "Odabran je nevažeći zvučnik",
         "description": {
-            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Govornik kojeg ste odabrali ne postoji, upotrijebite opcije samodovršavanja ili [postavite zadani glas]({url}).",
+            "2": "Ako se ovo nastavi događati, pitajte na našem [serveru za podršku]({url}), hvala."
         }
     },
     "vote": {
-        "title": "Vote requried for long input",
+        "title": "Glasovanje je potrebno za dugačak unos",
         "description": {
-            "1": "Audio generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate {newamount} characters instead of just {amount} for the next 12 hours!"
+            "1": "Audio generacija ne raste na drveću! Podržite nas [brzim glasovanjem na top.gg]({url}), to omogućuje ljudima da lakše pronađu {name}, hvala vam na podršci!",
+            "2": "Glasovanje za mene omogućit će vam pristup generiranju {newamount} znakova umjesto samo {amount} sljedećih 12 sati!"
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Došlo je do pogreške tijekom generiranja",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "1": "To se obično događa ako jezik unosa ne odgovara jeziku govornika, pokušajte promijeniti jezik unosa ili govornika.",
+            "2": "Ako mislite da je ovo greška, prijavite je na našem [poslužitelju za podršku]({url}), žao nam je."
         }
     },
     "button": {
-        "changeSpeaker": "Change default speaker",
-        "invite_tts": "Get a 2nd Text to Speech Bot",
-        "enable_queue": "Enable message queue"
+        "changeSpeaker": "Promjena zadanog zvučnika",
+        "invite_tts": "Nabavite drugog bota za pretvaranje teksta u govor",
+        "enable_queue": "Omogući red čekanja poruka"
     },
-    "novc": "You're not connected to any voice channels.",
-    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
-    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
-    "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
-    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "novc": "Niste spojeni ni na jedan glasovni kanal.",
+    "noplayer": "Tekst u govor trenutno se ne koristi, prvo upotrijebite {command}!",
+    "toolong": "Vaša poruka premašuje ograničenje servera od {max} sa {count} znakova.",
+    "alreadyplaying": "Pričekajte dok se ne završi reprodukcija poruke od {user}, upotrijebite {command} ako je zapela.",
+    "playing": "Sada se reproducira u {channel} {time} [singular=\"sekunda\" plural=\"sekunde\"].",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "Ova se postavka odnosi samo na vas.",
+        "default_voice": "Zadani glas sada je postavljen na {voice}.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Tekst u govor je omogućen.",
+            "disabled": "Tekst u govor je onemogućen."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Onemogućeni su svi aktivni filtri.",
+            "enabled": "Omogućen je filtar {filter} za trenutnu sesiju.",
+            "disabled": "Onemogućen je filtar {filter} za trenutnu sesiju."
         }
     },
-    "stopped": "Playback was terminated and reset.",
-    "web": "Change default voice & fileformat"
+    "stopped": "Reprodukcija je prekinuta i poništena.",
+    "web": "Promjena zadanog glasa i formata datoteke"
 }

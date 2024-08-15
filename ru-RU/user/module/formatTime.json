@@ -1,7 +1,7 @@
 {
-    "months": "[singular=\"month\" plural=\"months\"]",
-    "days": "[singular=\"day\" plural=\"days\"]",
-    "hours": "[singular=\"hour\" plural=\"hours\"]",
-    "minutes": "[singular=\"minute\" plural=\"minutes\"]",
-    "seconds": "[singular=\"second\" plural=\"seconds\"]"
+    "months": "[singular=\"месяц\" plural=\"месяц(а/ов)\"]",
+    "days": "[singular=\"день\" plural=\"дн(я/ей)\"]",
+    "hours": "[singular=\"час\" plural=\"час(а/ов)\"]",
+    "minutes": "[singular=\"минута\" plural=\"минут(ы)\"]",
+    "seconds": "[singular=\"секунда\" plural=\"секунд(ы)\"]"
 }

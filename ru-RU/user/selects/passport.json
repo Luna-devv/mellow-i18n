@@ -1,13 +1,13 @@
 {
-    "disabled": "Passport has been disabled and therefore can no longer be used.",
-    "no_member": "This member is no longer in this server and therefore cannot be verified, unverified or punished.",
+    "disabled": "Passport выключен и не может быть использован.",
+    "no_member": "Этот пользователь больше не на сервере, поэтому он не может быть верифицирован, разверифицирован или наказан.",
     "success": {
-        "unbanned": "{user} has been successfully unbanned, you will have to re-invite them manually.",
-        "unbanned_invite": "You can just send them {url} per Direct Message!",
-        "verified": "{user} has been verified and given the {role} role.",
-        "unverified": "{user} has been unverified, they can now re-verify."
+        "unbanned": "Пользователь {user} был успешно разбанен, вам нужно будет пригласить их вручную.",
+        "unbanned_invite": "Можете отправить им {url} в ЛС!",
+        "verified": "Участник {user} верифицирован и получил роль {role}.",
+        "unverified": "Участник {user} был разверифицирован, теперь они могут пройти проверку заново."
     },
     "button": {
-        "enable": "Enable Passport"
+        "enable": "Включить Passport"
     }
 }

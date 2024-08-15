@@ -1,27 +1,33 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
-    "invites": "Invites",
-    "voice": "Voice",
-    "spotify": "Currently Listening",
-    "none": "none",
-    "globalScope": "Showing stats from all guilds combined.",
-    "pronouns": {
-        "title": "Pronouns",
-        "none": "No pronouns set"
+    "messages": "Poruke",
+    "name": "Ime",
+    "created": "Kreiran",
+    "joined": "Pridružen",
+    "invites": "Pozivnice",
+    "guilds": "Servera",
+    "voice": "Glasovni kanal",
+    "description": "Opis",
+    "commands": "Popularne naredbe",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
     },
+    "spotify": "Trenutno sluša",
+    "none": "prazno",
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Per-Guild Avatar",
+        "guild_avatar": "Guild Avatar",
         "avatar": "Avatar",
-        "banner": "Banner"
+        "banner": "Baner",
+        "terms": "Uvjeti usluge",
+        "privacy": "Politika privatnosti"
     },
     "likes": {
-        "add": "Like",
-        "remove": "Remove Like",
-        "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
-        "removed": "You no longer like {user}'s profile.",
-        "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
+        "add": "Sviđa mi se",
+        "remove": "Ukloni lajk",
+        "added": "Svidio vam se profil korisnika {user}, oni sada imaju {num} [singular=\"lajk\" plural=\"lajka\"].",
+        "removed": "Više vam se ne sviđa profil korisnika {user}.",
+        "dm": "{emote} Čestitamo, {name}!\n\nImam fantastične vijesti za podijeliti s vama! Vaš {bot} profil dosegao je nevjerojatnih {num} lajkova! Očito nešto radite kako treba jer vas se ljudi jednostavno ne mogu zasititi!\n\nStoga nastavimo dalje i širimo ljubav! Recite svima da pozovu {bot} tako što ćete im poslati {link} i obavezno upotrijebite {command} nakon koje slijedi vaše korisničko ime u srcu 💖 vašem profilu!\n\nHvala vam što ste tako fantastičan dio naše zajednice!\n\nŽivjeli,\n{bot} "
     }
 }

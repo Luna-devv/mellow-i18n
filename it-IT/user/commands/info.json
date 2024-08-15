@@ -4,18 +4,24 @@
     "created": "Creato",
     "joined": "Unito",
     "invites": "Inviti",
+    "guilds": "Guilds",
     "voice": "Canale vocale",
-    "spotify": "Ascolta Attualmente",
-    "none": "nessuno",
-    "globalScope": "Mostrando statistiche da tutti i server combinati.",
-    "pronouns": {
-        "title": "Pronomi",
-        "none": "Nessun pronome impostato"
+    "description": "Description",
+    "commands": "Popular Commands",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
     },
+    "spotify": "Currently Listening To",
+    "none": "nessuno",
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Avatar per Gilda",
+        "guild_avatar": "Guild Avatar",
         "avatar": "Avatar",
-        "banner": "Banner"
+        "banner": "Banner",
+        "terms": "Terms of Service",
+        "privacy": "Privacy Policy"
     },
     "likes": {
         "add": "Mi piace",

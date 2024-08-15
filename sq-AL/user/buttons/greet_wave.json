@@ -1,6 +1,6 @@
 {
     "cooldown": {
-        "guild": "You can only greet new members every 10 seconds to avoid spam, sorry",
-        "user": "You cannot greet {user} twice to avoid spam, sorry"
+        "guild": "Ju mund të përshëndesni anëtarët e rinj vetëm çdo 10 sekonda për të shmangur mesazhet e padëshiruara, më falni",
+        "user": "Ju nuk mund të përshëndesni {user} dy herë për të shmangur mesazhet e padëshiruara, ju falni"
     }
 }

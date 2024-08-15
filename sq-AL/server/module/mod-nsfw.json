@@ -1,12 +1,12 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
-    "description": "{percent} nsfw ({threshold} threshold)",
+    "title": "Imazhi NSFW u zbulua",
+    "analysis": "Analiza",
+    "description": "{percent} nsfw ({threshold})",
     "thread": {
-        "name": "Image attachment (NSFW)",
-        "message": "Reupload of an image sent by {user}"
+        "name": "Bashkëngjitja e imazhit (NSFW)",
+        "message": "Ringarkoni një imazh të dërguar nga {user}"
     },
     "button": {
-        "update_threshold": "Change the threshold ({threshold}%)"
+        "update_threshold": "Ndrysho pragun ({threshold}%)"
     }
 }

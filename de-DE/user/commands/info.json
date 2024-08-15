@@ -4,18 +4,24 @@
     "created": "Erstellt",
     "joined": "Beigetreten",
     "invites": "Einladungen",
+    "guilds": "Server",
     "voice": "Sprachchat",
-    "spotify": "Hört momentan",
-    "none": "keine",
-    "globalScope": "Zeige Statistiken allen Servern zusammen.",
-    "pronouns": {
-        "title": "Pronomen",
-        "none": "Keine Pronomen ausgewählt"
+    "description": "Beschreibung",
+    "commands": "Beliebte Befehle",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
     },
+    "spotify": "Hört Momentan",
+    "none": "keine",
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Pro-Server Avatar",
+        "guild_avatar": "Guild Avatar",
         "avatar": "Avatar",
-        "banner": "Banner"
+        "banner": "Banner",
+        "terms": "Nutzungsbedingungen",
+        "privacy": "Datenschutzerklärung"
     },
     "likes": {
         "add": "Gefällt mir",

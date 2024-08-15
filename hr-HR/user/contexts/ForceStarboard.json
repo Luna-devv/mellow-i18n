@@ -1,8 +1,8 @@
 {
     "error": {
-        "config": "Starboard is not setup in this guild, [setup starboard]({url}) in the dashboard.",
-        "content": "This message does not have any content, attachments, embeds or stickers.",
-        "alreadyexists": "This message is already in the starboard, [jump to the message]({url})!"
+        "config": "Starboard nije postavljen u ovom serveru, [postavi starboard]({url}) na upravljačkoj ploči.",
+        "content": "Ova poruka nema nikakav sadržaj, privitke, ugradnje niti naljepnice.",
+        "alreadyexists": "Ova poruka je već na starboard-u, [skoči na poruku]({url})!"
     },
-    "success": "Message has been successfully beamed to the {channel}."
+    "success": "Poruka je uspješno poslana u {channel}."
 }
