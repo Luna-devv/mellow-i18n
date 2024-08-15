@@ -8,15 +8,16 @@
     "voice": "Голосовой канал",
     "description": "Описание",
     "commands": "Популярные команды",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
+    },
     "spotify": "Сейчас слушает",
     "none": "нету",
-    "globalScope": "Показ статистики из всех серверов вместе.",
-    "pronouns": {
-        "title": "Местоимения",
-        "none": "Не задано"
-    },
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Аватарка на сервере",
+        "guild_avatar": "Guild Avatar",
         "avatar": "Аватарка",
         "banner": "Баннер",
         "terms": "Политика услуг",
