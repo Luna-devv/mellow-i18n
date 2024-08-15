@@ -8,15 +8,16 @@
     "voice": "Sprachchat",
     "description": "Beschreibung",
     "commands": "Beliebte Befehle",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
+    },
     "spotify": "Hört Momentan",
     "none": "keine",
-    "globalScope": "Zeige Statistiken allen Servern zusammen.",
-    "pronouns": {
-        "title": "Pronomen",
-        "none": "Keine Pronomen ausgewählt"
-    },
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Pro-Server Avatar",
+        "guild_avatar": "Guild Avatar",
         "avatar": "Avatar",
         "banner": "Banner",
         "terms": "Nutzungsbedingungen",
