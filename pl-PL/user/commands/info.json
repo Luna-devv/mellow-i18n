@@ -8,15 +8,16 @@
     "voice": "Voice",
     "description": "Description",
     "commands": "Popular Commands",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
+    },
     "spotify": "Currently Listening To",
     "none": "none",
-    "globalScope": "Showing stats from all guilds combined.",
-    "pronouns": {
-        "title": "Pronouns",
-        "none": "No pronouns set"
-    },
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Per-Guild Avatar",
+        "guild_avatar": "Guild Avatar",
         "avatar": "Avatar",
         "banner": "Banner",
         "terms": "Terms of Service",
