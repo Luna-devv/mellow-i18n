@@ -8,15 +8,16 @@
     "voice": "Zëri",
     "description": "Përshkrimi",
     "commands": "Komandat popullore",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
+    },
     "spotify": "Aktualisht po dëgjon",
     "none": "asnjë",
-    "globalScope": "Duke shfaqur statistika nga të gjitha serverat e kombinuara.",
-    "pronouns": {
-        "title": "Përemrat",
-        "none": "Nuk ka përemra të vendosur"
-    },
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Avatari Per-Server",
+        "guild_avatar": "Guild Avatar",
         "avatar": "Avatari",
         "banner": "Banneri",
         "terms": "Kushte Shërbimi",
