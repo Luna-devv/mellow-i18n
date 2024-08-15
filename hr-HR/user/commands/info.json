@@ -8,15 +8,16 @@
     "voice": "Glasovni kanal",
     "description": "Opis",
     "commands": "Popularne naredbe",
+    "flags": "Flags",
+    "install": {
+        "guild": "Invite to Guild",
+        "user": "Install as User-App"
+    },
     "spotify": "Trenutno sluša",
     "none": "prazno",
-    "globalScope": "Prikaz statistike svih cehova zajedno.",
-    "pronouns": {
-        "title": "Zamjenice",
-        "none": "Nema postavljenih zamjenica"
-    },
+    "global_scope": "Showing stats from all guilds combined.",
     "button": {
-        "guildAvatar": "Avatar po serveru",
+        "guild_avatar": "Guild Avatar",
         "avatar": "Avatar",
         "banner": "Baner",
         "terms": "Uvjeti usluge",
