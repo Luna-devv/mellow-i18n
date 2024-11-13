@@ -19,7 +19,7 @@
             "1": "La imagen mejora a medida que proporciona más y mejores detalles en la consulta, tenga en cuenta que sobrescribir la consulta negativa eliminará el predeterminado.",
             "2": "Deberías [encontrar las pautas de uso]({url}) para que tu modelo obtenga mejores resultados.",
             "3": "Tenga en cuenta que no todos los modelos son buenos para todo, algunos modelos son entrenados en anime y otros en imágenes realistas.",
-            "4": "Sí, puedo generar contenido NSFW, pero solo puedes usarlo dentro de [canales marcados NSFW]({url})."
+            "4": "Sí, puedo generar contenido NSFW, pero sólo se puede utilizar dentro de [NSFW canales marcados]({url})."
         },
         "footer": "Este mensaje se muestra únicamente una vez"
     },
