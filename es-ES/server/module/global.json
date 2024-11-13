@@ -9,15 +9,15 @@
         "nothing": "Nada",
         "ban": "Bloquear",
         "kick": "Expulsar",
-        "role": "Asignar rol",
-        "delete_message": "Borrar mensaje"
+        "role": "Asignar Rol",
+        "delete_message": "Borrar Mensaje"
     },
     "logging": {
         "account": "Usuario: {var}",
         "joined": "Se unió: {var}",
         "created": "Creado: {var}",
         "channel": "Canal: {var}",
-        "voice": "Canal de voz: {var}",
+        "voice": "Canal: {var}",
         "message": "Mensaje: **[Saltar al mensaje]({url})**",
         "command": "Comando: {var}",
         "action": "Acción: {var}",
