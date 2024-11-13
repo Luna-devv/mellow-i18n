@@ -1,9 +1,9 @@
 {
-    "none": "You dont have any tags yet",
+    "none": "Aún no tienes ninguna etiqueta",
     "title": {
-        "text": "Text [singular=\"Command\" plural=\"Commands\"] ({amount})",
-        "slash": "Slash [singular=\"Command\" plural=\"Commands\"] ({amount})"
+        "text": "Texto [singular=\"Comando\" plural=\"Comandos\"] ({amount})",
+        "slash": "Slash [singular=\"Comando\" plural=\"Comandos\"] ({amount})"
     },
-    "disabled": "{amount} [singular=\"tag is\" plural=\"tags are\"] hidden due to missing permissions",
-    "footer": "Use with {command}"
+    "disabled": "{amount} [singular=\"tag está\" plural=\"tags están\"] ocultos debido a que faltan permisos",
+    "footer": "Usar con {command}"
 }
