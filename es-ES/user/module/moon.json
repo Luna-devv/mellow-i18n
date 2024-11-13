@@ -1,10 +1,10 @@
 {
-    "new_moon": "New Moon",
-    "waxing_crescent": "Waxing Crescent",
-    "first_quarter": "First Quarter",
-    "waxing_gibbous": "Waxing Gibbous",
-    "full_moon": "Full Moon",
-    "waning_gibbous": "Waning Gibbous",
-    "last_quarter": "Last Quarter",
-    "waning_crescent": "Waning Crescent"
+    "new_moon": "Luna Nueva",
+    "waxing_crescent": "Cuarto creciente",
+    "first_quarter": "Primer Cuarto",
+    "waxing_gibbous": "Gibosa creciente",
+    "full_moon": "Luna llena",
+    "waning_gibbous": "Gibosa menguante",
+    "last_quarter": "Cuarto menguante",
+    "waning_crescent": "Cuarto creciente"
 }
