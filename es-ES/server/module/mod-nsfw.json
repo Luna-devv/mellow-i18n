@@ -4,7 +4,7 @@
     "description": "{percent} NSFW ({threshold} umbral)",
     "thread": {
         "name": "Imagen adjunta (NSFW)",
-        "message": "Re-subida de una imagen mandada por {user}"
+        "message": "Resubida de una imagen mandada por {user}"
     },
     "button": {
         "update_threshold": "Cambia el umbral ({threshold}%)"
