@@ -41,8 +41,8 @@
         "only_you": "Esta configuración solamente se aplica a usted.",
         "default_voice": "La voz predeterminada ahora está configurada a {voice}.",
         "cts": {
-            "enabled": "El chat a voz ha sido activado.",
-            "disabled": "El chat a voz ha sido deshabilitado."
+            "enabled": "El chat to speech ha sido activado.",
+            "disabled": "El chat to speech ha sido deshabilitado."
         },
         "filter": {
             "cleared": "Deshabilitados todos los filtros activos.",
