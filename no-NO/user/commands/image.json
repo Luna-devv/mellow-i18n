@@ -41,5 +41,5 @@
         "selenite": "Get Gemini Chat Bot",
         "examples": "View some awesome examples"
     },
-    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+    "nsfw_query": "Du prøvde noen slemme ting i spørringen. Bytt til eller lag en NSFW merket kanal for å bruke slikt!"
 }
