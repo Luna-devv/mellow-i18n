@@ -49,7 +49,7 @@
                     "bot": "Yo: {b.role} @ índice {b.index}"
                 },
                 "role": {
-                    "text": "No puedo llevar a cabo esta acción, ya que mi rol más alto es inferior al que se quiere administrar.",
+                    "text": "No puedo realizar esta acción ya que mi rol más alto es inferior al rol a gestionar.",
                     "user": "Rol: {u.role} @ índice {u.index}",
                     "bot": "Yo: {b.role} @ índice {b.index}"
                 }
