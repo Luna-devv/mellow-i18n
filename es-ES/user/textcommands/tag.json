@@ -1,8 +1,8 @@
 {
     "invalid": {
-        "title": "Una etiqueta con ese nombre no existe.",
+        "title": "Un comando personalizado con ese nombre no existe.",
         "button": {
-            "create": "Crear nueva etiqueta"
+            "create": "Crear un nuevo comando personalizado"
         }
     }
 }
