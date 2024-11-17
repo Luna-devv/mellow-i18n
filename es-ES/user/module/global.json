@@ -2,15 +2,14 @@
     "noguild": "Este comando no se puede usar dentro de mensajes privados o en el espacio instalado por el usuario.",
     "userdisabled": "Ya no puedes usar este bot, tu cuenta ha sido desactivada.",
     "dmdisabled": "No se pudo enviar el mensaje, tus Mensajes Directos parecen estar deshabilitados.",
-    "botmention": "¡Hola, {user}, ejecuta **{emote} SlashCommands** para usarme!\nUsa {command} para más información.",
+    "botmention": "Hey {user}, I only listen to **Slashcommands** {emote}\nUse {command} for more information.",
     "none": "ninguno",
     "error": "Algo salió mal, por favor intente más tarde.",
     "premium": {
-        "required": "suscripción requerida",
-        "embeds": {
-            "title": "Lo sentimos, pero se requiere una suscripción Pro",
-            "limittitle": "Lo sentimos, pero se alcanzó el límite de suscripción Pro.",
-            "description": "Para proporcionar un bot estable, y dado que el dinero no crece en los árboles, tengo que bloquear características no esenciales detrás de una suscripción Pro."
+        "embed": {
+            "title": "You need {bot} Pro to continue",
+            "pro_title": "The limit of your {bot} Pro was reached!",
+            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
         },
         "button": {
             "subscribe": "Suscribir"
@@ -20,12 +19,13 @@
         "add": "Añadir {name}",
         "support": "Soporte",
         "vote": "Vota por {name}",
-        "voteSkip": "Apóyanos para omitir la votación"
+        "vote_skip": "Donate to skip voting",
+        "vote_required": "Vote on {site} to continue"
     },
     "permissions": {
         "user": {
-            "guild": "No puedes realizar esta acción ya que te faltan los permisos {perms}.",
-            "channel": "No puedes realizar esta acción porque te faltan los permisos {perms} en este canal.",
+            "guild": "You cannot perform this action since you're missing the {perms} permissions.",
+            "channel": "You cannot perform this action since you're missing the {perms} permissions in this channel.",
             "roles": {
                 "user": {
                     "text": "No puedes realizar esta acción porque el rol de este usuario es más alto que el tuyo.",
@@ -40,8 +40,8 @@
             }
         },
         "me": {
-            "guild": "No puedo realizar esta acción porque me faltan los permisos {perms}.",
-            "channel": "No puedo ejecutar esta acción porque me faltan los permisos {perms} en este canal.",
+            "guild": "I cannot perform this action since I'm missing the {perms} permissions.",
+            "channel": "I cannot perform this action since I'm missing the {perms} permissions in this channel.",
             "roles": {
                 "user": {
                     "text": "No puedo realizar esta acción porque el rol de ese usuario es más alto que el mío.",
