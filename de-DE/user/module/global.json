@@ -2,14 +2,14 @@
     "noguild": "Dieser Befehl kann nicht innerhalb von privaten Nachrichten oder im vom Benutzer installierten Umgebung verwendet werden.",
     "userdisabled": "Du kannst diesen Bot nicht mehr verwenden, dein Account wurde deaktiviert.",
     "dmdisabled": "Die Nachricht konnte dir nicht gesendet werden, deine Direktnachrichten scheinen deaktiviert zu sein.",
-    "botmention": "Hey {user}, benutze **{emote} SlashCommands** um mich zu nutzen!\nNutze {command} für weitere Informationen.",
+    "botmention": "Hey {user}, ich höre nur auf **Slashcommands** {emote}\nBenutze {command} für weitere Informationen.",
     "none": "keine",
     "error": "Etwas ist schief gelaufen, bitte versuche es später nochmal.",
     "premium": {
         "embed": {
-            "title": "You need {bot} Pro to continue",
-            "pro_title": "The limit of your {bot} Pro was reached!",
-            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
+            "title": "Du brauchst {bot} Pro um fortzufahren",
+            "pro_title": "Dein Limit von {bot} Pro wurde erreicht!",
+            "description": "Um einen stabilen Bot anbieten zu können, und da Geld nicht auf Bäumen wächst, muss ich unwichtige Funktionen hinter einem Abonnement verbergen."
         },
         "button": {
             "subscribe": "Abonnieren"
@@ -19,8 +19,8 @@
         "add": "{name} Einladen",
         "support": "Support",
         "vote": "Für {name} voten",
-        "vote_skip": "Unterstütze uns, um das Voten zu überspringen",
-        "vote_required": "Vote on {site} to continue"
+        "vote_skip": "Spende um Voten zu Überspringen",
+        "vote_required": "Vote auf {site} um fortzufahren"
     },
     "permissions": {
         "user": {
