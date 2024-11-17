@@ -20,7 +20,7 @@
         "add": "Shto {name}",
         "support": "Mbështetja",
         "vote": "Voto për {name}",
-        "voteSkip": "Na mbështesni për të kapërcyer votimin"
+        "vote_skip": "Na mbështesni për të kapërcyer votimin"
     },
     "permissions": {
         "user": {

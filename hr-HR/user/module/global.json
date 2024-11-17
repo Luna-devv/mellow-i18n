@@ -20,7 +20,7 @@
         "add": "Dodaj {name}",
         "support": "Podrška",
         "vote": "Glasajte za {name}",
-        "voteSkip": "Podržite nas da preskočimo glasanje"
+        "vote_skip": "Podržite nas da preskočimo glasanje"
     },
     "permissions": {
         "user": {

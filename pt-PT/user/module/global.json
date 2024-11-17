@@ -20,7 +20,7 @@
         "add": "Adicionar {name}",
         "support": "Suporte",
         "vote": "Vote em {name}",
-        "voteSkip": "Apoie-nos para pular a votação"
+        "vote_skip": "Apoie-nos para pular a votação"
     },
     "permissions": {
         "user": {

@@ -20,7 +20,7 @@
         "add": "Add {name}",
         "support": "Support",
         "vote": "Vote for {name}",
-        "voteSkip": "Support us to skip voting"
+        "vote_skip": "Support us to skip voting"
     },
     "permissions": {
         "user": {

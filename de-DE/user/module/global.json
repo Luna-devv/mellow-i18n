@@ -20,7 +20,7 @@
         "add": "{name} Einladen",
         "support": "Support",
         "vote": "Für {name} voten",
-        "voteSkip": "Unterstütze uns, um das Voten zu überspringen"
+        "vote_skip": "Unterstütze uns, um das Voten zu überspringen"
     },
     "permissions": {
         "user": {
