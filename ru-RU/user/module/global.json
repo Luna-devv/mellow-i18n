@@ -6,11 +6,10 @@
     "none": "нету",
     "error": "Что-то пошло не так, повторите попытку позже.",
     "premium": {
-        "required": "требуется подписка",
-        "embeds": {
-            "title": "Извини, но требуется Pro подписка",
-            "limittitle": "Извини, но был достигнут лимит твоей Pro подписки.",
-            "description": "Деньги не растут на деревьях, и чтобы предоставить вам хорошего бота, мне нужно ограничить некоторые функции подпиской."
+        "embed": {
+            "title": "You need {bot} Pro to continue",
+            "pro_title": "The limit of your {bot} Pro was reached!",
+            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
         },
         "button": {
             "subscribe": "Купить подписку"
@@ -20,7 +19,8 @@
         "add": "Добавить {name}",
         "support": "Поддержка",
         "vote": "Проголосовать за {name}",
-        "voteSkip": "Поддержите нас для пропуска голоса"
+        "vote_skip": "Поддержите нас для пропуска голоса",
+        "vote_required": "Vote on {site} to continue"
     },
     "permissions": {
         "user": {
