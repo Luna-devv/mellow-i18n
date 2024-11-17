@@ -6,11 +6,10 @@
     "none": "nenhum",
     "error": "Algo deu errado, por favor, tente novamente mais tarde.",
     "premium": {
-        "required": "subscrição necessária",
-        "embeds": {
-            "title": "Sorry, but a Pro Subscription is required",
-            "limittitle": "Sorry, but your Pro Subscription limit was reached.",
-            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a Pro Subscription."
+        "embed": {
+            "title": "You need {bot} Pro to continue",
+            "pro_title": "The limit of your {bot} Pro was reached!",
+            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
         },
         "button": {
             "subscribe": "Subscreva"
@@ -20,7 +19,8 @@
         "add": "Adicionar {name}",
         "support": "Suporte",
         "vote": "Vote em {name}",
-        "voteSkip": "Apoie-nos para pular a votação"
+        "vote_skip": "Apoie-nos para pular a votação",
+        "vote_required": "Vote on {site} to continue"
     },
     "permissions": {
         "user": {
