@@ -6,11 +6,10 @@
     "none": "prazno",
     "error": "Nešto nije u redu, pokušajte ponovo kasnije.",
     "premium": {
-        "required": "potrebna pretplata",
-        "embeds": {
-            "title": "Žao nam je, ali potrebna je Pro pretplata",
-            "limittitle": "Nažalost, dosegnuto je vaše ograničenje Pro pretplate.",
-            "description": "Kako bih osigurali stabilnog bota, a budući da novac ne raste na drveću, moram zaključati manje bitne značajke iza Pro pretplate."
+        "embed": {
+            "title": "You need {bot} Pro to continue",
+            "pro_title": "The limit of your {bot} Pro was reached!",
+            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
         },
         "button": {
             "subscribe": "Pretplatite se"
@@ -20,7 +19,8 @@
         "add": "Dodaj {name}",
         "support": "Podrška",
         "vote": "Glasajte za {name}",
-        "voteSkip": "Podržite nas da preskočimo glasanje"
+        "vote_skip": "Podržite nas da preskočimo glasanje",
+        "vote_required": "Vote on {site} to continue"
     },
     "permissions": {
         "user": {
