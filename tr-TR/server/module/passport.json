@@ -1,29 +1,29 @@
 {
     "select": {
-        "placeholder": "Manage passport verification overrides.",
+        "placeholder": "Pasaport doğrulama geçersiz kılmalarını yönet.",
         "options": {
             "unverify": {
-                "title": "Unverify & Reset",
-                "description": "This will allow and require the user to re-verify."
+                "title": "Doğrulamayı Kaldır & Sıfırla",
+                "description": "Bu, kullanıcının yeniden doğrulama yapmasına izin verecek ve bunu gerektirecektir."
             },
             "punish": {
-                "title": "Punish ({action})",
-                "description": "This will punish the user with the set failed action."
+                "title": "Cezalandır ({action})",
+                "description": "Bu, kullanıcıyı ayarlanan başarısız eylemle cezalandıracaktır."
             },
             "verify": {
-                "title": "Verify",
-                "description": "This will force-verify the user and give the verified role."
+                "title": "Doğrula",
+                "description": "Bu, kullanıcıyı zorla doğrulayacak ve doğrulanmış rolü verecektir."
             }
         }
     },
     "button": {
-        "verified": "Verified by {user}",
-        "unverified": "Unverified by {user}",
-        "punised": "Punished by {user}"
+        "verified": "{user} tarafından doğrulandı",
+        "unverified": "{user} tarafından doğrulanması kaldırıldı",
+        "punised": "{user} tarafından cezalandırıldı"
     },
     "title": {
-        "success": "Passport: Success",
-        "fail": "Passport: Failed"
+        "success": "Pasaport: Geçerli",
+        "fail": "Pasaport: Geçersiz"
     },
-    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
+    "manual_verification_warning": "Bu kullanıcının gelecekte doğrulama yapması engellendi, sunucu yetkilisi tarafından manuel olarak doğrulanması gerecektir."
 }
