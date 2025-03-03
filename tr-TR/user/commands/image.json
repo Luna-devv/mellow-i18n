@@ -1,45 +1,45 @@
 {
     "vote": {
-        "title": "Vote to continue using free AI",
+        "title": "Ücretsiz yapay zeka kullanmak için oy ver",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "Yapay zeka ile {command} oluşturma ağaçlarda yetişmiyor! [Hızlıca top.gg'de oy vererek]({url}) bize destek ol, bu insanların {name}'u bulabilmesini sağlar, desteğin için teşekkürler!",
+            "2": "Bana oy vermek, gelecek 12 saat içerisinde istediğin kadar yapay zeka ile resim üretebilmeni sağlar!"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "Muhtemel yasaklı içerik",
         "description": {
-            "1": "I have detected possible illegal content in your query, please refrain from using it.",
-            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+            "1": "İsteminde muhtemel yasaklı içerik tespit ettim, lütfen bunu kullanmaktan kaçın.",
+            "2": "Eğer bunun bir hata olduğunu düşünüyorsan, lütfen bunu [destek sunucumuzda]({url}) bildir, teşekkürler."
         }
     },
     "better_query": {
-        "title": "Know your model and improve queries",
+        "title": "Modeli tanı ve istemlerini geliştir",
         "description": {
-            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
-            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
-            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
-            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+            "1": "İstemde daha fazla ve daha iyi detaylar ekledikçe resim de gelişir, olumsuz istemin üzerine yazmak hazırda ayarlanmış olanı kaldıracağını unutma.",
+            "2": "Daha iyi sonuçlar alabilmek için [modelin kullanım kılavuzunu bulmalısın]({url}).",
+            "3": "Tüm modellerin her şey alanda iyi olmadığını unutma, bazıları anime üzerine eğitilmişken bazıları ise gerçekçi resimler üzerine eğitilmiştir.",
+            "4": "Evet, NSFW içerik oluşturabilirim, ama bunu sadece [NSFW olarak işaretlenmiş kanallarda]({url}) kullanabilirsin."
         },
-        "footer": "This message is only shown once"
+        "footer": "Bu mesaj yalnızca bir kez gösterilir"
     },
     "model": {
-        "title": "Invalid model selected",
+        "title": "Geçersiz model seçildi",
         "description": {
-            "1": "The model you selected does not exist, please use the autocomplete options.",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Seçtiğin model bulunmamakta, lütfen otomatik tamamlamada verilen seçenekleri kullan.",
+            "2": "Eğer bu olmaya devam ederse, lütfen [destek sunucumuzda]({url}) sor, teşekkürler."
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Oluştururken bir hata meydana geldi",
         "description": {
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Eğer bunun bir hata olduğunu düşünüyorsan, lütfen bunu [destek sunucumuzda]({url}) bildir, özür dileriz."
         }
     },
     "button": {
-        "regenerate": "Regenerate",
-        "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples"
+        "regenerate": "Yeniden Oluştur",
+        "selenite": "Gemini Sohbet Botunu Kullan",
+        "examples": "Bazı muhteşem örnekleri gör"
     },
-    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+    "nsfw_query": "İsteminde bazı yaramaz şeyler denedin.. bu tür istemleri kullanmak için NSFW olarak işaretlenmiş bir kanala geç veya bir tane oluştur!"
 }
