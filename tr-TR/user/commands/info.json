@@ -29,6 +29,6 @@
         "remove": "Beğeniyi Kaldır",
         "added": "{user} kullanıcısının profilini beğendin, kendisinin şu anda {num} beğenisi var.",
         "removed": "Artık {user} kullanıcısının profilini beğenmiyorsun.",
-        "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
+        "dm": "{emote} Tebrikler, {name}!\n\nSeninle paylaşacak harika haberlerim var! {bot} profilin inanılmaz bir şekilde {num} beğeniye ulaştı! Kesinlikle bir şeyleri doğru yapıyorsun çünkü insanlar sana doyamıyor!\n\nO halde tempoyu koruyalım koruyalım ve sevgiyi yayalım! Profilini kalplemek 💖 için herkese {link} göndererek {bot}'u davet etmelerini söyle ve kullanıcı adınla beraber {command} komutunu kullan!\n\nTopluluğumuzun harika bir parçası olduğun için teşekkürler!\n\nSevgiler,\n{bot} "
     }
 }
