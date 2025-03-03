@@ -6,22 +6,22 @@
         }
     },
     "moderation_actions": {
-        "nothing": "Nothing",
-        "ban": "Ban",
-        "kick": "Kick",
-        "role": "Assign Role",
-        "delete_message": "Delete Message"
+        "nothing": "Hiçbiri",
+        "ban": "Yasakla",
+        "kick": "At",
+        "role": "Rol Ata",
+        "delete_message": "Mesajı Sil"
     },
     "logging": {
-        "account": "User: {var}",
-        "joined": "Joined: {var}",
-        "created": "Created: {var}",
-        "channel": "Channel: {var}",
-        "voice": "Voice: {var}",
-        "message": "Message: **[Jump to message]({url})**",
-        "command": "Command: {var}",
-        "action": "Action: {var}",
-        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
-        "reason": "Reason: {var}"
+        "account": "Kullanıcı: {var}",
+        "joined": "Katıldı: {var}",
+        "created": "Oluşturuldu: {var}",
+        "channel": "Kanal: {var}",
+        "voice": "Ses: {var}",
+        "message": "Mesaj: **[Mesaja git]({url})**",
+        "command": "Komut: {var}",
+        "action": "Eylem: {var}",
+        "attempts": "Denemeler: {num} deneme",
+        "reason": "Sebep: {var}"
     }
 }
