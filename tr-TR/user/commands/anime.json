@@ -1,6 +1,6 @@
 {
     "button": {
-        "showMore": "Show more {type}s",
-        "dm": "Save to DM"
+        "showMore": "Daha fazla {type} göster",
+        "dm": "DM'ye kaydet"
     }
 }
