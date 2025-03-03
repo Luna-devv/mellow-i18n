@@ -1,8 +1,8 @@
 {
     "channel": {
-        "title": "Ein Text zu Sprach Channel ist eingerichtet",
+        "title": "Ein Text zu Sprache Kanal ist eingerichtet",
         "description": {
-            "1": "Dieser Server hat einen speziellen Text zu Sprache Kanal in {channel}, bitte poste Nachrichten in diesem Channel, um Sprache zu generieren.",
+            "1": "Dieser Server hat einen speziellen Text zu Sprache Kanal in {channel}, bitte poste Nachrichten in diesem Kanal, um Sprache zu generieren.",
             "2": "Wenn du ein Serveradministrator bist, kannst du den Kanal [auf dem Dashboard deines Servers]({url}) ändern oder entfernen."
         }
     },
@@ -14,7 +14,7 @@
         }
     },
     "vote": {
-        "title": "Vote erforderlich für lange Eingabe",
+        "title": "Vote bei langer Eingabe erforderlich",
         "description": {
             "1": "Audiogenerierung wächst nicht auf Bäumen! Unterstütze uns mit einem [schnellen Vote auf top.gg]({url}), es ermöglicht anderen, {name} leichter zu finden, vielen Dank für deine Unterstützung!",
             "2": "Wenn du für mich Votest, kannst du für die nächsten 12 Stunden {newamount} Zeichen anstatt nur {amount} erstellen!"
@@ -29,7 +29,7 @@
     },
     "button": {
         "changeSpeaker": "Änder die Standardstimme",
-        "invite_tts": "Erhalte einen 2. Text zu Sprache Bot",
+        "invite_tts": "Hole einen 2. Text zu Sprache Bot",
         "enable_queue": "Nachrichtenwarteschlange aktivieren"
     },
     "novc": "Du bist mit keinem Sprachkanal verbunden.",
