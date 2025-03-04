@@ -1,55 +1,55 @@
 {
     "channel": {
-        "title": "A Chat to Speech channel is setup",
+        "title": "Bir Sohbetten Konuşmaya kanalı kurulmuş",
         "description": {
-            "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
-            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
+            "1": "Bu sunucunun {channel} kanalında kurulmuş özel bir Metinden Konuşmaya kanalı var, lütfen ses oluşturmak mesajları oraya gönder.",
+            "2": "Eğer bir sunucu yöneticisiysen, kanalı [bu sunucunun panelinden]({url}) değiştirebilir veya kaldırabilirsin."
         }
     },
     "speaker": {
-        "title": "Invalid speaker selected",
+        "title": "Geçersiz konuşmacı seçildi",
         "description": {
-            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Seçtiğin konuşmacı bulunmamakta, lütfen otomatik tamamlamada verilen seçenekleri kullan veya [varsayılan bir ses ayarla]({url}).",
+            "2": "Eğer bu olmaya devam ederse, lütfen [destek sunucumuzda]({url}) sor, teşekkürler."
         }
     },
     "vote": {
-        "title": "Vote requried for long input",
+        "title": "Uzun girdiler için oy gereklidir",
         "description": {
-            "1": "Audio generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate {newamount} characters instead of just {amount} for the next 12 hours!"
+            "1": "Ses üretimi ağaçlarda yetişmiyor! [Hızlıca top.gg'de oy vererek]({url}) bize destek ol, bu insanların {name}'u bulabilmesini sağlar, desteğin için teşekkürler!",
+            "2": "Bana oy vermek, gelecek 12 saat içerisinde sadece {amount} tane yerine {newamount} tane karakter üretebilmeni sağlar!"
         }
     },
     "error": {
-        "title": "Oluştururken bir hata meydana geldi",
+        "title": "Üretirken bir hata meydana geldi",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
+            "1": "Bu, genellikle girilen dille konuşmacının dili eşleşmediğinde meydana gelir, girdi dilini veya konuşmacıyı değiştirmeyi dene.",
             "2": "Eğer bunun bir hata olduğunu düşünüyorsan, lütfen bunu [destek sunucumuzda]({url}) bildir, özür dileriz."
         }
     },
     "button": {
-        "changeSpeaker": "Change default speaker",
-        "invite_tts": "Get a 2nd Text to Speech Bot",
-        "enable_queue": "Enable message queue"
+        "changeSpeaker": "Varsayılan konuşmacıyı değiştir",
+        "invite_tts": "2. Bir Metinden Konuşmaya Botu Kullan",
+        "enable_queue": "Mesaj sırasını aktif et"
     },
-    "novc": "You're not connected to any voice channels.",
-    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
-    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
-    "alreadyplaying": "Wait until the message by {user} is done playing, use {command} if it's stuck.",
-    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "novc": "Hiçbir ses kanalına bağlı değilsin.",
+    "noplayer": "Metinden Konuşmaya şu anda kullanılmıyor, önce {command} kullan!",
+    "toolong": "Mesajın {count} karakterle birlikte sunucunun {max} karakter limitini aşıyor.",
+    "alreadyplaying": "{user} tarafından gönderilen mesajın oynatılması tamamlanana kadar bekle, eğer takılırsa {command} kullan.",
+    "playing": "Şu anda {channel} kanalında {time} saniyeliğine oynatılıyor.",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "Bu ayar yalnızca senin için geçerli.",
+        "default_voice": "Varsayılan ses {voice} olarak ayarlandı.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Sohbetten Konuşmaya aktif edildi.",
+            "disabled": "Sohbetten Konuşmaya devre dışı bırakıldı."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Tüm aktif filtreler devre dışı bırakıldı.",
+            "enabled": "Mevcut oturum için {filter} filtresi aktif edildi.",
+            "disabled": "Mevcut oturum için {filter} filtresi devre dışı bırakıldı."
         }
     },
-    "stopped": "Playback was terminated and reset.",
-    "web": "Change default voice & fileformat"
+    "stopped": "Oynatma sonlandırıldı ve sıfırlandı.",
+    "web": "Varsayılan ses & dosya türünü değiştir"
 }
