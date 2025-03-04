@@ -1,6 +1,6 @@
 {
-    "messages": "Message leaderboard",
-    "voiceminutes": "Voice leaderboard",
-    "invites": "Invite leaderboard",
-    "web": "View the web leaderboard"
+    "messages": "Mesaj liderlik tablosu",
+    "voiceminutes": "Ses liderlik tablosu",
+    "invites": "Davet liderlik tablosu",
+    "web": "Web liderlik tablosunu görüntüle"
 }
