@@ -1,34 +1,34 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
-    "invites": "Invites",
-    "guilds": "Guilds",
-    "voice": "Voice",
-    "features": "Features",
-    "description": "Description",
-    "commands": "Popular Commands",
+    "messages": "Mensagens",
+    "name": "Nome",
+    "created": "Criou em",
+    "joined": "Entrou em",
+    "invites": "Convites",
+    "guilds": "Guilda",
+    "voice": "Voz",
+    "features": "Recursos",
+    "description": "Descrição",
+    "commands": "Comandos Populares",
     "flags": "Flags",
     "install": {
-        "guild": "Invite to Guild",
-        "user": "Install as User-App"
+        "guild": "Convidar para a guilda",
+        "user": "Instalar como usuário-aplicativo"
     },
-    "spotify": "Currently Listening To",
-    "none": "none",
-    "global_scope": "Showing stats from all guilds combined.",
+    "spotify": "Atualmente ouvindo",
+    "none": "nada",
+    "global_scope": "Mostrando dados de todas as guildas combinadas.",
     "button": {
-        "guild_avatar": "Guild Avatar",
+        "guild_avatar": "Avatar na guilda",
         "avatar": "Avatar",
-        "banner": "Banner",
-        "terms": "Terms of Service",
-        "privacy": "Privacy Policy"
+        "banner": "Estandarte",
+        "terms": "Termos de serviço",
+        "privacy": "Política de privacidade"
     },
     "likes": {
         "add": "Like",
-        "remove": "Remove Like",
-        "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
-        "removed": "You no longer like {user}'s profile.",
-        "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
+        "remove": "{emote} Parabéns, {name}!\n\nTenho notícias fantásticas para você! Seu perfil no {bot} alcançou a incrível marca de {num} likes! Você deve ser uma pessoa ótima - todos te adoram!\n\nEntão, vamos fazer o fluxo continuar e espalhar o amor! Diga a todos para convidar {bot}, enviado o link de convite, e lembre-se de usar {command} com o seu nome de usuário para dar um pouco de amor ao seu perfil 💖.\n\nObrigado por ser um membro tão caloroso da nossa comunidade!\n\nAbraços,\n{bot}.",
+        "added": "Você deu um like no perfil de {user}, que agora tem {num} [singular=\"like\" plural=\"likes\"].",
+        "removed": "Você não gosta mais do perfil de {user}.",
+        "dm": "{emote} Parabéns, {name}!\n\nTenho notícias fantásticas para você! Seu perfil no {bot} alcançou a incrível marca de {num} likes! Você deve ser uma pessoa ótima - todos te adoram!\n\nEntão, vamos fazer o fluxo continuar e espalhar o amor! Diga a todos para convidar {bot}, enviado {link}, e lembre-se de usar {command} com o seu nome de usuário para dar um pouco de amor ao seu perfil 💖.\n\nObrigado por ser um membro tão caloroso da nossa comunidade!\n\nAbraços,\n{bot}. "
     }
 }
