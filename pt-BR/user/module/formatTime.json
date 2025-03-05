@@ -3,5 +3,5 @@
     "days": "[singular=\"day\" plural=\"days\"]",
     "hours": "[singular=\"hour\" plural=\"hours\"]",
     "minutes": "[singular=\"minute\" plural=\"minutes\"]",
-    "seconds": "[singular=\"second\" plural=\"seconds\"]"
+    "seconds": "[singular=\"segundo\" plural=\"segundos\"]"
 }
