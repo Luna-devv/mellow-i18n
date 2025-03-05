@@ -25,5 +25,5 @@
         "success": "Passport: Success",
         "fail": "Passport: Failed"
     },
-    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
+    "manual_verification_warning": "Este usuário foi bloqueado de verificar-se no futuro e terá que fazer a verificação manualmente pela administração do servidor."
 }
