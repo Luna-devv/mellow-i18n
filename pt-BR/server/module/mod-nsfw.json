@@ -7,6 +7,6 @@
         "message": "Reupload of an image sent by {user}"
     },
     "button": {
-        "update_threshold": "Change the threshold ({threshold}%)"
+        "update_threshold": "Alterar o limite ({threshold}%)"
     }
 }
