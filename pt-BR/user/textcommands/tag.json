@@ -2,7 +2,7 @@
     "invalid": {
         "title": "A tag with that name does not exist.",
         "button": {
-            "create": "Create new tag"
+            "create": "Criar nova tag"
         }
     }
 }
