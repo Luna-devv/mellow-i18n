@@ -4,5 +4,5 @@
         "content": "This message does not have any content, attachments, embeds or stickers.",
         "alreadyexists": "This message is already in the starboard, [jump to the message]({url})!"
     },
-    "success": "Message has been successfully beamed to the {channel}."
+    "success": "A mensagem foi enviada para o {channel} com sucesso."
 }
