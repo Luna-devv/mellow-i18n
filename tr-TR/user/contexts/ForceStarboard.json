@@ -1,8 +1,8 @@
 {
     "error": {
-        "config": "Starboard is not setup in this guild, [setup starboard]({url}) in the dashboard.",
-        "content": "This message does not have any content, attachments, embeds or stickers.",
-        "alreadyexists": "This message is already in the starboard, [jump to the message]({url})!"
+        "config": "Yıldız panosu bu sunucuda kurulmamış, panelden [kur]({url}).",
+        "content": "Bu mesajda hiçbir içerik, ek, gömme veya çıkartma yok.",
+        "alreadyexists": "Bu mesaj zaten yıldız panosunda, [mesaja git]({url})!"
     },
-    "success": "Message has been successfully beamed to the {channel}."
+    "success": "Mesaj başarıyla {channel} kanalına ışınlandı."
 }
