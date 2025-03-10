@@ -1,5 +1,5 @@
 {
-    "auhtorize": "Se sei un beta-tester, [autorizzami ad accedere al tuo account spotify]({url})! Contatta il supporto se vuoi diventare un tester.",
+    "auhtorize": "If you are a beta-tester, [authorize me to access your spotify account]({url})! Contact support if you want to become a tester.",
     "error": {
         "missing_track": "Non è stata fornita nessuna traccia.",
         "invalid_track": "Sembra che questa non sia una canzone spotify.."
