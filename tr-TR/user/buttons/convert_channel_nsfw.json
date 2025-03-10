@@ -1,7 +1,7 @@
 {
-    "success": "{user} marked this channel as Age-Restricted, you may now run {command} to generate NSFW content.",
+    "success": "{user} bu kanalı Yaş Sınırlı olarak işaretlendi, artık NSFW içerik üretmek için {command} kullanabilir.",
     "tutorial": {
-        "title": "How to mark a channel as NSFW",
+        "title": "Bir kanal nasıl NSFW olarak işaretlenir",
         "description": {
             "1": "You do not own or manage this server, [invite {bot} to your own server]({url}) or ask a Server Administrator to follow the steps below.",
             "2": "1. (mobile) Tap the channel name and select 'Settings'.",
