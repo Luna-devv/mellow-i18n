@@ -1,13 +1,13 @@
 {
-    "auhtorize": "If you are a beta-tester, [authorize me to access your spotify]({url})! Contact support if you want to become a tester.",
+    "auhtorize": "Eğer bir beta test kullanıcısıysan, [spotify'ına erişmek için beni yetkilendir]({url})! Test kullanıcısı olmak istiyorsan destekle iletişime geç.",
     "error": {
-        "missing_track": "No track to play was provided.",
-        "invalid_track": "Seems like this isn't a spotify song.."
+        "missing_track": "Çalacak bir parça sağlanmadı.",
+        "invalid_track": "Görünüşe göre bu bir spotify şarkısı değil.."
     },
-    "now_playing": "{user} is now playing {track} for {duration}",
-    "now_also_playing": "You are now also playing {track}",
-    "currently_playing": "{user} is playing {track} by {artists} [singular=\" \" plural=\"on repeat\"]",
+    "now_playing": "{user} şimdi {duration} boyunca {track} çalıyor",
+    "now_also_playing": "Artık {track} parçasını da çalıyorsun",
+    "currently_playing": "{user}, {artists} tarafından {track} şarkısını [singular=\" \" plural=\"tekrar tekrar\"] çalıyor",
     "button": {
-        "play": "Play on Spotify"
+        "play": "Spotify'da Çal"
     }
 }
