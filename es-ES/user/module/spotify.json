@@ -1,5 +1,5 @@
 {
-    "auhtorize": "Si eres un probador beta, ¡[autorízame a acceder a tu Spotify]({url})! Póngase en contacto con soporte si quieres convertirte en un probador.",
+    "auhtorize": "If you are a beta-tester, [authorize me to access your spotify account]({url})! Contact support if you want to become a tester.",
     "error": {
         "missing_track": "No se ha proporcionado ninguna pista para reproducir.",
         "invalid_track": "Parece que esta no es una canción en Spotify.."
