@@ -71,9 +71,9 @@
         }
     },
     "moderation_punishment": {
-        "ban": "You have been banned from {guild}!",
-        "kick": "You have been kicked from {guild}!",
-        "role": "You've gotten the {role} role in {guild}!"
+        "ban": "{guild} sunucusundan banlandın!",
+        "kick": "{guild} sunucusundan atıldın!",
+        "role": "{guild} sunucusunda {role} rolünü aldın!"
     },
-    "command_user": "Command used by {user}"
+    "command_user": "Komut {user} tarafından kullanıldı"
 }
