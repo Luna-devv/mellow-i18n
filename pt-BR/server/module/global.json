@@ -1,7 +1,7 @@
 {
     "permissions": {
         "me": {
-            "guild": "{bot} is missing {perms} permission.",
+            "guild": "Atenção: {bot} não possui a permissão {perms}.",
             "channel": "{bot} is missing {perms} permission in {channel}."
         }
     },
