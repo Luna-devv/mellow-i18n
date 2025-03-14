@@ -1,6 +1,0 @@
-{
-    "cooldown": {
-        "guild": "Você só pode cumprimentar novos membros a cada 10 segundos para evitar spam, desculpe",
-        "user": "Você não pode cumprimentar {user} duas vezes para evitar spam, desculpe"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "error": {
-        "config": "O Starboard não está configurado neste servidor, [configuração starboard]({url}) no painel de controlo.",
-        "content": "Esta mensagem não tem nenhum conteúdo, anexos, incorporações ou autocolantes.",
-        "alreadyexists": "Esta mensagem já está no Quadro de estrelas, [saltar para a mensagem]({url})!"
-    },
-    "success": "A mensagem foi enviada com sucesso para o {channel}."
-}
