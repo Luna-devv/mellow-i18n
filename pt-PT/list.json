@@ -1,9 +1,0 @@
-{
-    "none": "You dont have any tags yet",
-    "title": {
-        "text": "Text [singular=\"Command\" plural=\"Commands\"] ({amount})",
-        "slash": "Slash [singular=\"Command\" plural=\"Commands\"] ({amount})"
-    },
-    "disabled": "{amount} [singular=\"tag is\" plural=\"tags are\"] hidden due to missing permissions",
-    "footer": "Use with {command}"
-}

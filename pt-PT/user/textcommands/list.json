@@ -1,9 +1,0 @@
-{
-    "none": "Você ainda não tem nenhuma tag",
-    "title": {
-        "text": "Texto [singular=\"Comando\" plural=\"Comandos\"] ({amount})",
-        "slash": "Barra [singular=\"Comando\" plural=\"Comandos\"] ({amount})"
-    },
-    "disabled": "{amount} [singular=\"tag está\" plural=\"tags estão\"] ocultas devido à falta de permissões",
-    "footer": "Usar com {command}"
-}
