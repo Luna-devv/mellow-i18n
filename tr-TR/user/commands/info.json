@@ -1,0 +1,34 @@
+{
+    "messages": "Mesajlar",
+    "name": "İsim",
+    "created": "Oluşturuldu",
+    "joined": "Katıldı",
+    "invites": "Davetler",
+    "guilds": "Sunucular",
+    "voice": "Ses",
+    "features": "Özellikler",
+    "description": "Açıklama",
+    "commands": "Popüler Komutlar",
+    "flags": "Bayraklar",
+    "install": {
+        "guild": "Sunucuya Davet Et",
+        "user": "Kullanıcı Uygulaması Olarak Yükle"
+    },
+    "spotify": "Şu Anda Dinliyor",
+    "none": "hiçbiri",
+    "global_scope": "Tüm sunucuların istatistikleri gösteriliyor.",
+    "button": {
+        "guild_avatar": "Sunucu Avatarı",
+        "avatar": "Avatar",
+        "banner": "Afiş",
+        "terms": "Hizmet Şartları",
+        "privacy": "Gizlilik Politikası"
+    },
+    "likes": {
+        "add": "Beğen",
+        "remove": "Beğeniyi Kaldır",
+        "added": "{user} kullanıcısının profilini beğendin, kendisinin şu anda {num} beğenisi var.",
+        "removed": "Artık {user} kullanıcısının profilini beğenmiyorsun.",
+        "dm": "{emote} Tebrikler, {name}!\n\nSeninle paylaşacak harika haberlerim var! {bot} profilin inanılmaz bir şekilde {num} beğeniye ulaştı! Kesinlikle bir şeyleri doğru yapıyorsun çünkü insanlar sana doyamıyor!\n\nO halde tempoyu koruyalım koruyalım ve sevgiyi yayalım! Profilini kalplemek 💖 için herkese {link} göndererek {bot}'u davet etmelerini söyle ve kullanıcı adınla beraber {command} komutunu kullan!\n\nTopluluğumuzun harika bir parçası olduğun için teşekkürler!\n\nSevgiler,\n{bot} "
+    }
+}

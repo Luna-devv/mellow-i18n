@@ -1,0 +1,8 @@
+{
+    "invalid": {
+        "title": "Bu isimde bir etiket zaten bulunuyor.",
+        "button": {
+            "create": "Yeni etiket oluştur"
+        }
+    }
+}

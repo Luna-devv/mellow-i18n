@@ -1,0 +1,8 @@
+{
+    "error": {
+        "config": "Yıldız panosu bu sunucuda kurulmamış, panelden [kur]({url}).",
+        "content": "Bu mesajda hiçbir içerik, ek, gömme veya çıkartma yok.",
+        "alreadyexists": "Bu mesaj zaten yıldız panosunda, [mesaja git]({url})!"
+    },
+    "success": "Mesaj başarıyla {channel} kanalına ışınlandı."
+}

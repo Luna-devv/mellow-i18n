@@ -1,0 +1,34 @@
+{
+    "messages": "Mensajes",
+    "name": "Nombre",
+    "created": "Creado",
+    "joined": "Se unió",
+    "invites": "Invitaciones",
+    "guilds": "Servidores",
+    "voice": "Canal de voz",
+    "features": "Features",
+    "description": "Descripción",
+    "commands": "Comandos Populares",
+    "flags": "Banderas",
+    "install": {
+        "guild": "Invitar al Servidor",
+        "user": "Instalar como Aplicación de Usuario"
+    },
+    "spotify": "Actualmente escuchando a",
+    "none": "ninguno",
+    "global_scope": "Mostrar estadísticas de todos los servidores combinados.",
+    "button": {
+        "guild_avatar": "Avatar del Servidor",
+        "avatar": "Avatar",
+        "banner": "Cartel",
+        "terms": "Términos de servicio",
+        "privacy": "Política de Privacidad"
+    },
+    "likes": {
+        "add": "Me gusta",
+        "remove": "No me gusta",
+        "added": "Te ha gustado el perfil de {user}, ahora tienen {num} [singular=\"me gusta\" plural=\"me gustas\"].",
+        "removed": "Ya no te gusta el perfil de {user}.",
+        "dm": "¡{emote} Enhorabuena, {name}!\n\n¡Tengo noticias fantásticas que compartir contigo! ¡Tu perfil de {bot} ha alcanzado un increíble me gusta {num}! Claramente estás haciendo algo bien porque la gente no puede conseguir suficiente de ti!\n\n¡Así que mantengamos el impulso en marcha y difundamos el amor! Dile a todos que inviten a {bot} enviándolos {link} y asegúrate de usar el {command} seguido de tu nombre de usuario a corazón 💖 tu perfil!\n\nGracias por ser una parte fantástica de nuestra comunidad!\n\nSaludos,\n{bot} "
+    }
+}

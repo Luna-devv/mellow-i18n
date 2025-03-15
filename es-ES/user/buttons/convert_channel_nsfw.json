@@ -1,0 +1,13 @@
+{
+    "success": "{user} marcó este canal como Restringido de Edad, tú puedes ahora correr {command} para crear contenido NSFW",
+    "tutorial": {
+        "title": "Cómo marcar un canal como NSFW",
+        "description": {
+            "1": "Usted no posee o administra este servidor, [invite {bot} a su propio servidor]({url}) o pida a un administrador del servidor que siga los pasos a continuación.",
+            "2": "1. (móvil) Pulsa el nombre del canal y selecciona 'Configuración'.",
+            "3": "1. (escritorio) Haga clic derecho en el nombre del canal y seleccione 'Editar canal'.",
+            "4": "2. Desplácese hacia abajo y active 'Canal Restringido por Edad'.",
+            "5": "3. Haga clic en 'Guardar cambios'."
+        }
+    }
+}

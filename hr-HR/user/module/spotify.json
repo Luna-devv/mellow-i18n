@@ -1,5 +1,5 @@
 {
-    "auhtorize": "Ako ste beta tester, [ovlastite me za pristup vašem spotifyju]({url})! Kontaktirajte podršku ako želite postati tester.",
+    "auhtorize": "If you are a beta-tester, authorize me to access your spotify account! Contact support if you want to become a tester.",
     "error": {
         "missing_track": "Nije pružena pjesma za reprodukciju.",
         "invalid_track": "Čini se da ovo nije spotify pjesma.."

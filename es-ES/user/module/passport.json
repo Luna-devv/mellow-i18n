@@ -1,0 +1,10 @@
+{
+    "button": {
+        "verify": "Empezar la Verificación"
+    },
+    "title": "¡Bienvenido {user}!",
+    "description": {
+        "verify": "Para obtener acceso a este servidor, necesitarás completar una verificación rápida para reducir el riesgo de ataques de bot y garantizar la seguridad general {emote}\n\nPor favor, ten en cuenta que los administradores y mods no tienen acceso a ninguna de las informaciones que proporciones, tales como correos electrónicos o IPs.",
+        "premium": "Gracias por ser miembro {bot} Pro y por apoyar este proyecto {emote}.\n\nTen en cuenta que no necesitas pasar la verificación manualmente, ya que omitir la verificación forma parte de tu suscripción Pro."
+    }
+}

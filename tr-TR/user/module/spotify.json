@@ -1,0 +1,13 @@
+{
+    "auhtorize": "If you are a beta-tester, authorize me to access your spotify account! Contact support if you want to become a tester.",
+    "error": {
+        "missing_track": "Çalacak bir parça sağlanmadı.",
+        "invalid_track": "Görünüşe göre bu bir spotify şarkısı değil.."
+    },
+    "now_playing": "{user} şimdi {duration} boyunca {track} çalıyor",
+    "now_also_playing": "Artık {track} parçasını da çalıyorsun",
+    "currently_playing": "{user}, {artists} tarafından {track} şarkısını [singular=\" \" plural=\"tekrar tekrar\"] çalıyor",
+    "button": {
+        "play": "Spotify'da Çal"
+    }
+}

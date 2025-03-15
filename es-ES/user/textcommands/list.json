@@ -1,0 +1,9 @@
+{
+    "none": "Aún no tienes comandos personalizados",
+    "title": {
+        "text": "Texto [singular=\"Comando\" plural=\"Comandos\"] ({amount})",
+        "slash": "Slash [singular=\"Comando\" plural=\"Comandos\"] ({amount})"
+    },
+    "disabled": "{amount} [singular=\"etiqueta es\" plural=\"etiquetas son\"] oculto por falta de permisos",
+    "footer": "Usar con {command}"
+}

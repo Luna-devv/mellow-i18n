@@ -6,18 +6,19 @@
     "invites": "Приглашения",
     "guilds": "Сервера",
     "voice": "Голосовой канал",
+    "features": "Features",
     "description": "Описание",
     "commands": "Популярные команды",
-    "flags": "Flags",
+    "flags": "Флаги",
     "install": {
-        "guild": "Invite to Guild",
-        "user": "Install as User-App"
+        "guild": "Добавить на сервер",
+        "user": "Добавить как пользовательского бота"
     },
     "spotify": "Сейчас слушает",
     "none": "нету",
-    "global_scope": "Showing stats from all guilds combined.",
+    "global_scope": "Показ статистики из всех серверов вместе.",
     "button": {
-        "guild_avatar": "Guild Avatar",
+        "guild_avatar": "Аватарка на сервере",
         "avatar": "Аватарка",
         "banner": "Баннер",
         "terms": "Политика услуг",

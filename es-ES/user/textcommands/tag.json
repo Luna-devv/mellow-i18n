@@ -1,0 +1,8 @@
+{
+    "invalid": {
+        "title": "Un comando personalizado con ese nombre no existe.",
+        "button": {
+            "create": "Crear un nuevo comando personalizado"
+        }
+    }
+}

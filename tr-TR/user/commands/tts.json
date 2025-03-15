@@ -1,0 +1,55 @@
+{
+    "channel": {
+        "title": "Bir Sohbetten Konuşmaya kanalı kurulmuş",
+        "description": {
+            "1": "Bu sunucunun {channel} kanalında kurulmuş özel bir Metinden Konuşmaya kanalı var, lütfen ses oluşturmak mesajları oraya gönder.",
+            "2": "Eğer bir sunucu yöneticisiysen, kanalı [bu sunucunun panelinden]({url}) değiştirebilir veya kaldırabilirsin."
+        }
+    },
+    "speaker": {
+        "title": "Geçersiz konuşmacı seçildi",
+        "description": {
+            "1": "Seçtiğin konuşmacı bulunmamakta, lütfen otomatik tamamlamada verilen seçenekleri kullan veya [varsayılan bir ses ayarla]({url}).",
+            "2": "Eğer bu olmaya devam ederse, lütfen [destek sunucumuzda]({url}) sor, teşekkürler."
+        }
+    },
+    "vote": {
+        "title": "Uzun girdiler için oy gereklidir",
+        "description": {
+            "1": "Ses üretimi ağaçlarda yetişmiyor! [Hızlıca top.gg'de oy vererek]({url}) bize destek ol, bu insanların {name}'u bulabilmesini sağlar, desteğin için teşekkürler!",
+            "2": "Bana oy vermek, gelecek 12 saat içerisinde sadece {amount} tane yerine {newamount} tane karakter üretebilmeni sağlar!"
+        }
+    },
+    "error": {
+        "title": "Üretirken bir hata meydana geldi",
+        "description": {
+            "1": "Bu, genellikle girilen dille konuşmacının dili eşleşmediğinde meydana gelir, girdi dilini veya konuşmacıyı değiştirmeyi dene.",
+            "2": "Eğer bunun bir hata olduğunu düşünüyorsan, lütfen bunu [destek sunucumuzda]({url}) bildir, özür dileriz."
+        }
+    },
+    "button": {
+        "changeSpeaker": "Varsayılan konuşmacıyı değiştir",
+        "invite_tts": "2. Bir Metinden Konuşmaya Botu Kullan",
+        "enable_queue": "Mesaj sırasını aktif et"
+    },
+    "novc": "Hiçbir ses kanalına bağlı değilsin.",
+    "noplayer": "Metinden Konuşmaya şu anda kullanılmıyor, önce {command} kullan!",
+    "toolong": "Mesajın {count} karakterle birlikte sunucunun {max} karakter limitini aşıyor.",
+    "alreadyplaying": "{user} tarafından gönderilen mesajın oynatılması tamamlanana kadar bekle, eğer takılırsa {command} kullan.",
+    "playing": "Şu anda {channel} kanalında {time} saniyeliğine oynatılıyor.",
+    "set": {
+        "only_you": "Bu ayar yalnızca senin için geçerli.",
+        "default_voice": "Varsayılan ses {voice} olarak ayarlandı.",
+        "cts": {
+            "enabled": "Sohbetten Konuşmaya aktif edildi.",
+            "disabled": "Sohbetten Konuşmaya devre dışı bırakıldı."
+        },
+        "filter": {
+            "cleared": "Tüm aktif filtreler devre dışı bırakıldı.",
+            "enabled": "Mevcut oturum için {filter} filtresi aktif edildi.",
+            "disabled": "Mevcut oturum için {filter} filtresi devre dışı bırakıldı."
+        }
+    },
+    "stopped": "Oynatma sonlandırıldı ve sıfırlandı.",
+    "web": "Varsayılan ses & dosya türünü değiştir"
+}

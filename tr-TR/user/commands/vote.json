@@ -1,0 +1,8 @@
+{
+    "title": "Oy vererek bana destek ol!",
+    "description": {
+        "1": "Bu, bize para vermeden para vermeye benzer! [Hızlıca top.gg'de oy vererek]({url}) bize destek ol, bu insanların {name}'u daha kolay bulabilmesini sağlar, desteğin için teşekkürler!",
+        "2": "Bana oy vermek, gelecek 12 saat içerisinde sana bazı şeylerde daha yüksek limitler ve [topluluk sunucumuzda bir oycu rolü]({url}) verir!"
+    },
+    "already": "zaten bugün oy verdin, tekrar vermek için {time} geri dön!"
+}

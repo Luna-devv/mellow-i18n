@@ -1,5 +1,5 @@
 {
-    "auhtorize": "Если вы бета-тестер, [предоставьте мне доступ к вашему Spotify]({url})! Если вы хотите стать тестером, обратитесь в поддержку.",
+    "auhtorize": "If you are a beta-tester, authorize me to access your spotify account! Contact support if you want to become a tester.",
     "error": {
         "missing_track": "Трек для воспроизведения не предоставлен.",
         "invalid_track": "Похоже, что это не Spotify трек.."

@@ -1,0 +1,45 @@
+{
+    "vote": {
+        "title": "Vote to continue using free AI",
+        "description": {
+            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
+            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+        }
+    },
+    "illegal": {
+        "title": "Possible illegal content",
+        "description": {
+            "1": "I have detected possible illegal content in your query, please refrain from using it.",
+            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+        }
+    },
+    "better_query": {
+        "title": "Know your model and improve queries",
+        "description": {
+            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
+            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
+            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
+            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+        },
+        "footer": "This message is only shown once"
+    },
+    "model": {
+        "title": "Invalid model selected",
+        "description": {
+            "1": "The model you selected does not exist, please use the autocomplete options.",
+            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+        }
+    },
+    "error": {
+        "title": "Det oppstod en feil under generering",
+        "description": {
+            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+        }
+    },
+    "button": {
+        "regenerate": "Regenerate",
+        "selenite": "Get Gemini Chat Bot",
+        "examples": "View some awesome examples"
+    },
+    "nsfw_query": "Du prøvde noen slemme ting i spørringen. Bytt til eller lag en NSFW merket kanal for å bruke slikt!"
+}

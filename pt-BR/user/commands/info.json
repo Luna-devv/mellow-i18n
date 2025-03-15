@@ -1,0 +1,34 @@
+{
+    "messages": "Mensagens",
+    "name": "Nome",
+    "created": "Criou em",
+    "joined": "Entrou em",
+    "invites": "Convites",
+    "guilds": "Guilda",
+    "voice": "Voz",
+    "features": "Recursos",
+    "description": "Descrição",
+    "commands": "Comandos Populares",
+    "flags": "Flags",
+    "install": {
+        "guild": "Convidar para a guilda",
+        "user": "Instalar como usuário-aplicativo"
+    },
+    "spotify": "Atualmente ouvindo",
+    "none": "nada",
+    "global_scope": "Mostrando dados de todas as guildas combinadas.",
+    "button": {
+        "guild_avatar": "Avatar na guilda",
+        "avatar": "Avatar",
+        "banner": "Estandarte",
+        "terms": "Termos de serviço",
+        "privacy": "Política de privacidade"
+    },
+    "likes": {
+        "add": "Like",
+        "remove": "{emote} Parabéns, {name}!\n\nTenho notícias fantásticas para você! Seu perfil no {bot} alcançou a incrível marca de {num} likes! Você deve ser uma pessoa ótima - todos te adoram!\n\nEntão, vamos fazer o fluxo continuar e espalhar o amor! Diga a todos para convidar {bot}, enviado o link de convite, e lembre-se de usar {command} com o seu nome de usuário para dar um pouco de amor ao seu perfil 💖.\n\nObrigado por ser um membro tão caloroso da nossa comunidade!\n\nAbraços,\n{bot}.",
+        "added": "Você deu um like no perfil de {user}, que agora tem {num} [singular=\"like\" plural=\"likes\"].",
+        "removed": "Você não gosta mais do perfil de {user}.",
+        "dm": "{emote} Parabéns, {name}!\n\nTenho notícias fantásticas para você! Seu perfil no {bot} alcançou a incrível marca de {num} likes! Você deve ser uma pessoa ótima - todos te adoram!\n\nEntão, vamos fazer o fluxo continuar e espalhar o amor! Diga a todos para convidar {bot}, enviado {link}, e lembre-se de usar {command} com o seu nome de usuário para dar um pouco de amor ao seu perfil 💖.\n\nObrigado por ser um membro tão caloroso da nossa comunidade!\n\nAbraços,\n{bot}. "
+    }
+}

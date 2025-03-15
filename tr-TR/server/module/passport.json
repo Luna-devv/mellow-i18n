@@ -1,0 +1,29 @@
+{
+    "select": {
+        "placeholder": "Pasaport doğrulama geçersiz kılmalarını yönet.",
+        "options": {
+            "unverify": {
+                "title": "Doğrulamayı Kaldır & Sıfırla",
+                "description": "Bu, kullanıcının yeniden doğrulama yapmasına izin verecek ve bunu gerektirecektir."
+            },
+            "punish": {
+                "title": "Cezalandır ({action})",
+                "description": "Bu, kullanıcıyı ayarlanan başarısız eylemle cezalandıracaktır."
+            },
+            "verify": {
+                "title": "Doğrula",
+                "description": "Bu, kullanıcıyı zorla doğrulayacak ve doğrulanmış rolü verecektir."
+            }
+        }
+    },
+    "button": {
+        "verified": "{user} tarafından doğrulandı",
+        "unverified": "{user} tarafından doğrulanması kaldırıldı",
+        "punised": "{user} tarafından cezalandırıldı"
+    },
+    "title": {
+        "success": "Pasaport: Geçerli",
+        "fail": "Pasaport: Geçersiz"
+    },
+    "manual_verification_warning": "Bu kullanıcının gelecekte doğrulama yapması engellendi, sunucu yetkilisi tarafından manuel olarak doğrulanması gerecektir."
+}
