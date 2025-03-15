@@ -2,7 +2,7 @@
     "noguild": "This command cannot be used inside of private messages or in user-installed space.",
     "userdisabled": "You can no longer use this bot, your account has been disabled.",
     "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
-    "botmention": "Hey {user}, I only listen to **Slashcommands** {emote}\nUse {command} for more information.",
+    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
     "none": "none",
     "error": "Something went wrong, please try again later.",
     "premium": {
@@ -24,8 +24,8 @@
     },
     "permissions": {
         "user": {
-            "guild": "You cannot perform this action since you're missing the {perms} permissions.",
-            "channel": "You cannot perform this action since you're missing the {perms} permissions in this channel.",
+            "guild": "You cannot run this action since you're missing the {perms} permissions.",
+            "channel": "You cannot run this action since you're missing the {perms} permissions in this channel.",
             "roles": {
                 "user": {
                     "text": "You cannot perform this action since the highest role of that user is higher than yours.",
@@ -40,8 +40,8 @@
             }
         },
         "me": {
-            "guild": "I cannot perform this action since I'm missing the {perms} permissions.",
-            "channel": "I cannot perform this action since I'm missing the {perms} permissions in this channel.",
+            "guild": "I cannot run this action since I'm missing the {perms} permissions.",
+            "channel": "I cannot run this action since I'm missing the {perms} permissions in this channel.",
             "roles": {
                 "user": {
                     "text": "I cannot perform this action since the highest role of that user is higher than mine.",

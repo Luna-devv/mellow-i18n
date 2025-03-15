@@ -1,5 +1,5 @@
 {
-    "auhtorize": "If you are a beta-tester, authorize me to access your spotify account! Contact support if you want to become a tester.",
+    "auhtorize": "Wenn du ein Beta-Tester bist, autorisiere mich um auf deinen Spotify zuzugreifen! Kontaktiere den Support, wenn du ein Tester werden möchtest.",
     "error": {
         "missing_track": "Es wurde kein Titel zum Abspielen angegeben.",
         "invalid_track": "Es sieht so aus, als ob dies kein Spotify Song ist.."
