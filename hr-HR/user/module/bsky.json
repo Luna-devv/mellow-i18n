@@ -6,7 +6,7 @@
     },
     "auth": {
         "title": "Connect your Bluesky account with {bot}!",
-        "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji!"
+        "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji to any message containing a bluesky post link!"
     },
     "button": {
         "view": "View",
