@@ -1,16 +1,16 @@
 {
     "authed_dm": {
-        "title": "You've successfully connected Bluesky!",
-        "description": "If you enjoy using {bot}, would you mind reposting [this bluesky post]({url}) from us?",
-        "sub": "PS: You can react with a light blue 🩵 to any post to like it on bluesky!"
+        "title": "Hai connesso con successo Bluesky!",
+        "description": "Se ti piace usare {bot}, ti dispiacerebbe ripubblicare [questo post su Bluesky]({url}) da parte nostra?",
+        "sub": "PS: Puoi reagire con un 🩵 azzurro a qualsiasi post per mettergli “mi piace” su Bluesky!"
     },
     "auth": {
-        "title": "Connect your Bluesky account with {bot}!",
+        "title": "Collega il tuo account Bluesky con {bot}!",
         "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji!"
     },
     "button": {
-        "view": "View",
-        "repost": "Repost",
-        "connect": "Connect Bluesky"
+        "view": "Visualizza",
+        "repost": "Riposta",
+        "connect": "Connetti Bluesky"
     }
 }
