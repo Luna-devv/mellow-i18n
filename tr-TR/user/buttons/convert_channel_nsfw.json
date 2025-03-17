@@ -5,9 +5,9 @@
         "description": {
             "1": "Bu sunucuya sahip değilsin veya sunucuyu yönetmiyorsun, [{bot}'u kendi sunucuna davet et]({url}) ya da bir Sunucu Yöneticisine aşağıdaki adımları takip etmesini söyle.",
             "2": "1. (mobil) Sunucu ismine bas ve 'Ayarlar'ı seç.",
-            "3": "1. (desktop) Right-click the channel name and select 'Edit Channel'.",
-            "4": "2. Scroll down and enable 'Age-Restricted Channel'.",
-            "5": "3. Click 'Save Changes'."
+            "3": "1. (masaüstü) Kanal ismine sağ tıkla ve 'Kanalı Düzenle'yi seç.",
+            "4": "2. Aşağı in ve 'Yaş Sınırlı Kanal'ı aktif et.",
+            "5": "3. 'Değişiklikleri Kaydet'e tıkla."
         }
     }
 }
