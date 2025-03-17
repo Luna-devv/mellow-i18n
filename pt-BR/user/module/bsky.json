@@ -1,5 +1,5 @@
 {
-    "connection_broke": "Seems like Bluesky has broken the connection with {bot}, let's fix that by [authorizing again]({url})!",
+    "connection_broke": "Parece que o Bluesky rompeu a conexão com o {bot}, vamos consertar isso [autorizando novamente]({url})!",
     "authed_dm": {
         "title": "You've successfully connected Bluesky!",
         "description": "If you enjoy using {bot}, would you mind reposting [this bluesky post]({url}) from us?",
