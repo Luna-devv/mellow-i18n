@@ -1,5 +1,5 @@
 {
-    "disabled": "Passport has been disabled and therefore can no longer be used.",
+    "disabled": "Pasaport devre dışı bırakıldığından artık kullanılamaz.",
     "no_member": "This member is no longer in this server and therefore cannot be verified, unverified or punished.",
     "success": {
         "unbanned": "{user} has been successfully unbanned, you will have to re-invite them manually.",
