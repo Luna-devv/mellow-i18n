@@ -1,4 +1,5 @@
 {
+    "connection_broke": "Seems like Bluesky has broken the connection with {bot}, let's fix that by [authorizing again]({url})!",
     "authed_dm": {
         "title": "Du hast Bluesky erfolgreich verbunden!",
         "description": "Wenn dir {bot} gefällt, würdest du dann bitte [diesen bluesky-Beitrag] ({url}) von uns reposten?",
