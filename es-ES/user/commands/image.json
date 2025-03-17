@@ -1,0 +1,45 @@
+{
+    "vote": {
+        "title": "Vota para seguir usando la IA gratis",
+        "description": {
+            "1": "¡La generación IA {command} no crece en los árboles! Apóyanos con un [voto rápido en top.gg]({url}), permite a la gente encontrar {name} más fácilmente, ¡gracias por tu apoyo!",
+            "2": "¡Votar por mí te permitirá tener acceso a todas las imágenes IA que quieras durante las próximas 12 horas!"
+        }
+    },
+    "illegal": {
+        "title": "Posible contenido ilegal",
+        "description": {
+            "1": "He detectado un posible contenido ilegal en su consulta, por favor no vuelva a usarlo.",
+            "2": "Si crees que esto es un error, por favor infórmanos en nuestro [servidor de soporte]({url}), gracias."
+        }
+    },
+    "better_query": {
+        "title": "Conoce tu modelo y mejora las consultas",
+        "description": {
+            "1": "La imagen mejora a medida que proporciona más y mejores detalles en la consulta, tenga en cuenta que sobrescribir la consulta negativa eliminará el predeterminado.",
+            "2": "Deberías [encontrar las pautas de uso]({url}) para que tu modelo obtenga mejores resultados.",
+            "3": "Tenga en cuenta que no todos los modelos son buenos para todo, algunos modelos son entrenados en anime y otros en imágenes realistas.",
+            "4": "Sí, puedo generar contenido NSFW, pero sólo se puede utilizar dentro de [NSFW canales marcados]({url})."
+        },
+        "footer": "Este mensaje se muestra únicamente una vez"
+    },
+    "model": {
+        "title": "Modelo seleccionado no válido",
+        "description": {
+            "1": "El modelo seleccionado no existe, por favor utilice las opciones de autocompletado.",
+            "2": "Si esto sigue sucediendo, por favor pregunte en nuestro [servidor de soporte]({url}), gracias."
+        }
+    },
+    "error": {
+        "title": "Hubo un error mientras se generaba",
+        "description": {
+            "2": "Si crees que esto es un error, por favor infórmanos en nuestro [servidor de soporte]({url}), lo sentimos."
+        }
+    },
+    "button": {
+        "regenerate": "Regenerar",
+        "selenite": "Consigue el Chat Bot Gemini",
+        "examples": "Ver algunos ejemplos impresionantes"
+    },
+    "nsfw_query": "Intentaste algunas cosas traviesas en la consulta.. ¡Cambia o crea un canal marcado NSFW para usarlo!"
+}

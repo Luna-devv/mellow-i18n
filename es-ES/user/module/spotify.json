@@ -1,0 +1,13 @@
+{
+    "auhtorize": "If you are a beta-tester, authorize me to access your spotify account! Contact support if you want to become a tester.",
+    "error": {
+        "missing_track": "No se ha proporcionado ninguna pista para reproducir.",
+        "invalid_track": "Parece que esta no es una canción en Spotify.."
+    },
+    "now_playing": "{user} está reproduciendo {track} para {duration}",
+    "now_also_playing": "Ahora también estás jugando {track}",
+    "currently_playing": "{user} está reproduciendo {track} de {artists} [singular=\" \" plural=\"on repeat\"]",
+    "button": {
+        "play": "Reproducir en Spotify"
+    }
+}

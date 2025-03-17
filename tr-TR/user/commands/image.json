@@ -1,0 +1,45 @@
+{
+    "vote": {
+        "title": "Ücretsiz yapay zeka kullanmak için oy ver",
+        "description": {
+            "1": "Yapay zeka ile {command} üretimi ağaçlarda yetişmiyor! [Hızlıca top.gg'de oy vererek]({url}) bize destek ol, bu insanların {name}'u bulabilmesini sağlar, desteğin için teşekkürler!",
+            "2": "Bana oy vermek, gelecek 12 saat içerisinde istediğin kadar yapay zeka ile resim üretebilmeni sağlar!"
+        }
+    },
+    "illegal": {
+        "title": "Muhtemel yasaklı içerik",
+        "description": {
+            "1": "İsteminde muhtemel yasaklı içerik tespit ettim, lütfen bunu kullanmaktan kaçın.",
+            "2": "Eğer bunun bir hata olduğunu düşünüyorsan, lütfen bunu [destek sunucumuzda]({url}) bildir, teşekkürler."
+        }
+    },
+    "better_query": {
+        "title": "Modelini tanı ve istemlerini geliştir",
+        "description": {
+            "1": "İstemde daha fazla ve daha iyi detaylar ekledikçe resim de gelişir, olumsuz istemin üzerine yazmak hazırda ayarlanmış olanı kaldıracağını unutma.",
+            "2": "Daha iyi sonuçlar alabilmek için [modelin kullanım kılavuzunu bulmalısın]({url}).",
+            "3": "Tüm modellerin her şey alanda iyi olmadığını unutma, bazıları anime üzerine eğitilmişken bazıları ise gerçekçi resimler üzerine eğitilmiştir.",
+            "4": "Evet, NSFW içerik üretebilirim, ama bunu sadece [NSFW olarak işaretlenmiş kanallarda]({url}) kullanabilirsin."
+        },
+        "footer": "Bu mesaj yalnızca bir kez gösterilir"
+    },
+    "model": {
+        "title": "Geçersiz model seçildi",
+        "description": {
+            "1": "Seçtiğin model bulunmamakta, lütfen otomatik tamamlamada verilen seçenekleri kullan.",
+            "2": "Eğer bu olmaya devam ederse, lütfen [destek sunucumuzda]({url}) sor, teşekkürler."
+        }
+    },
+    "error": {
+        "title": "Üretirken bir hata meydana geldi",
+        "description": {
+            "2": "Eğer bunun bir hata olduğunu düşünüyorsan, lütfen bunu [destek sunucumuzda]({url}) bildir, özür dileriz."
+        }
+    },
+    "button": {
+        "regenerate": "Yeniden Üret",
+        "selenite": "Gemini Sohbet Botunu Kullan",
+        "examples": "Bazı muhteşem örnekleri gör"
+    },
+    "nsfw_query": "İsteminde bazı yaramaz şeyler denedin.. bu tür istemleri kullanmak için NSFW olarak işaretlenmiş bir kanala geç veya bir tane oluştur!"
+}

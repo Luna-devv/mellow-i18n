@@ -1,0 +1,17 @@
+{
+    "title": "Selam, {username}",
+    "notice": {
+        "1": "Oy verdiğin için teşekkürler, bu gerçekten bize çok yardımcı oluyor!",
+        "2": "Eğer bu projeyi [top.gg'de oy vererek]({url}) desteklemeye devam etmek istiyorsan, lütfen aşağıdaki butonu kullanarak oy hatırlatıcısını aktif etmeyi düşün!",
+        "3": "Bu mesaj yalnızca bir kez alıyorsun."
+    },
+    "reminder": {
+        "1": "Artık bana tekrardan top.gg'de oy verebilirsin!",
+        "2": "[Topluluk sunucumuzdaki oycu rolü]({url}) ve {command} komutunda gösterildiği gibi daha fazla harika ayrıcalığı korumak için oy ver.",
+        "3": "Çok teşekkür ederim!",
+        "4": "{command} kullanmayı devre dışı bırak"
+    },
+    "button": {
+        "enable": "Oy hatırlatıcısını aktif et"
+    }
+}

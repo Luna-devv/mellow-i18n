@@ -1,0 +1,29 @@
+{
+    "select": {
+        "placeholder": "Administrar anulación de verificación de passport.",
+        "options": {
+            "unverify": {
+                "title": "Desverificar y Restablecer",
+                "description": "Esto permitirá y requerirá que el usuario se vuelva a verificar."
+            },
+            "punish": {
+                "title": "Castigar ({action})",
+                "description": "Esto castigará al usuario con la acción fallida del conjunto."
+            },
+            "verify": {
+                "title": "Verificar",
+                "description": "Esto forzará la verificación del usuario y le otorgará el rol de verificado."
+            }
+        }
+    },
+    "button": {
+        "verified": "Verificado por {user}",
+        "unverified": "Desverificado por {user}",
+        "punised": "Castigado por {user}"
+    },
+    "title": {
+        "success": "Passport: Éxito",
+        "fail": "Passport: Fallo"
+    },
+    "manual_verification_warning": "Este usuario está bloqueado de verificarse en el futuro, tendrá que ser verificado manualmente por el personal del servidor."
+}

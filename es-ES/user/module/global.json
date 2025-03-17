@@ -1,0 +1,79 @@
+{
+    "noguild": "Este comando no se puede usar dentro de mensajes privados o en el espacio instalado por el usuario.",
+    "userdisabled": "Ya no puedes usar este bot, tu cuenta ha sido desactivada.",
+    "dmdisabled": "No se pudo enviar el mensaje, tus Mensajes Directos parecen estar deshabilitados.",
+    "botmention": "Hey {user}, I only listen to **Slashcommands** {emote}\nUse {command} for more information.",
+    "none": "ninguno",
+    "error": "Algo salió mal, por favor intente más tarde.",
+    "premium": {
+        "embed": {
+            "title": "You need {bot} Pro to continue",
+            "pro_title": "The limit of your {bot} Pro was reached!",
+            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
+        },
+        "button": {
+            "subscribe": "Suscribir"
+        }
+    },
+    "button": {
+        "add": "Añadir {name}",
+        "support": "Soporte",
+        "vote": "Vota por {name}",
+        "vote_skip": "Donate to skip voting",
+        "vote_required": "Vote on {site} to continue"
+    },
+    "permissions": {
+        "user": {
+            "guild": "You cannot perform this action since you're missing the {perms} permissions.",
+            "channel": "You cannot perform this action since you're missing the {perms} permissions in this channel.",
+            "roles": {
+                "user": {
+                    "text": "No puedes realizar esta acción porque el rol de este usuario es más alto que el tuyo.",
+                    "user": "Usuario: {u.role} @ índice {u.index}",
+                    "you": "Tú: {y.role} @ índice {y.index}"
+                },
+                "role": {
+                    "text": "No puedes realizar esta acción porque tu rol es más bajo que el rol que se va a administrar.",
+                    "user": "Rol: {u.role} @ índice {u.index}",
+                    "you": "Tú: {y.role} @ índice {y.index}"
+                }
+            }
+        },
+        "me": {
+            "guild": "I cannot perform this action since I'm missing the {perms} permissions.",
+            "channel": "I cannot perform this action since I'm missing the {perms} permissions in this channel.",
+            "roles": {
+                "user": {
+                    "text": "No puedo realizar esta acción porque el rol de ese usuario es más alto que el mío.",
+                    "user": "Usuario: {u.role} @ índice {u.index}",
+                    "bot": "Yo: {b.role} @ índice {b.index}"
+                },
+                "role": {
+                    "text": "No puedo realizar esta acción ya que mi rol más alto es inferior al rol a gestionar.",
+                    "user": "Rol: {u.role} @ índice {u.index}",
+                    "bot": "Yo: {b.role} @ índice {b.index}"
+                }
+            }
+        }
+    },
+    "ad": {
+        "vote": "Por favor ayúdanos en {url}, solo toma unos pocos segundos",
+        "invite": "[Añadir {bot}]({url}) a tu servidor"
+    },
+    "nsfw": {
+        "title": "Respuesta NSFW (Adulto +18) detectada",
+        "description": {
+            "1": "No puede ver contenido NSFW en un canal marcado SFW.",
+            "2": "O marque este canal como Restringido por Edad o cree un nuevo canal y marque como Restringido por Edad."
+        },
+        "button": {
+            "convert_channel_nsfw": "Convertir canal a NSFW"
+        }
+    },
+    "moderation_punishment": {
+        "ban": "¡Has sido Prohivido/a de {guild}!",
+        "kick": "¡Has sido expulsado/a de {guild}!",
+        "role": "¡Has conseguido el rol {role} en {guild}!"
+    },
+    "command_user": "Comando utilizado por {user}"
+}

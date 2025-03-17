@@ -1,0 +1,8 @@
+{
+    "title": "¡Apóyame votando!",
+    "description": {
+        "1": "¡Es como darnos dinero pero sin dar dinero! Ayúdanos con un [voto rápido en top.gg]({url}), permite a la gente encontrar {name} más fácilmente, ¡gracias por tu apoyo!",
+        "2": "¡Votar por mí te permitirá acceder a algunos límites más altos en algunos lugares y a un [rol de votante en nuestro servidor de comunidad]({url}) durante las próximas 12 horas!"
+    },
+    "already": "¡ya has votado hoy, vuelve {time} para votar de nuevo!"
+}

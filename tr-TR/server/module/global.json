@@ -1,0 +1,27 @@
+{
+    "permissions": {
+        "me": {
+            "guild": "{bot}'un {perms} izni eksik.",
+            "channel": "{bot}'un {channel} kanalında {perms} izni eksik."
+        }
+    },
+    "moderation_actions": {
+        "nothing": "Hiçbiri",
+        "ban": "Yasakla",
+        "kick": "At",
+        "role": "Rol Ata",
+        "delete_message": "Mesajı Sil"
+    },
+    "logging": {
+        "account": "Kullanıcı: {var}",
+        "joined": "Katıldı: {var}",
+        "created": "Oluşturuldu: {var}",
+        "channel": "Kanal: {var}",
+        "voice": "Ses: {var}",
+        "message": "Mesaj: **[Mesaja git]({url})**",
+        "command": "Komut: {var}",
+        "action": "Eylem: {var}",
+        "attempts": "Denemeler: {num} deneme",
+        "reason": "Sebep: {var}"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Hola, {username}",
+    "notice": {
+        "1": "¡Gracias por votar, realmente nos ayuda demasiado!",
+        "2": "¡Si quieres seguir apoyando este proyecto [votando en top.gg]({url}), por favor considera activar el recordatorio de voto usando el botón de abajo!",
+        "3": "Solamente recibes este mensaje una vez."
+    },
+    "reminder": {
+        "1": "¡Ahora puedes votar de nuevo por mí en top.gg!",
+        "2": "Vota para mantener increíbles ventajas como un [rol de votante en nuestro servidor comunitario]({url}) y más como se muestra en {command}.",
+        "3": "Muchas gracias, ¡realmente te aprecio!",
+        "4": "Desactivar el uso de {command}"
+    },
+    "button": {
+        "enable": "Activar el recordatorio de voto"
+    }
+}
