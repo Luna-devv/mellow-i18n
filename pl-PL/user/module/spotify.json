@@ -1,13 +1,13 @@
 {
-    "auhtorize": "If you are a beta-tester, [authorize me to access your spotify account]({url})! Contact support if you want to become a tester.",
+    "auhtorize": "Jeśli jesteś beta-testerem, autoryzuj mnie do dostępu do swojego konta spotify! Skontaktuj się z pomocą techniczną, jeśli chcesz zostać testorem.",
     "error": {
-        "missing_track": "No track to play was provided.",
-        "invalid_track": "Seems like this isn't a spotify song.."
+        "missing_track": "Nie podano utworu do odtworzenia.",
+        "invalid_track": "Wygląda na to, że to nie jest piosenka na Spotify..."
     },
-    "now_playing": "{user} is now playing {track} for {duration}",
+    "now_playing": "{user} odtwarza {track} od {duration}",
     "now_also_playing": "You are now also playing {track}",
-    "currently_playing": "{user} is playing {track} by {artists} [singular=\" \" plural=\"on repeat\"]",
+    "currently_playing": "{user} słucha {track} [singular=\" \" plural=\"w pętli\"]",
     "button": {
-        "play": "Play on Spotify"
+        "play": "Odtwórz na Spotify"
     }
 }
