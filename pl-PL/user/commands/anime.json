@@ -1,6 +1,6 @@
 {
     "button": {
-        "showMore": "Show more {type}s",
-        "dm": "Save to DM"
+        "showMore": "Pokaż więcej {type}",
+        "dm": "Zapisz w PW"
     }
 }
