@@ -1,4 +1,11 @@
 {
+    "custom_pds_connect": {
+        "modal": {
+            "title": "Connect 3rd-party PDS",
+            "label": "Your Bluesky or Atproto Handle"
+        },
+        "invalid_handle": "Your handle ({handle}) is not valid following atproto specifications."
+    },
     "connection_broke": "Seems like Bluesky has broken the connection with {bot}, let's fix that by [authorizing again]({url})!",
     "authed_dm": {
         "title": "Hai connesso con successo Bluesky!",
@@ -12,6 +19,8 @@
     "button": {
         "view": "Visualizza",
         "repost": "Riposta",
-        "connect": "Connetti Bluesky"
+        "connect": "Connetti Bluesky",
+        "custom_pds_connect": "Connect using 3rd-party PDS",
+        "connect_as": "Connect Bluesky as {handle}"
     }
 }
