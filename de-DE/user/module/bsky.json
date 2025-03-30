@@ -20,7 +20,7 @@
         "view": "Anschauen",
         "repost": "Reposten",
         "connect": "Bluesky Verbinden",
-        "custom_pds_connect": "Connect using 3rd-party PDS",
-        "connect_as": "Connect Bluesky as {handle}"
+        "custom_pds_connect": "Mit Drittanbieter PDS verbinden",
+        "connect_as": "Bluesky als {handle} verbinden"
     }
 }
