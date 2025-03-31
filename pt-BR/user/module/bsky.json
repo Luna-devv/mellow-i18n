@@ -21,6 +21,6 @@
         "repost": "Repost",
         "connect": "Connect Bluesky",
         "custom_pds_connect": "Connect using 3rd-party PDS",
-        "connect_as": "Connect Bluesky as {handle}"
+        "connect_as": "Conectar Bluesky como {handle}"
     }
 }
