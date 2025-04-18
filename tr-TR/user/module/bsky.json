@@ -1,15 +1,15 @@
 {
     "custom_pds_connect": {
         "modal": {
-            "title": "Connect 3rd-party PDS",
-            "label": "Your Bluesky or Atproto Handle"
+            "title": "3. parti PDS bağla",
+            "label": "Bluesky veya Atproto kullanıcı adın"
         },
-        "invalid_handle": "Your handle ({handle}) is not valid following atproto specifications."
+        "invalid_handle": "Kullanıcı adın ({handle}) atproto spesifikasyonlarına göre geçerli değil."
     },
-    "connection_broke": "Seems like Bluesky has broken the connection with {bot}, let's fix that by [authorizing again]({url})!",
+    "connection_broke": "Görünüşe göre Bluesky {bot} ile olan bağlantıyı kesti, hadi bunu [tekrar yetkilendirerek]({url}) düzeltelim!",
     "authed_dm": {
-        "title": "You've successfully connected Bluesky!",
-        "description": "If you enjoy using {bot}, would you mind reposting [this bluesky post]({url}) from us?",
+        "title": "Başarıyla Bluesky'ı bağladın!",
+        "description": "Eğer {bot}'u kullanmaktan zevk aliyorsan, bizden olan [bu bluesky gönderisini]({url}) yeniden paylaşabilir misin?",
         "sub": "PS: You can react with a light blue 🩵 to any post to like it on bluesky!"
     },
     "auth": {
