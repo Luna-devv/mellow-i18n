@@ -1,13 +1,13 @@
 {
     "disabled": "Pasaport devre dışı bırakıldığından artık kullanılamaz.",
-    "no_member": "This member is no longer in this server and therefore cannot be verified, unverified or punished.",
+    "no_member": "Bu üye artık sunucuda değil ve bu yüzden onu doğrulayamaz, doğrulanmasını kaldıramaz veya cezalandırılmazsın.",
     "success": {
-        "unbanned": "{user} has been successfully unbanned, you will have to re-invite them manually.",
-        "unbanned_invite": "You can just send them {url} per Direct Message!",
-        "verified": "{user} has been verified and given the {role} role.",
-        "unverified": "{user} has been unverified, they can now re-verify."
+        "unbanned": "{user} kullanıcısının yasağı başarıyla kaldırıldı, onu manuel olarak tekrardan davet etmen gerekecek.",
+        "unbanned_invite": "Ona Direkt Mesajlardan {url} gönderebilirsin!",
+        "verified": "{user} doğrulandı ve {role} rolü verildi.",
+        "unverified": "{user} kullanıcısının doğrulanması kaldırıldı, artık tekrardan doğrulanabilir."
     },
     "button": {
-        "enable": "Enable Passport"
+        "enable": "Pasaportu Aktif Et"
     }
 }
