@@ -1,8 +1,8 @@
 {
     "none": "Henüz hiçbir etiketin yok",
     "title": {
-        "text": "Metin Komutları ({amount})",
-        "slash": "Eğik Çizgi Komutları ({amount})"
+        "text": "Metin [singular=\"Komutu\" plural=\"Komutları\"] ({amount})",
+        "slash": "Eğik Çizgi [singular=\"Komutu\" plural=\"Komutları\"] ({amount})"
     },
     "disabled": "Eksik izinlerden dolayı {amount} etiket gizlendi",
     "footer": "{command} ile kullan"
