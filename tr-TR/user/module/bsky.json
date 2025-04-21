@@ -14,7 +14,7 @@
     },
     "auth": {
         "title": "Bluesky hesabını {bot} ile bağla!",
-        "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji!"
+        "description": "Eğer bir Blueksy hesabın varsa (veya [bir tane oluşturmak]({create}) istiyorsan), bir bluesky gönderi linki içeren herhangi bir mesaja açık mavi 🩵 ile tepki ekleyerek Bluesky gönderilerini direkt olarak beğenmek için onu {bot} ile bağlayabilirsin!"
     },
     "button": {
         "view": "Görüntüle",
