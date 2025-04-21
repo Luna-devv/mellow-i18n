@@ -4,7 +4,7 @@
     },
     "title": "Hoş geldin {user}!",
     "description": {
-        "verify": "Bot saldırılarını azaltmak ve genel güvenliği sağlamak amacıyla bu sunucuya erişebilmek için hızlıca bir doğrulama tamamlaman gerekecek {emote}\n\nLütfen yöneticilerin veya moderatörlerin, email veya IP gibi sağladığın hiçbir bilgiye erişimi olmadığını aklında bulundur.",
+        "verify": "Bot saldırılarını azaltmak ve genel güvenliği sağlamak amacıyla bu sunucuya erişebilmek için hızlıca bir doğrulama tamamlaman gerekecek {emote}\n\nLütfen yöneticilerin veya moderatörlerin, eposta veya IP gibi sağladığın hiçbir bilgiye erişimi olmadığını aklında bulundur.",
         "premium": "Bir {bot} Pro üyesi olduğun ve bu projeyi desteklediğin için teşekkürler {emote}\n\nPro aboneliğinin bir parçası olduğundan doğrulamayı manuel olarak geçmen gerekmediğini unutma."
     }
 }
