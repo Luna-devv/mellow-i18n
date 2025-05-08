@@ -71,7 +71,7 @@
         }
     },
     "moderation_punishment": {
-        "ban": "{guild} sunucusundan banlandın!",
+        "ban": "{guild} sunucusundan yasaklandın!",
         "kick": "{guild} sunucusundan atıldın!",
         "role": "{guild} sunucusunda {role} rolünü aldın!"
     },

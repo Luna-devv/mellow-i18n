@@ -1,12 +1,12 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
-    "description": "{percent} nsfw ({threshold} threshold)",
+    "title": "NSFW Resim Algılandı",
+    "analysis": "Analiz",
+    "description": "{percent} nsfw ({threshold} eşik değeri)",
     "thread": {
-        "name": "Image attachment (NSFW)",
-        "message": "Reupload of an image sent by {user}"
+        "name": "Resim eki (NSFW)",
+        "message": "{user} tarafından gönderilen resmin bir yeniden yüklemesi"
     },
     "button": {
-        "update_threshold": "Change the threshold ({threshold}%)"
+        "update_threshold": "Eşik değerini değiştir (%{threshold})"
     }
 }

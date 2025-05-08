@@ -26,7 +26,7 @@
     },
     "likes": {
         "add": "Like",
-        "remove": "{emote} Parabéns, {name}!\n\nTenho notícias fantásticas para você! Seu perfil no {bot} alcançou a incrível marca de {num} likes! Você deve ser uma pessoa ótima - todos te adoram!\n\nEntão, vamos fazer o fluxo continuar e espalhar o amor! Diga a todos para convidar {bot}, enviado o link de convite, e lembre-se de usar {command} com o seu nome de usuário para dar um pouco de amor ao seu perfil 💖.\n\nObrigado por ser um membro tão caloroso da nossa comunidade!\n\nAbraços,\n{bot}.",
+        "remove": "Remover like",
         "added": "Você deu um like no perfil de {user}, que agora tem {num} [singular=\"like\" plural=\"likes\"].",
         "removed": "Você não gosta mais do perfil de {user}.",
         "dm": "{emote} Parabéns, {name}!\n\nTenho notícias fantásticas para você! Seu perfil no {bot} alcançou a incrível marca de {num} likes! Você deve ser uma pessoa ótima - todos te adoram!\n\nEntão, vamos fazer o fluxo continuar e espalhar o amor! Diga a todos para convidar {bot}, enviado {link}, e lembre-se de usar {command} com o seu nome de usuário para dar um pouco de amor ao seu perfil 💖.\n\nObrigado por ser um membro tão caloroso da nossa comunidade!\n\nAbraços,\n{bot}. "

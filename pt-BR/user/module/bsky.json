@@ -1,4 +1,12 @@
 {
+    "custom_pds_connect": {
+        "modal": {
+            "title": "Connect 3rd-party PDS",
+            "label": "Your Bluesky or Atproto Handle"
+        },
+        "invalid_handle": "Your handle ({handle}) is not valid following atproto specifications."
+    },
+    "connection_broke": "Parece que o Bluesky rompeu a conexão com o {bot}, vamos consertar isso [autorizando novamente]({url})!",
     "authed_dm": {
         "title": "You've successfully connected Bluesky!",
         "description": "If you enjoy using {bot}, would you mind reposting [this bluesky post]({url}) from us?",
@@ -6,11 +14,13 @@
     },
     "auth": {
         "title": "Connect your Bluesky account with {bot}!",
-        "description": "Se você tem uma conta no Bluesky (ou gostaria de [criar uma]({create})), você pode conectá-la no {bot} para dar likes em postagens diretamente do Discord, reagindo com um emoji de coração azul 🩵 em qualquer mensagem que contenha um um link de postagem no Bluesky!"
+        "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji!"
     },
     "button": {
         "view": "View",
         "repost": "Repost",
-        "connect": "Connect Bluesky"
+        "connect": "Connect Bluesky",
+        "custom_pds_connect": "Connect using 3rd-party PDS",
+        "connect_as": "Conectar Bluesky como {handle}"
     }
 }

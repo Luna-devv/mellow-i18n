@@ -1,11 +1,11 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
-    "invites": "Invites",
+    "messages": "Wiadomości",
+    "name": "Nazwa",
+    "created": "Utworzono",
+    "joined": "Dołączono",
+    "invites": "Zaproszenia",
     "guilds": "Guilds",
-    "voice": "Voice",
+    "voice": "Kanały głosowe",
     "features": "Features",
     "description": "Description",
     "commands": "Popular Commands",
@@ -14,9 +14,9 @@
         "guild": "Invite to Guild",
         "user": "Install as User-App"
     },
-    "spotify": "Currently Listening To",
-    "none": "none",
-    "global_scope": "Showing stats from all guilds combined.",
+    "spotify": "Słucha",
+    "none": "brak",
+    "global_scope": "Pokazuje połączone statystyki ze wszystkich serwerów.",
     "button": {
         "guild_avatar": "Guild Avatar",
         "avatar": "Avatar",
@@ -26,9 +26,9 @@
     },
     "likes": {
         "add": "Like",
-        "remove": "Remove Like",
+        "remove": "Usuń polubienie",
         "added": "You have liked {user}'s profile, they now have {num} [singular=\"like\" plural=\"likes\"].",
-        "removed": "You no longer like {user}'s profile.",
-        "dm": "{emote} Congratulations, {name}!\n\nI have some fantastic news to share with you! Your {bot} profile has reached an incredible {num} likes! You're clearly doing something right because people just can't get enough of you!\n\nSo let's keep the momentum going and spread the love! Tell everyone to invite {bot} by sending them {link} and make sure to use the {command} followed by your username to heart 💖 your profile!\n\nThank you for being such a fantastic part of our community!\n\nCheers,\n{bot} "
+        "removed": "Usunięto polubienie {user}",
+        "dm": "!!!!! TO FINISH OR REMOVE\n!!!\n!!!\n{emote} Gratulacje, {name}!\n\nMam fantastyczną wiadomość, które chcę się z Tobą podzielić! Twój profil {bot} osiągnął niesamowitą ilość polubień: {num}! \n\nWięc utrzymajmy dynamikę i rozprzestrzeniajmy miłość! Powiedz wszystkim o zaproszeniu {bot}, wysyłając im {link} i upewnij się, aby użyć {command} , a następnie Twoja nazwa użytkownika do serca 💖 Twój profil!\n\nDziękujemy za bycie tak fantastyczną częścią naszej społeczności!\n\nPozdrowienia,\n{bot} "
     }
 }

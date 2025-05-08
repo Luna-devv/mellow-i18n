@@ -1,7 +1,7 @@
 {
-    "title": "NSFW Image Detected",
-    "analysis": "Analysis",
-    "description": "{percent} nsfw ({threshold} threshold)",
+    "title": "Wykryto obraz NSFW",
+    "analysis": "Analiza",
+    "description": "{percent} NSFW (próg {threshold})",
     "thread": {
         "name": "Image attachment (NSFW)",
         "message": "Reupload of an image sent by {user}"

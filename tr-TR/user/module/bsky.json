@@ -1,16 +1,26 @@
 {
+    "custom_pds_connect": {
+        "modal": {
+            "title": "3. parti PDS bağla",
+            "label": "Bluesky veya Atproto kullanıcı adın"
+        },
+        "invalid_handle": "Kullanıcı adın ({handle}) atproto spesifikasyonlarına göre geçerli değil."
+    },
+    "connection_broke": "Görünüşe göre Bluesky {bot} ile olan bağlantıyı kesti, hadi bunu [tekrar yetkilendirerek]({url}) düzeltelim!",
     "authed_dm": {
-        "title": "You've successfully connected Bluesky!",
-        "description": "If you enjoy using {bot}, would you mind reposting [this bluesky post]({url}) from us?",
-        "sub": "PS: You can react with a light blue 🩵 to any post to like it on bluesky!"
+        "title": "Başarıyla Bluesky'ı bağladın!",
+        "description": "Eğer {bot}'u kullanmaktan zevk aliyorsan, bizden olan [bu bluesky gönderisini]({url}) yeniden paylaşabilir misin?",
+        "sub": "Not: Herhangi bir gönderiye açık mavi 🩵 ile tepki ekleyerek onu bluesky'da beğenebilirsin!"
     },
     "auth": {
-        "title": "Connect your Bluesky account with {bot}!",
-        "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji to any message containing a bluesky post link!"
+        "title": "Bluesky hesabını {bot} ile bağla!",
+        "description": "Eğer bir Blueksy hesabın varsa (veya [bir tane oluşturmak]({create}) istiyorsan), bir bluesky gönderi linki içeren herhangi bir mesaja açık mavi 🩵 ile tepki ekleyerek Bluesky gönderilerini direkt olarak beğenmek için onu {bot} ile bağlayabilirsin!"
     },
     "button": {
-        "view": "View",
-        "repost": "Repost",
-        "connect": "Connect Bluesky"
+        "view": "Görüntüle",
+        "repost": "Yeniden Paylaş",
+        "connect": "Bluesky'ı Bağla",
+        "custom_pds_connect": "3. parti PDS kullanarak bağla",
+        "connect_as": "Bluesky'ı {handle} Olarak Bağla"
     }
 }

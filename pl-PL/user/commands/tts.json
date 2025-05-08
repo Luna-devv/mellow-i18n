@@ -1,55 +1,55 @@
 {
     "channel": {
-        "title": "A Chat to Speech channel is setup",
+        "title": "Skonfigurowano kanał text-to-speech",
         "description": {
-            "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
-            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
+            "1": "Ten serwer ma dedykowaną konfigurację kanału Text to Speech w {channel}, proszę wysyłać wiadomości na tym kanale aby generować audio.",
+            "2": "Jeśli jesteś administratorem serwera, możesz zmienić lub usunąć kanał [na tym panelu sterowania]({url})."
         }
     },
     "speaker": {
-        "title": "Invalid speaker selected",
+        "title": "Wybrano nieprawidłowego mówcę",
         "description": {
-            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "Wybrany mówca nie istnieje, użyj opcji autouzupełniania lub [ustaw domyślny głos]({url}).",
+            "2": "Jeżeli ten błąd się powtarza, poproś o wsparcie [na naszym serwerze]({url})."
         }
     },
     "vote": {
         "title": "Vote requried for long input",
         "description": {
-            "1": "Audio generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate {newamount} characters instead of just {amount} for the next 12 hours!"
+            "1": "Generacja dźwięku nie rośnie na drzewach! Wesprzyj nas [szybkim głosowaniem na top.gg]({url}). Pozwala to ludziom łatwiej znaleźć {name}. Dziękujemy za wsparcie!",
+            "2": "Głosowanie za mną pozwoli Ci na wygenerowanie {newamount} zamiast {amount} znaków przez następne 12 godzin!"
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Podczas generowania wystąpił błąd",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "1": "Zwykle dzieje się tak, jeżeli język wejściowy nie pasuje do języka mówcy. Spróbuj zmienić język wejścia lub mówcy.",
+            "2": "Jeśli uważasz, że to błąd, prosimy o zgłoszenie go na naszym [serwerze wsparcia]({url}), przepraszamy."
         }
     },
     "button": {
-        "changeSpeaker": "Change default speaker",
-        "invite_tts": "Get a 2nd Text to Speech Bot",
-        "enable_queue": "Enable message queue"
+        "changeSpeaker": "Zmień domyślnego mówiącego",
+        "invite_tts": "Dodaj drugiego bot text-to-speech",
+        "enable_queue": "Włącz kolejkę wiadomości"
     },
-    "novc": "You're not connected to any voice channels.",
-    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
-    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
-    "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
-    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "novc": "Nie jesteś połączony/a z żadnym kanałem głosowym.",
+    "noplayer": "Tekst na mowę nie jest obecnie używany, najpierw użyj {command}!",
+    "toolong": "Twoja wiadomość przekracza limit serwera ({count}/{max} znaków).",
+    "alreadyplaying": "Poczekaj, aż wiadomość {user} zostanie zakończona, użyj {command} jeśli utknie.",
+    "playing": "Odtwarzanie w {channel} od {time} [singular=\"sekundy\" plural=\"sekund\"].",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "To ustawienie dotyczy tylko Ciebie.",
+        "default_voice": "Domyślny głos jest teraz ustawiony na {voice}.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Czat na mowę został włączony.",
+            "disabled": "Czat na mowę został wyłączony."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Wyłączono wszystkie aktywne filtry.",
+            "enabled": "Włączono filtr {filter} dla bieżącej sesji.",
+            "disabled": "Wyłączono filtr {filter} dla bieżącej sesji."
         }
     },
-    "stopped": "Playback was terminated and reset.",
-    "web": "Change default voice & fileformat"
+    "stopped": "Odtwarzanie zostało zakończone i zresetowane.",
+    "web": "Zmień domyślny głos i format pliku"
 }

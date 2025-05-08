@@ -2,7 +2,7 @@
     "channel": {
         "title": "A Chat to Speech channel is setup",
         "description": {
-            "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
+            "1": "Denne serveren har en egen tekst til talekanaloppsett på {channel}, vennligst skriv inn meldinger i den kanalen for å generere lyd.",
             "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
         }
     },

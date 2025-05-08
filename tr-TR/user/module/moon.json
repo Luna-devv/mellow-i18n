@@ -1,10 +1,10 @@
 {
-    "new_moon": "New Moon",
-    "waxing_crescent": "Waxing Crescent",
-    "first_quarter": "First Quarter",
-    "waxing_gibbous": "Waxing Gibbous",
-    "full_moon": "Full Moon",
-    "waning_gibbous": "Waning Gibbous",
-    "last_quarter": "Last Quarter",
-    "waning_crescent": "Waning Crescent"
+    "new_moon": "Yeni Ay",
+    "waxing_crescent": "Hilal",
+    "first_quarter": "İlk Dördün",
+    "waxing_gibbous": "Şişkin Ay",
+    "full_moon": "Dolunay",
+    "waning_gibbous": "Şişkin Ay",
+    "last_quarter": "Son Dördün",
+    "waning_crescent": "Hilal"
 }

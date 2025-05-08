@@ -41,5 +41,5 @@
         "selenite": "Get Gemini Chat Bot",
         "examples": "View some awesome examples"
     },
-    "nsfw_query": "Você colocou safadeza no pedido, não foi? Tente repeti-lo num canal que permite conteúdo adulto."
+    "nsfw_query": "Você colocou safadeza no pedido, não foi? Tente repeti-lo num canal que permite conteúdo adulto!"
 }
