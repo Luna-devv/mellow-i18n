@@ -1,16 +1,9 @@
 {
-    "channel": {
-        "title": "È stato configurato un canale di conversazione vocale tramite testo",
+    "voice": {
+        "title": "Invalid voice selected",
         "description": {
-            "1": "Questo server ha una configurazione del canale Text to Speech dedicata in {channel}, si prega di pubblicare messaggi in quel canale per generare audio.",
-            "2": "Se sei un amministratore del server, puoi cambiare o rimuovere il canale [su questo dashboard server]({url})."
-        }
-    },
-    "speaker": {
-        "title": "Modello selezionato non valido",
-        "description": {
-            "1": "La voce selezionata non esiste, si prega di utilizzare le opzioni di completamento automatico o [impostare una voce predefinita]({url}).",
-            "2": "Se questo continua a accadere, si prega di chiedere nel nostro [server di supporto]({url}), grazie."
+            "1": "The voice you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
+            "2": "You can preview all the voices at {url}."
         }
     },
     "vote": {
@@ -23,12 +16,12 @@
     "error": {
         "title": "Si è verificato un errore durante il generamento",
         "description": {
-            "1": "Questo accade solitamente se la lingua dell'testo non corrisponde alla lingua dell'altoparlante, prova a cambiare la lingua di input o l'altoparlante.",
+            "1": "This usually happens if the input language does not match the language of the voice, try changing the input language or the voice.",
             "2": "Se pensi che questo sia un errore, segnalalo sul nostro [server di supporto]({url}), grazie."
         }
     },
     "button": {
-        "changeSpeaker": "Cambia voce predefinita",
+        "change_voice": "Change the default voice",
         "invite_tts": "Prendi un secondo Bot con le modalitá testo a voce",
         "enable_queue": "Abilita coda messaggi"
     },
@@ -37,6 +30,7 @@
     "toolong": "Il tuo messaggio supera il limite di {max} dei server con {count} caratteri.",
     "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
     "playing": "Ora parlando in {channel} per {time} [singular=\"secondo\" plural=\"secondi\"].",
+    "cts_exists_notice": "You can also just post messages in {channel} to use Text to Speech, [Learn more]({url}).",
     "set": {
         "only_you": "Questa impostazione si applica solo a te.",
         "default_voice": "La voce predefinita è ora impostata su {voice}.",
