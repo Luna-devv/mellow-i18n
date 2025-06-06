@@ -2,7 +2,7 @@
     "noguild": "Bu komut özel mesajlarda veya kullanıcı için yüklenmiş alanlarda kullanılamaz.",
     "userdisabled": "Hesabın devre dışı bırakıldı, artık bu botu kullanamazsın.",
     "dmdisabled": "Mesajı sana gönderemedim, görünüşe göre Direkt Mesajların kapalı.",
-    "botmention": "Hey {user}, ben yalnızca **Eğik Çizgi Komutlarını** dinliyorum {emote}\nDaha fazla bilgi için {command} kullan.",
+    "bot_mention": "Use {command} for more information.",
     "none": "hiçbiri",
     "error": "Bir şeyler yanlış gitti, lütfen daha sonra tekrar dene.",
     "premium": {
