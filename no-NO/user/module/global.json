@@ -2,7 +2,7 @@
     "noguild": "This command cannot be used inside of private messages or in user-installed space.",
     "userdisabled": "You can no longer use this bot, your account has been disabled.",
     "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
-    "botmention": "Hey {user}, run **{emote} SlashCommands** to use me!\nUse {command} for more information.",
+    "bot_mention": "Use {command} for more information.",
     "none": "none",
     "error": "Something went wrong, please try again later.",
     "premium": {
