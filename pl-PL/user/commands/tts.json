@@ -1,16 +1,9 @@
 {
-    "channel": {
-        "title": "Skonfigurowano kanał text-to-speech",
+    "voice": {
+        "title": "Invalid voice selected",
         "description": {
-            "1": "Ten serwer ma dedykowaną konfigurację kanału Text to Speech w {channel}, proszę wysyłać wiadomości na tym kanale aby generować audio.",
-            "2": "Jeśli jesteś administratorem serwera, możesz zmienić lub usunąć kanał [na tym panelu sterowania]({url})."
-        }
-    },
-    "speaker": {
-        "title": "Wybrano nieprawidłowego mówcę",
-        "description": {
-            "1": "Wybrany mówca nie istnieje, użyj opcji autouzupełniania lub [ustaw domyślny głos]({url}).",
-            "2": "Jeżeli ten błąd się powtarza, poproś o wsparcie [na naszym serwerze]({url})."
+            "1": "The voice you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
+            "2": "You can preview all the voices at {url}."
         }
     },
     "vote": {
@@ -23,12 +16,12 @@
     "error": {
         "title": "Podczas generowania wystąpił błąd",
         "description": {
-            "1": "Zwykle dzieje się tak, jeżeli język wejściowy nie pasuje do języka mówcy. Spróbuj zmienić język wejścia lub mówcy.",
+            "1": "This usually happens if the input language does not match the language of the voice, try changing the input language or the voice.",
             "2": "Jeśli uważasz, że to błąd, prosimy o zgłoszenie go na naszym [serwerze wsparcia]({url}), przepraszamy."
         }
     },
     "button": {
-        "changeSpeaker": "Zmień domyślnego mówiącego",
+        "change_voice": "Change the default voice",
         "invite_tts": "Dodaj drugiego bot text-to-speech",
         "enable_queue": "Włącz kolejkę wiadomości"
     },
@@ -37,6 +30,7 @@
     "toolong": "Twoja wiadomość przekracza limit serwera ({count}/{max} znaków).",
     "alreadyplaying": "Poczekaj, aż wiadomość {user} zostanie zakończona, użyj {command} jeśli utknie.",
     "playing": "Odtwarzanie w {channel} od {time} [singular=\"sekundy\" plural=\"sekund\"].",
+    "cts_exists_notice": "You can also just post messages in {channel} to use Text to Speech, [Learn more]({url}).",
     "set": {
         "only_you": "To ustawienie dotyczy tylko Ciebie.",
         "default_voice": "Domyślny głos jest teraz ustawiony na {voice}.",
