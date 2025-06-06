@@ -1,16 +1,9 @@
 {
-    "channel": {
-        "title": "Bir Sohbetten Konuşmaya kanalı kurulmuş",
+    "voice": {
+        "title": "Invalid voice selected",
         "description": {
-            "1": "Bu sunucunun {channel} kanalında kurulmuş özel bir Metinden Konuşmaya kanalı var, lütfen ses oluşturmak mesajları oraya gönder.",
-            "2": "Eğer bir sunucu yöneticisiysen, kanalı [bu sunucunun panelinden]({url}) değiştirebilir veya kaldırabilirsin."
-        }
-    },
-    "speaker": {
-        "title": "Geçersiz konuşmacı seçildi",
-        "description": {
-            "1": "Seçtiğin konuşmacı bulunmamakta, lütfen otomatik tamamlamada verilen seçenekleri kullan veya [varsayılan bir ses ayarla]({url}).",
-            "2": "Eğer bu olmaya devam ederse, lütfen [destek sunucumuzda]({url}) sor, teşekkürler."
+            "1": "The voice you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
+            "2": "You can preview all the voices at {url}."
         }
     },
     "vote": {
@@ -23,12 +16,12 @@
     "error": {
         "title": "Üretirken bir hata meydana geldi",
         "description": {
-            "1": "Bu, genellikle girilen dille konuşmacının dili eşleşmediğinde meydana gelir, girdi dilini veya konuşmacıyı değiştirmeyi dene.",
+            "1": "This usually happens if the input language does not match the language of the voice, try changing the input language or the voice.",
             "2": "Eğer bunun bir hata olduğunu düşünüyorsan, lütfen bunu [destek sunucumuzda]({url}) bildir, özür dileriz."
         }
     },
     "button": {
-        "changeSpeaker": "Varsayılan konuşmacıyı değiştir",
+        "change_voice": "Change the default voice",
         "invite_tts": "2. Bir Metinden Konuşmaya Botu Kullan",
         "enable_queue": "Mesaj sırasını aktif et"
     },
@@ -37,6 +30,7 @@
     "toolong": "Mesajın {count} karakterle birlikte sunucunun {max} karakter limitini aşıyor.",
     "alreadyplaying": "{user} tarafından gönderilen mesajın oynatılması tamamlanana kadar bekle, eğer takılırsa {command} kullan.",
     "playing": "Şu anda {channel} kanalında {time} saniyeliğine oynatılıyor.",
+    "cts_exists_notice": "You can also just post messages in {channel} to use Text to Speech, [Learn more]({url}).",
     "set": {
         "only_you": "Bu ayar yalnızca senin için geçerli.",
         "default_voice": "Varsayılan ses {voice} olarak ayarlandı.",
