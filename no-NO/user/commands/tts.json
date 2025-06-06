@@ -16,9 +16,12 @@
     "error": {
         "title": "Det oppstod en feil under generering",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the voice, try changing the input language or the voice.",
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "If you believe this to be a bug, please report it in our [support server]({url})."
         }
+    },
+    "errors": {
+        "1": "The input language does not match the language of your selected voice, so either change the input language or the voice.",
+        "4": "The voice you selected is no longer available, please choose a different voice or [change your default voice]({url})."
     },
     "button": {
         "change_voice": "Change the default voice",
