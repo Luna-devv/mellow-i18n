@@ -2,7 +2,7 @@
     "noguild": "Ta komenda nie może być użyta wewnątrz prywatnych wiadomości ani jako aplikacja użytkownika.",
     "userdisabled": "Nie możesz już używać tego bota, twoje konto zostało wyłączone.",
     "dmdisabled": "Nie można wysłać Ci wiadomości, Twoje prywatne wiadomości wydają się wyłączone.",
-    "botmention": "Cześć {user}, obsługuję tylko **Komendy z ukośnikiem** {emote}\nUżyj {command}, aby uzyskać więcej informacji.",
+    "bot_mention": "Use {command} for more information.",
     "none": "brak",
     "error": "Coś poszło nie tak, spróbuj ponownie później.",
     "premium": {
