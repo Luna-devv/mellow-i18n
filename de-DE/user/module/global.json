@@ -2,7 +2,7 @@
     "noguild": "Dieser Befehl kann nicht innerhalb von privaten Nachrichten oder im vom Benutzer installierten Umgebung verwendet werden.",
     "userdisabled": "Du kannst diesen Bot nicht mehr verwenden, dein Account wurde deaktiviert.",
     "dmdisabled": "Die Nachricht konnte dir nicht gesendet werden, deine Direktnachrichten scheinen deaktiviert zu sein.",
-    "bot_mention": "Use {command} for more information.",
+    "bot_mention": "Verwende {command} für weitere Informationen.",
     "none": "keine",
     "error": "Etwas ist schief gelaufen, bitte versuche es später nochmal.",
     "premium": {
