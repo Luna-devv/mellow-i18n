@@ -1,9 +1,9 @@
 {
     "voice": {
-        "title": "Invalid voice selected",
+        "title": "Ungültige Stimme ausgewählt",
         "description": {
-            "1": "The voice you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "You can preview all the voices at {url}."
+            "1": "Die ausgewählte Stimme existiert nicht, bitte verwende die Auto-Vervollständigungsoptionen oder [setzte eine Standard Stimme]({url}).",
+            "2": "Du kannst eine Vorschau aller Stimmen auf {url} sehen."
         }
     },
     "vote": {
@@ -16,12 +16,15 @@
     "error": {
         "title": "Beim Generieren ist ein Fehler aufgetreten",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the voice, try changing the input language or the voice.",
-            "2": "Wenn du denkst, dass dies ein Fehler ist, melde ihn bitte auf unserem [Support Server]({url}), es tut uns leid."
+            "2": "If you believe this to be a bug, please report it in our [support server]({url})."
         }
     },
+    "errors": {
+        "1": "The input language does not match the language of your selected voice, so either change the input language or the voice.",
+        "4": "The voice you selected is no longer available, please choose a different voice or [change your default voice]({url})."
+    },
     "button": {
-        "change_voice": "Change the default voice",
+        "change_voice": "Ändere die Standardstimme",
         "invite_tts": "Hole einen 2. Text zu Sprache Bot",
         "enable_queue": "Nachrichtenwarteschlange aktivieren"
     },
@@ -30,7 +33,7 @@
     "toolong": "Deine Nachricht überschreitet das Serverlimit von {max} mit {count} Zeichen.",
     "alreadyplaying": "Warte, bis die Audio von {user} abgespielt ist, verwende {command} wenn dies feststeckt.",
     "playing": "Spielt jetzt in {channel} für {time} [singular=\"sekunde\" plural=\"sekunden\"].",
-    "cts_exists_notice": "You can also just post messages in {channel} to use Text to Speech, [Learn more]({url}).",
+    "cts_exists_notice": "Du kannst auch einfach Nachrichten in {channel} posten, um Text to Speech zu verwenden, [Erfahre mehr]({url}).",
     "set": {
         "only_you": "Diese Einstellung gilt nur für dich.",
         "default_voice": "Die Standard-Stimme ist jetzt auf {voice} gesetzt.",
