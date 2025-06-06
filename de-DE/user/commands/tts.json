@@ -16,12 +16,12 @@
     "error": {
         "title": "Beim Generieren ist ein Fehler aufgetreten",
         "description": {
-            "2": "If you believe this to be a bug, please report it in our [support server]({url})."
+            "2": "Wenn du glaubst, dass es sich um einen Fehler handelt, melde ihn bitte in unserem [Support Server]({url})."
         }
     },
     "errors": {
-        "1": "The input language does not match the language of your selected voice, so either change the input language or the voice.",
-        "4": "The voice you selected is no longer available, please choose a different voice or [change your default voice]({url})."
+        "1": "Die Eingabesprache stimmt nicht mit der Sprache deiner ausgewählten Stimme überein, also ändere entweder die Eingabesprache oder die Stimme.",
+        "4": "Die von dir ausgewählte Stimme ist nicht mehr verfügbar, bitte wähle eine andere Stimme oder [ändere deine Standardstimme]({url})."
     },
     "button": {
         "change_voice": "Ändere die Standardstimme",
