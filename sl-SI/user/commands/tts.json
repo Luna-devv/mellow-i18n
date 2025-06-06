@@ -1,16 +1,9 @@
 {
-    "channel": {
-        "title": "A Chat to Speech channel is setup",
+    "voice": {
+        "title": "Invalid voice selected",
         "description": {
-            "1": "This server has a dedicated Text to Speech channel setup at {channel}, please post messages in that channel for generating audio.",
-            "2": "If you are a server administrator, you can change or remove the channel [on this servers dashboard]({url})."
-        }
-    },
-    "speaker": {
-        "title": "Invalid speaker selected",
-        "description": {
-            "1": "The speaker you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "The voice you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
+            "2": "You can preview all the voices at {url}."
         }
     },
     "vote": {
@@ -23,12 +16,12 @@
     "error": {
         "title": "There was an error while generating",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the speaker, try changing the input language or the speaker.",
+            "1": "This usually happens if the input language does not match the language of the voice, try changing the input language or the voice.",
             "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
         }
     },
     "button": {
-        "changeSpeaker": "Change default speaker",
+        "change_voice": "Change the default voice",
         "invite_tts": "Get a 2nd Text to Speech Bot",
         "enable_queue": "Enable message queue"
     },
@@ -37,6 +30,7 @@
     "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
     "alreadyplaying": "Wait until the audio by {user} is done playing, use {command} if it's stuck.",
     "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "cts_exists_notice": "You can also just post messages in {channel} to use Text to Speech, [Learn more]({url}).",
     "set": {
         "only_you": "This setting only applies to you.",
         "default_voice": "The default voice is now set to {voice}.",
