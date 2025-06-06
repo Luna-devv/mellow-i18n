@@ -16,9 +16,12 @@
     "error": {
         "title": "Podczas generowania wystąpił błąd",
         "description": {
-            "1": "This usually happens if the input language does not match the language of the voice, try changing the input language or the voice.",
-            "2": "Jeśli uważasz, że to błąd, prosimy o zgłoszenie go na naszym [serwerze wsparcia]({url}), przepraszamy."
+            "2": "If you believe this to be a bug, please report it in our [support server]({url})."
         }
+    },
+    "errors": {
+        "1": "The input language does not match the language of your selected voice, so either change the input language or the voice.",
+        "4": "The voice you selected is no longer available, please choose a different voice or [change your default voice]({url})."
     },
     "button": {
         "change_voice": "Change the default voice",
