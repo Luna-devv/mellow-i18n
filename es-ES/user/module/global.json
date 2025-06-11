@@ -2,14 +2,14 @@
     "noguild": "Este comando no se puede usar dentro de mensajes privados o en el espacio instalado por el usuario.",
     "userdisabled": "Ya no puedes usar este bot, tu cuenta ha sido desactivada.",
     "dmdisabled": "No se pudo enviar el mensaje, tus Mensajes Directos parecen estar deshabilitados.",
-    "bot_mention": "Use {command} for more information.",
+    "bot_mention": "Utilice {command} para obtener más información.",
     "none": "ninguno",
     "error": "Algo salió mal, por favor intente más tarde.",
     "premium": {
         "embed": {
-            "title": "You need {bot} Pro to continue",
-            "pro_title": "The limit of your {bot} Pro was reached!",
-            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
+            "title": "Necesitas {bot} Pro para continuar",
+            "pro_title": "¡Se alcanzó el límite de tu {bot} Pro!",
+            "description": "Para proporcionar un bot estable, y dado que el dinero no crece en los árboles, tengo que bloquear las funciones no esenciales detrás de una suscripción."
         },
         "button": {
             "subscribe": "Suscribir"
@@ -19,8 +19,8 @@
         "add": "Añadir {name}",
         "support": "Soporte",
         "vote": "Vota por {name}",
-        "vote_skip": "Donate to skip voting",
-        "vote_required": "Vote on {site} to continue"
+        "vote_skip": "Donar para omitir el voto",
+        "vote_required": "Vota en {site} para continuar"
     },
     "permissions": {
         "user": {
