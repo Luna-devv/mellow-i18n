@@ -1,26 +1,26 @@
 {
     "custom_pds_connect": {
         "modal": {
-            "title": "Connect 3rd-party PDS",
-            "label": "Your Bluesky or Atproto Handle"
+            "title": "Conectar PDS de terceros",
+            "label": "Tu identificador de Bluesky o Atproto"
         },
-        "invalid_handle": "Your handle ({handle}) is not valid following atproto specifications."
+        "invalid_handle": "Su nombre de usuario ({handle}) no es válido siguiendo las especificaciones de atproto."
     },
-    "connection_broke": "Seems like Bluesky has broken the connection with {bot}, let's fix that by [authorizing again]({url})!",
+    "connection_broke": "Parece que Bluesky ha roto la conexión con {bot}, ¡vamos a arreglarlo [autorizando de nuevo]({url})!",
     "authed_dm": {
-        "title": "You've successfully connected Bluesky!",
-        "description": "If you enjoy using {bot}, would you mind reposting [this bluesky post]({url}) from us?",
-        "sub": "PS: You can react with a light blue 🩵 to any post to like it on bluesky!"
+        "title": "¡Has conectado a Bluesky!",
+        "description": "Si te gusta usar {bot}, ¿te importaría republicar [esta publicación de bluesky]({url}) desde nosotros?",
+        "sub": "PS: ¡Puedes reaccionar con un 🩵 azul claro a cualquier mensaje para darle me gusta en bluesky!"
     },
     "auth": {
-        "title": "Connect your Bluesky account with {bot}!",
+        "title": "¡Conecta tu cuenta de Bluesky con {bot}!",
         "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji!"
     },
     "button": {
-        "view": "View",
-        "repost": "Repost",
-        "connect": "Connect Bluesky",
-        "custom_pds_connect": "Connect using 3rd-party PDS",
-        "connect_as": "Connect Bluesky as {handle}"
+        "view": "Ver",
+        "repost": "Republicar",
+        "connect": "Conectar Bluesky",
+        "custom_pds_connect": "Conectar usando PDS de terceros",
+        "connect_as": "Conectar Bluesky como {handle}"
     }
 }
