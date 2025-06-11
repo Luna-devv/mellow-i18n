@@ -1,9 +1,9 @@
 {
     "voice": {
-        "title": "Invalid voice selected",
+        "title": "Voz seleccionada no válida",
         "description": {
-            "1": "The voice you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "You can preview all the voices at {url}."
+            "1": "La voz seleccionada no existe, por favor, utilice las opciones de autocompletado o [establecer una voz por defecto]({url}).",
+            "2": "Puedes previsualizar todas las voces en {url}."
         }
     },
     "vote": {
