@@ -6,7 +6,7 @@
     },
     "now_playing": "{user} spielt nun {track} für {duration}",
     "now_also_playing": "Du spielst nun auch {track}",
-    "currently_playing": "{user} spielt {track} von {artists} [singular=\"\" plural=\"wiederholend\"]",
+    "currently_playing": "{user} spielt {track} von {artists} [singular=\" \" plural=\"auf repeat\"]",
     "button": {
         "play": "Auf Spotify Spielen"
     }
