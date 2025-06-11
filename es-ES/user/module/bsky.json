@@ -14,7 +14,7 @@
     },
     "auth": {
         "title": "¡Conecta tu cuenta de Bluesky con {bot}!",
-        "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji!"
+        "description": "¡Si tienes una cuenta de Bluesky (o quieres [crear una]({create})), puedes vincularla con {bot} para darle Me gusta a las publicaciones de Bluesky directamente en Discord reaccionando con un emoji de corazón celeste 🩵 a cualquier mensaje que contenga un enlace a una publicación de Bluesky!"
     },
     "button": {
         "view": "Ver",
