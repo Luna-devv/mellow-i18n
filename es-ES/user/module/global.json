@@ -24,7 +24,7 @@
     },
     "permissions": {
         "user": {
-            "guild": "No puedes realizar esta acción ya que te faltan los permisos {perms}.",
+            "guild": "No puedes realizar esta acción, ya que te faltan los permisos {perms}.",
             "channel": "No puedes realizar esta acción porque te faltan los permisos {perms} en este canal.",
             "roles": {
                 "user": {
