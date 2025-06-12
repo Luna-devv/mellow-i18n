@@ -2,7 +2,7 @@
     "noguild": "Questo comando non può essere usato all'interno di messaggi privati o nello spazio installato dall'utente.",
     "userdisabled": "Non puoi più usare questo bot, il tuo account è stato disabilitato.",
     "dmdisabled": "Impossibile inviare il messaggio, i messaggi diretti sembrano essere disabilitati.",
-    "bot_mention": "Use {command} for more information.",
+    "bot_mention": "Usa {command} per maggiori informazioni.",
     "none": "nessuno",
     "error": "Qualcosa è andato storto, riprova più tardi.",
     "premium": {
