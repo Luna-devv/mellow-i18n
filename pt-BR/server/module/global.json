@@ -22,6 +22,6 @@
         "command": "Comando: {var}",
         "action": "Ação: {var}",
         "attempts": "Tentativas: {num} [singular=\"tentativa\" plural=\"tentativas\"]",
-        "reason": "Razão: {var}"
+        "reason": "Motivo: {var}"
     }
 }
