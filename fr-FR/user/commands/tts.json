@@ -1,0 +1,52 @@
+{
+    "voice": {
+        "title": "Invalid voice selected",
+        "description": {
+            "1": "The voice you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
+            "2": "You can preview all the voices at {url}."
+        }
+    },
+    "vote": {
+        "title": "Vote requried for long input",
+        "description": {
+            "1": "Audio generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
+            "2": "Voting for me will allow you access to generate {newamount} characters instead of just {amount} for the next 12 hours!"
+        }
+    },
+    "error": {
+        "title": "There was an error while generating",
+        "description": {
+            "2": "If you believe this to be a bug, please report it in our [support server]({url})."
+        }
+    },
+    "errors": {
+        "1": "The input language does not match the language of your selected voice, so either change the input language or the voice.",
+        "4": "The voice you selected is no longer available, please choose a different voice or [change your default voice]({url})."
+    },
+    "button": {
+        "change_voice": "Change the default voice",
+        "invite_tts": "Get a 2nd Text to Speech Bot",
+        "enable_queue": "Enable message queue"
+    },
+    "novc": "You're not connected to any voice channels.",
+    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
+    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
+    "alreadyplaying": "Wait until the message by {user} is done playing, use {command} if it's stuck.",
+    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
+    "cts_exists_notice": "You can also just post messages in {channel} to use Text to Speech, [Learn more]({url}).",
+    "set": {
+        "only_you": "This setting only applies to you.",
+        "default_voice": "The default voice is now set to {voice}.",
+        "cts": {
+            "enabled": "Chat to Speech has been enabled.",
+            "disabled": "Chat to Speech has been disabled."
+        },
+        "filter": {
+            "cleared": "Disabled all active filters.",
+            "enabled": "Enabled the {filter} filter for the current session.",
+            "disabled": "Disabled the {filter} filter for the current session."
+        }
+    },
+    "stopped": "Playback was terminated and reset.",
+    "web": "Change default voice & fileformat"
+}
