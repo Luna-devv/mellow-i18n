@@ -1,6 +1,6 @@
 {
     "vote": {
-        "title": "Vote to continue using free AI",
+        "title": "Vote para continuar usando a IA gratuita",
         "description": {
             "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
             "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
