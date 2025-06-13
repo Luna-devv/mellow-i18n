@@ -1,52 +1,52 @@
 {
     "voice": {
-        "title": "Invalid voice selected",
+        "title": "Voz selecionada inválida",
         "description": {
-            "1": "The voice you selected does not exist, please use the autocomplete options or [set a default voice]({url}).",
-            "2": "You can preview all the voices at {url}."
+            "1": "A voz que você selecionou não existe, use as opções de preenchimento automático ou [configure uma voz padrão]({url}).",
+            "2": "Você pode visualizar todas as vozes no {url}."
         }
     },
     "vote": {
-        "title": "Vote requried for long input",
+        "title": "Votos solicitados para uma longa entrada",
         "description": {
-            "1": "Audio generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate {newamount} characters instead of just {amount} for the next 12 hours!"
+            "1": "A geração de áudio não cresce em árvores! Apoie-nos com um [voto rápido no top.gg]({url}), permite que pessoas encontrem {name} mais facilmente, obrigado pelo seu apoio!",
+            "2": "Votar em mim lhe permitirá o acesso para gerar caracteres {newamount} em vez de {amount} nas próximas 12 horas!"
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Houve um erro ao gerar",
         "description": {
-            "2": "If you believe this to be a bug, please report it in our [support server]({url})."
+            "2": "Se você acredita que isto é um bug, por favor reporte-o em nosso [servidor de suporte]({url})."
         }
     },
     "errors": {
-        "1": "The input language does not match the language of your selected voice, so either change the input language or the voice.",
-        "4": "The voice you selected is no longer available, please choose a different voice or [change your default voice]({url})."
+        "1": "O idioma de entrada não corresponde ao idioma da voz selecionada, então altere o idioma de entrada ou a voz.",
+        "4": "A voz que você selecionou não está mais disponível, escolha uma voz diferente ou [mude sua voz padrão]({url})."
     },
     "button": {
-        "change_voice": "Change the default voice",
-        "invite_tts": "Get a 2nd Text to Speech Bot",
-        "enable_queue": "Enable message queue"
+        "change_voice": "Alterar a voz padrão",
+        "invite_tts": "\nObtenha um segundo bot de conversão de texto em fala",
+        "enable_queue": "Ativar fila de mensagens"
     },
-    "novc": "You're not connected to any voice channels.",
-    "noplayer": "Text to Speech isn't used at the moment, use {command} first!",
-    "toolong": "Your message exceeds the servers limit of {max} with {count} characters.",
-    "alreadyplaying": "Wait until the message by {user} is done playing, use {command} if it's stuck.",
-    "playing": "Now playing in {channel} for {time} [singular=\"second\" plural=\"seconds\"].",
-    "cts_exists_notice": "You can also just post messages in {channel} to use Text to Speech, [Learn more]({url}).",
+    "novc": "Você não está conectado a nenhum canal de voz.",
+    "noplayer": "O texto para fala não é usado no momento, use {command} primeiro!",
+    "toolong": "Sua mensagem excede o limite do servidor de {max} com {count} caracteres.",
+    "alreadyplaying": "Aguarde até que a mensagem de {user} termine de tocar, use {command} se estiver presa.",
+    "playing": "Tocando agora em {channel} por {time} [singular=\"segundo\" plural=\"segundos\"].",
+    "cts_exists_notice": "Você também pode publicar mensagens no {channel} para usar Texto para Fala, [Saiba mais]({url}).",
     "set": {
-        "only_you": "This setting only applies to you.",
-        "default_voice": "The default voice is now set to {voice}.",
+        "only_you": "Esta configuração só se aplica a você.",
+        "default_voice": "A voz padrão agora está definida como {voice}.",
         "cts": {
-            "enabled": "Chat to Speech has been enabled.",
-            "disabled": "Chat to Speech has been disabled."
+            "enabled": "Conversa para fala foi ativada.",
+            "disabled": "Conversa para fala foi desativada."
         },
         "filter": {
-            "cleared": "Disabled all active filters.",
-            "enabled": "Enabled the {filter} filter for the current session.",
-            "disabled": "Disabled the {filter} filter for the current session."
+            "cleared": "Desabilitado todos os filtros ativos.",
+            "enabled": "Ativou o filtro {filter} para a sessão atual.",
+            "disabled": "Desativou o filtro {filter} para a sessão atual."
         }
     },
-    "stopped": "Playback was terminated and reset.",
+    "stopped": "A reprodução foi encerrada e redefinida.",
     "web": "Alterar a voz e o formato de arquivo padrão"
 }
