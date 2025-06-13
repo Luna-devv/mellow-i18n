@@ -1,0 +1,29 @@
+{
+    "select": {
+        "placeholder": "Manage passport verification overrides.",
+        "options": {
+            "unverify": {
+                "title": "Unverify & Reset",
+                "description": "This will allow and require the user to re-verify."
+            },
+            "punish": {
+                "title": "Punish ({action})",
+                "description": "This will punish the user with the set failed action."
+            },
+            "verify": {
+                "title": "Verify",
+                "description": "This will force-verify the user and give the verified role."
+            }
+        }
+    },
+    "button": {
+        "verified": "由{user}認證",
+        "unverified": "由{user}取消認證",
+        "punised": "由{user}處罰"
+    },
+    "title": {
+        "success": "Passport: Success",
+        "fail": "Passport: Failed"
+    },
+    "manual_verification_warning": "This user is blocked from verifying in the future, they will have to be verified manually by server staff."
+}
