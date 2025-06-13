@@ -13,15 +13,15 @@
         "delete_message": "刪除訊息"
     },
     "logging": {
-        "account": "User: {var}",
-        "joined": "Joined: {var}",
-        "created": "Created: {var}",
+        "account": "用戶: {var}",
+        "joined": "加入日期：{var}",
+        "created": "建立日期：{var}",
         "channel": "Channel: {var}",
         "voice": "Voice: {var}",
-        "message": "Message: **[Jump to message]({url})**",
-        "command": "Command: {var}",
-        "action": "Action: {var}",
-        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
-        "reason": "Reason: {var}"
+        "message": "訊息：**[跳轉到訊息]({url})**",
+        "command": "指令：{var}",
+        "action": "動作：{var}",
+        "attempts": "嘗試次數：{num}",
+        "reason": "原因：{var}"
     }
 }
