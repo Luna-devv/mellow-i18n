@@ -2,12 +2,12 @@
     "vote": {
         "title": "Vote to continue using free AI",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "AI {command}生成不會從天上掉下來！隨手幫我們[投下一票]({url})好讓更多人能夠輕鬆找到{name}，感謝你的支持！",
+            "2": "為我投票能讓你在接下來的12小時無限制的生成AI圖片！"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "可能違法的內容",
         "description": {
             "1": "I have detected possible illegal content in your query, please refrain from using it.",
             "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
