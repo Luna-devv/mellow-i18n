@@ -2,44 +2,44 @@
     "vote": {
         "title": "Vote para continuar usando a IA gratuita",
         "description": {
-            "1": "Ai {command} generation doesn't grow on trees! Support us with a [quick vote on top.gg]({url}), it allows people to find {name} more easily, thank you for your support!",
-            "2": "Voting for me will allow you access to generate as many AI images as you want for the next 12 hours!"
+            "1": "A geração Ai {command} não cresce em árvores! Apoie-nos com uma [votação rápida no top.gg]({url}), permite que as pessoas encontrem {name} mais facilmente, obrigado pelo seu apoio!",
+            "2": "Votar por mim lhe permitirá ter acesso para gerar quantas imagens de IA quiserem nas próximas 12 horas!"
         }
     },
     "illegal": {
-        "title": "Possible illegal content",
+        "title": "Possível conteúdo ilegal",
         "description": {
-            "1": "I have detected possible illegal content in your query, please refrain from using it.",
-            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+            "1": "Eu detectei possíveis conteúdos ilegais na sua consulta, por favor se abstenha de usá-los.",
+            "2": "Se você acha que isso é um erro, por favor, reporte em nosso [servidor de suporte]({url}), obrigado."
         }
     },
     "better_query": {
-        "title": "Know your model and improve queries",
+        "title": "Conheça o seu modelo e melhore as consultas",
         "description": {
-            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
-            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
-            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
-            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+            "1": "A imagem melhora conforme você fornece mais e melhores detalhes na consulta, note que substituir a consulta negativa irá remover a predefinição.",
+            "2": "Você deve [encontrar as diretrizes de uso]({url}) para que o seu modelo obtenha melhores resultados.",
+            "3": "Note-se que nem todos os modelos são bons para tudo, alguns modelos são treinados em anime e outros em imagens realistas.",
+            "4": "Sim, eu posso gerar conteúdo NSFW, mas você só pode usá-lo dentro de [canais marcados por NSFW]({url})."
         },
-        "footer": "This message is only shown once"
+        "footer": "Esta mensagem é exibida apenas uma vez"
     },
     "model": {
-        "title": "Invalid model selected",
+        "title": "Modelo inválido selecionado",
         "description": {
-            "1": "The model you selected does not exist, please use the autocomplete options.",
-            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+            "1": "O modelo que você selecionou não existe, por favor, use as opções de preenchimento automático.",
+            "2": "Se isso continuar acontecendo, por favor peça ajuda em nosso [servidor de suporte]({url}), obrigado."
         }
     },
     "error": {
-        "title": "There was an error while generating",
+        "title": "Houve um erro ao gerar",
         "description": {
-            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+            "2": "Se você acha que isso é um bug, por favor, reporte-o em nosso [servidor de suporte]({url}), pedimos desculpas."
         }
     },
     "button": {
-        "regenerate": "Regenerate",
+        "regenerate": "Gerar novamente",
         "selenite": "Get Gemini Chat Bot",
-        "examples": "View some awesome examples"
+        "examples": "Veja alguns exemplos incríveis"
     },
-    "nsfw_query": "Você colocou safadeza no pedido, não foi? Tente repeti-lo num canal que permite conteúdo adulto!"
+    "nsfw_query": "Você tentou alguma coisa safada na consulta. Mude ou crie um canal marcado como NSFW para usar isso!"
 }
