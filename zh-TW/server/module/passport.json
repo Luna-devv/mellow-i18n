@@ -3,16 +3,16 @@
         "placeholder": "Manage passport verification overrides.",
         "options": {
             "unverify": {
-                "title": "Unverify & Reset",
-                "description": "This will allow and require the user to re-verify."
+                "title": "取消認證並重設",
+                "description": "這麼做將會開放並要求用戶重新認證。"
             },
             "punish": {
                 "title": "Punish ({action})",
                 "description": "This will punish the user with the set failed action."
             },
             "verify": {
-                "title": "Verify",
-                "description": "This will force-verify the user and give the verified role."
+                "title": "認證",
+                "description": "這麼做將會強制認證此用戶並給予已認證身分組。"
             }
         }
     },
