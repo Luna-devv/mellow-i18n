@@ -1,0 +1,27 @@
+{
+    "permissions": {
+        "me": {
+            "guild": "{bot}缺少{perms}權限。",
+            "channel": "{bot}缺少{channel}的{perms}權限。"
+        }
+    },
+    "moderation_actions": {
+        "nothing": "Nothing",
+        "ban": "停權",
+        "kick": "踢出",
+        "role": "指派身分組",
+        "delete_message": "刪除訊息"
+    },
+    "logging": {
+        "account": "User: {var}",
+        "joined": "Joined: {var}",
+        "created": "Created: {var}",
+        "channel": "Channel: {var}",
+        "voice": "Voice: {var}",
+        "message": "Message: **[Jump to message]({url})**",
+        "command": "Command: {var}",
+        "action": "Action: {var}",
+        "attempts": "Attempts: {num} [singular=\"try\" plural=\"tries\"]",
+        "reason": "Reason: {var}"
+    }
+}
