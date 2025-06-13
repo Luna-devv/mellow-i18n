@@ -1,0 +1,17 @@
+{
+    "title": "Hey there, {username}",
+    "notice": {
+        "1": "Thanks for voting, it really helps us alot!",
+        "2": "If you want to continue supporting this project by [voting on top.gg]({url}), please consider enabling the vote reminder using the button below!",
+        "3": "You only recieve this message once."
+    },
+    "reminder": {
+        "1": "You are now able to vote again for me on top.gg!",
+        "2": "Vote to keep awesome perks such as a [voter role in our community server]({url}) and more as shown in {command}.",
+        "3": "Thank you alot, I really appreciate you!",
+        "4": "Disable using {command}"
+    },
+    "button": {
+        "enable": "Enable vote reminder"
+    }
+}
