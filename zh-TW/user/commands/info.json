@@ -1,8 +1,8 @@
 {
-    "messages": "Messages",
-    "name": "Name",
-    "created": "Created",
-    "joined": "Joined",
+    "messages": "訊息",
+    "name": "名稱",
+    "created": "建立時間",
+    "joined": "加入時間",
     "invites": "Invites",
     "guilds": "Guilds",
     "voice": "Voice",
