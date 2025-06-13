@@ -1,6 +1,6 @@
 {
     "error": {
-        "config": "Starboard is not setup in this guild, [setup starboard]({url}) in the dashboard.",
+        "config": "O Starboard não está configurado nesta guilda, [configurar starboard]({url}) no painel de controle.",
         "content": "This message does not have any content, attachments, embeds or stickers.",
         "alreadyexists": "This message is already in the starboard, [jump to the message]({url})!"
     },
