@@ -3,7 +3,7 @@
     "userdisabled": "You can no longer use this bot, your account has been disabled.",
     "dmdisabled": "Couldn't send you the message, your Direct Messages seem to be disabled.",
     "bot_mention": "Use {command} for more information.",
-    "none": "none",
+    "none": "無",
     "error": "Something went wrong, please try again later.",
     "premium": {
         "embed": {
@@ -12,13 +12,13 @@
             "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
         },
         "button": {
-            "subscribe": "Subscribe"
+            "subscribe": "訂閱"
         }
     },
     "button": {
-        "add": "Add {name}",
+        "add": "新增{name}",
         "support": "Support",
-        "vote": "Vote for {name}",
+        "vote": "為{name}投票",
         "vote_skip": "Donate to skip voting",
         "vote_required": "Vote on {site} to continue"
     },
