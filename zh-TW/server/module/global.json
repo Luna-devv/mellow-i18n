@@ -6,18 +6,18 @@
         }
     },
     "moderation_actions": {
-        "nothing": "Nothing",
+        "nothing": "無",
         "ban": "停權",
         "kick": "踢出",
         "role": "指派身分組",
         "delete_message": "刪除訊息"
     },
     "logging": {
-        "account": "用戶: {var}",
+        "account": "用戶：{var}",
         "joined": "加入日期：{var}",
         "created": "建立日期：{var}",
-        "channel": "Channel: {var}",
-        "voice": "Voice: {var}",
+        "channel": "頻道：{var}",
+        "voice": "語音：{var}",
         "message": "訊息：**[跳轉到訊息]({url})**",
         "command": "指令：{var}",
         "action": "動作：{var}",
