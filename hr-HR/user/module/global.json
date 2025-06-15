@@ -2,7 +2,7 @@
     "noguild": "Ova se naredba ne može koristiti unutar privatnih poruka ili u prostoru koji instalira korisnik.",
     "userdisabled": "Više ne možete koristiti ovog bota, vaš račun je onemogućen.",
     "dmdisabled": "Ne mogu vam poslati poruku, čini se da su vaše izravne poruke onemogućene.",
-    "botmention": "Hej {user}, koristi **{emote} SlashNaredbe** da me iskoristiš!\nKoristite {command} za više informacija.",
+    "bot_mention": "Use {command} for more information.",
     "none": "prazno",
     "error": "Nešto nije u redu, pokušajte ponovo kasnije.",
     "premium": {

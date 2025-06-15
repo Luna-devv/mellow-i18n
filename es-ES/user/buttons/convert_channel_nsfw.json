@@ -1,5 +1,5 @@
 {
-    "success": "{user} marcó este canal como Restringido de Edad, tú puedes ahora correr {command} para crear contenido NSFW",
+    "success": "{user} marcó este canal como Restringido de Edad, tú puedes ahora correr {command} para crear contenido NSFW.",
     "tutorial": {
         "title": "Cómo marcar un canal como NSFW",
         "description": {

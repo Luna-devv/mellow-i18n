@@ -1,0 +1,45 @@
+{
+    "vote": {
+        "title": "Vote to continue using free AI",
+        "description": {
+            "1": "AI {command}生成不會從天上掉下來！隨手幫我們[投下一票]({url})好讓更多人能夠輕鬆找到{name}，感謝你的支持！",
+            "2": "為我投票能讓你在接下來的12小時無限制的生成AI圖片！"
+        }
+    },
+    "illegal": {
+        "title": "可能違法的內容",
+        "description": {
+            "1": "I have detected possible illegal content in your query, please refrain from using it.",
+            "2": "If you think this is a mistake, please report it on our [support server]({url}), thank you."
+        }
+    },
+    "better_query": {
+        "title": "Know your model and improve queries",
+        "description": {
+            "1": "The image improves as you provide more and better details in the query, note that overwriting the negative query will remove the preset.",
+            "2": "You should [find the usage guidelines]({url}) for your model to get better results.",
+            "3": "Note that not every model is good for everything, some models are trained on anime and some other on realistic images.",
+            "4": "Yes, I can generate NSFW content, but you can only use it inside of [NSFW marked channels]({url})."
+        },
+        "footer": "This message is only shown once"
+    },
+    "model": {
+        "title": "Invalid model selected",
+        "description": {
+            "1": "The model you selected does not exist, please use the autocomplete options.",
+            "2": "If this continues to happen, please ask in our [support server]({url}), thank you."
+        }
+    },
+    "error": {
+        "title": "There was an error while generating",
+        "description": {
+            "2": "If you think this is a bug, please report it on our [support server]({url}), we're sorry."
+        }
+    },
+    "button": {
+        "regenerate": "Regenerate",
+        "selenite": "Get Gemini Chat Bot",
+        "examples": "View some awesome examples"
+    },
+    "nsfw_query": "You tried some naughty stuff in the query.. Switch to or create an NSFW marked channel to use such!"
+}

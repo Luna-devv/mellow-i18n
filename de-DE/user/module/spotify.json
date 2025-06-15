@@ -1,12 +1,12 @@
 {
-    "auhtorize": "If you are a beta-tester, authorize me to access your spotify account! Contact support if you want to become a tester.",
+    "auhtorize": "Wenn du ein Beta-Tester bist, autorisiere mich um auf deinen Spotify zuzugreifen! Kontaktiere den Support, wenn du ein Tester werden möchtest.",
     "error": {
         "missing_track": "Es wurde kein Titel zum Abspielen angegeben.",
         "invalid_track": "Es sieht so aus, als ob dies kein Spotify Song ist.."
     },
     "now_playing": "{user} spielt nun {track} für {duration}",
     "now_also_playing": "Du spielst nun auch {track}",
-    "currently_playing": "{user} spielt {track} von {artists} [singular=\"\" plural=\"wiederholend\"]",
+    "currently_playing": "{user} spielt {track} von {artists} [singular=\" \" plural=\"auf repeat\"]",
     "button": {
         "play": "Auf Spotify Spielen"
     }

@@ -1,5 +1,5 @@
 {
-    "none": "You dont have any tags yet",
+    "none": "Nie masz jeszcze żadnych tagów",
     "title": {
         "text": "Text [singular=\"Command\" plural=\"Commands\"] ({amount})",
         "slash": "Slash [singular=\"Command\" plural=\"Commands\"] ({amount})"

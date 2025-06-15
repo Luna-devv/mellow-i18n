@@ -1,16 +1,26 @@
 {
+    "custom_pds_connect": {
+        "modal": {
+            "title": "Connect 3rd-party PDS",
+            "label": "Your Bluesky or Atproto Handle"
+        },
+        "invalid_handle": "Your handle ({handle}) is not valid following atproto specifications."
+    },
+    "connection_broke": "Wygląda na to, że Bluesky przerwał połączenie z {bot}, możesz to naprawić poprzez [ponowną autoryzację]({url})!",
     "authed_dm": {
-        "title": "You've successfully connected Bluesky!",
-        "description": "If you enjoy using {bot}, would you mind reposting [this bluesky post]({url}) from us?",
-        "sub": "PS: You can react with a light blue 🩵 to any post to like it on bluesky!"
+        "title": "Pomyślnie połączono z Bluesky!",
+        "description": "Jeśli lubisz używać {bot}, czy mógłbyś repostować [ten post na Bluesky]({url}) od nas?",
+        "sub": "PS: Możesz zareagować jasnoniebieskim sercem 🩵 na każdy post, aby go polubić na Bluesky!"
     },
     "auth": {
-        "title": "Connect your Bluesky account with {bot}!",
-        "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji to any message containing a bluesky post link!"
+        "title": "Połącz swoje konto Bluesky z {bot}!",
+        "description": "Jeśli masz konto Bluesky (lub chcesz [je utworzyć]({create})), możesz połączyć je z {bot} aby polubić wpisy bezpośrednio w Discordzie reagując emoji jasnoniebieskiego serca 🩵 na wiadomość zawierającą link do wpisu na Bluesky!"
     },
     "button": {
-        "view": "View",
-        "repost": "Repost",
-        "connect": "Connect Bluesky"
+        "view": "Wyświetl",
+        "repost": "Repostuj",
+        "connect": "Połącz z Bluesky",
+        "custom_pds_connect": "Connect using 3rd-party PDS",
+        "connect_as": "Connect Bluesky as {handle}"
     }
 }

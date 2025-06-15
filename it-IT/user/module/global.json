@@ -2,14 +2,14 @@
     "noguild": "Questo comando non può essere usato all'interno di messaggi privati o nello spazio installato dall'utente.",
     "userdisabled": "Non puoi più usare questo bot, il tuo account è stato disabilitato.",
     "dmdisabled": "Impossibile inviare il messaggio, i messaggi diretti sembrano essere disabilitati.",
-    "botmention": "Ciao {user}, usa gli **{emote} SlashCommand** per configurarmi!\nUsa {command} per più informazioni.",
+    "bot_mention": "Usa {command} per maggiori informazioni.",
     "none": "nessuno",
     "error": "Qualcosa è andato storto, riprova più tardi.",
     "premium": {
         "embed": {
-            "title": "You need {bot} Pro to continue",
-            "pro_title": "The limit of your {bot} Pro was reached!",
-            "description": "In order to provide a stable bot, and since money doesn't grow on trees, I have to lock non-essential features behind a subscription."
+            "title": "Hai bisogno di {bot} Pro per continuare",
+            "pro_title": "Il limite del tuo {bot} Pro è stato raggiunto!",
+            "description": "Per garantire un bot stabile e poiché i soldi non crescono sugli alberi, devo bloccare le funzionalità non essenziali dietro un abbonamento."
         },
         "button": {
             "subscribe": "Abbonati"
@@ -20,7 +20,7 @@
         "support": "Supporto",
         "vote": "Vota per {name}",
         "vote_skip": "Supportaci per saltare la votazione",
-        "vote_required": "Vote on {site} to continue"
+        "vote_required": "Vota su {site} per continuare"
     },
     "permissions": {
         "user": {
@@ -49,7 +49,7 @@
                     "bot": "Io: {b.role} @ index {b.index}"
                 },
                 "role": {
-                    "text": "I cannot perform this action since my highest role is lower than the role to manage.",
+                    "text": "Non posso eseguire questa azione poiché il mio ruolo più alto è inferiore al ruolo da gestire.",
                     "user": "Ruolo: {u.role} @ index {u.index}",
                     "bot": "Io: {b.role} @ index {b.index}"
                 }

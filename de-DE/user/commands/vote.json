@@ -2,7 +2,7 @@
     "title": "Unterstütze mich durch Voten!",
     "description": {
         "1": "Es ist so, als würde man uns Geld geben, ohne Geld zu geben! Unterstütze uns mit einem [schnellen Vote auf top.gg]({url}), es erlaubt anderen, {name} leichter zu finden, vielen Dank für deine Unterstützung!",
-        "2": "Wenn du für mich Votest, kannst du an einigen Orten höhere Grenzen und eine [Voter-Rolle in unserem Community Server]({url}) für die nächsten 12 Stunden erreichen!"
+        "2": "Wenn du für mich Votest, kannst du an einigen Orten höhere Limits sowie eine [Voter-Rolle in unserem Community Server]({url}) für die nächsten 12 Stunden erhalten!"
     },
     "already": "du hast heute bereits gevoted, komme in {time} um wieder zu voten!"
 }

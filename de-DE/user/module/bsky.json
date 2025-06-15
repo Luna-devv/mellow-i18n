@@ -1,16 +1,26 @@
 {
+    "custom_pds_connect": {
+        "modal": {
+            "title": "Drittanbieter PDS verbinden",
+            "label": "Dein Bluesky oder Atproto Handle"
+        },
+        "invalid_handle": "Dein Handle ({handle}) ist nach den atproto-Spezifikationen nicht gültig."
+    },
+    "connection_broke": "Anscheinend hat Bluesky die Verbindung mit {bot} unterbrochen, lass uns das durch [erneute Autorisierung]({url}) beheben!",
     "authed_dm": {
-        "title": "You've successfully connected Bluesky!",
-        "description": "If you enjoy using {bot}, would you mind reposting [this bluesky post]({url}) from us?",
-        "sub": "PS: You can react with a light blue 🩵 to any post to like it on bluesky!"
+        "title": "Du hast Bluesky erfolgreich verbunden!",
+        "description": "Wenn dir {bot} gefällt, würdest du dann bitte [diesen bluesky-Beitrag] ({url}) von uns reposten?",
+        "sub": "PS: Du kannst mit einem hellblauen 🩵 auf jede Nachricht reagieren, um ihn auf bluesky zu liken!"
     },
     "auth": {
-        "title": "Connect your Bluesky account with {bot}!",
-        "description": "If you have a Bluesky account (or want to [create one]({create})), you can link it with {bot} to like Bluesky posts directly within Discord by reacting with a light blue 🩵 heart emoji to any message containing a bluesky post link!"
+        "title": "Verbinde deinen Bluesky Account mit {bot}!",
+        "description": "Wenn du einen Bluesky-Account hast (oder einen [erstellen willst]({create})), kannst du ihn mit {bot} verbinden, um Bluesky-Posts direkt in Discord zu liken, indem du mit einem hellblauen 🩵 Herz-Emoji auf jede Nachricht reagierst, die einen Bluesky Post Link enthält!"
     },
     "button": {
-        "view": "View",
-        "repost": "Repost",
-        "connect": "Connect Bluesky"
+        "view": "Anschauen",
+        "repost": "Reposten",
+        "connect": "Bluesky Verbinden",
+        "custom_pds_connect": "Mit Drittanbieter PDS verbinden",
+        "connect_as": "Bluesky als {handle} verbinden"
     }
 }

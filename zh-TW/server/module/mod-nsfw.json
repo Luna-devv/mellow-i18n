@@ -1,0 +1,12 @@
+{
+    "title": "NSFW Image Detected",
+    "analysis": "分析",
+    "description": "{percent} nsfw ({threshold} threshold)",
+    "thread": {
+        "name": "Image attachment (NSFW)",
+        "message": "Reupload of an image sent by {user}"
+    },
+    "button": {
+        "update_threshold": "修改閥值（{threshold}%）"
+    }
+}

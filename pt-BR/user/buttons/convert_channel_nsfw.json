@@ -1,12 +1,12 @@
 {
-    "success": "{user} marked this channel as Age-Restricted, you may now run {command} to generate NSFW content.",
+    "success": "{user} marcou esse canal como Restrito, agora você pode executar {command} para gerar conteúdo NSFW.",
     "tutorial": {
-        "title": "How to mark a channel as NSFW",
+        "title": "Como marcar um canal como NSFW",
         "description": {
-            "1": "You do not own or manage this server, [invite {bot} to your own server]({url}) or ask a Server Administrator to follow the steps below.",
-            "2": "1. (mobile) Tap the channel name and select 'Settings'.",
-            "3": "1. (desktop) Right-click the channel name and select 'Edit Channel'.",
-            "4": "2. Scroll down and enable 'Age-Restricted Channel'.",
+            "1": "Você não é proprietário ou gerencia este servidor, [invite {bot} to your own server]({url}) ou peça a um administrador do servidor para seguir as etapas abaixo.",
+            "2": "1. (dispositivos móveis) Toque no nome do canal e selecione 'Configurações'.",
+            "3": "1. (Computador) Clique direito no nome do canal e selecione \"Editar Canal\".",
+            "4": "2. Deslize para baixo e ative 'Canal Restrito'.",
             "5": "3. Clique em 'Salvar alterações'."
         }
     }

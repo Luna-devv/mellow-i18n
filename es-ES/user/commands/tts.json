@@ -1,16 +1,9 @@
 {
-    "channel": {
-        "title": "Un canal de Chat a Voz está configurado",
+    "voice": {
+        "title": "Voz seleccionada no válida",
         "description": {
-            "1": "Este servidor tiene una configuración de canal de texto a voz dedicada en {channel}, por favor publique mensajes en ese canal para generar audio.",
-            "2": "Si usted es un administrador del servidor, puede cambiar o eliminar el canal [en este panel de control de este servidor]({url})."
-        }
-    },
-    "speaker": {
-        "title": "Hablador seleccionado no válido",
-        "description": {
-            "1": "El hablador seleccionado no existe, por favor, utilice las opciones de autocompletado o [establecer una voz predeterminada]({url}).",
-            "2": "Si esto sigue sucediendo, por favor pregunte en nuestro [servidor de soporte]({url}), gracias."
+            "1": "La voz seleccionada no existe, por favor, utilice las opciones de autocompletado o [establecer una voz predeterminada]({url}).",
+            "2": "Puedes previsualizar todas las voces en {url}."
         }
     },
     "vote": {
@@ -23,12 +16,15 @@
     "error": {
         "title": "Hubo un error mientras se generaba",
         "description": {
-            "1": "Esto suele ocurrir si el idioma de entrada no coincide con el idioma del hablante, intente cambiar el idioma de entrada o el hablante.",
-            "2": "Si crees que esto es un error, por favor infórmanos en nuestro [servidor de soporte]({url}), lo sentimos."
+            "2": "Si crees que esto es un error, por favor infórmanos en nuestro [servidor de soporte]({url})."
         }
     },
+    "errors": {
+        "1": "El idioma de entrada no coincide con el idioma de su voz seleccionada, así que cambie el idioma de entrada o la voz.",
+        "4": "La voz que has seleccionado ya no está disponible, por favor elige una voz diferente o [cambia tu voz predeterminada]({url})."
+    },
     "button": {
-        "changeSpeaker": "Cambia hablador predeterminado",
+        "change_voice": "Cambiar la voz predeterminada",
         "invite_tts": "Consigue un 2do bot de texto a voz",
         "enable_queue": "Activar cola de mensajes"
     },
@@ -37,6 +33,7 @@
     "toolong": "Tu mensaje excede el límite de {max} en el servidor con caracteres {count}.",
     "alreadyplaying": "Espera hasta que el mensaje de {user} se termine de escuchar, usa {command} si está atascado.",
     "playing": "Reproduciendo ahora en {channel} por {time} [singular=\"segundo\" plural=\"segundos\"].",
+    "cts_exists_notice": "También puedes simplemente publicar mensajes en {channel} para usar Texto a voz, [Más información]({url}).",
     "set": {
         "only_you": "Esta configuración solamente se aplica a usted.",
         "default_voice": "La voz predeterminada ahora está configurada a {voice}.",
