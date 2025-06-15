@@ -1,2 +1,2 @@
 # Wamellow Translations
-Go to [wamellow.com/translate](https://wamellow.com/translate) for more information
+Go to [translate.wamellow.com](https://translate.wamellow.com) for more information
